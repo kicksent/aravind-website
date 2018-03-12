@@ -26,7 +26,6 @@ github_username:  iyeraravind
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 name: Aravind Iyer
-repository: "iyeraravind/iyeraravind.github.io"
 search: true
 
 
