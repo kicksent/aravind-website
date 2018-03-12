@@ -18,8 +18,8 @@ email: aravindiyer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An attempt at making a website hosted on Github Pages using Jekyll
   with the awesome theme Minimal Mistakes. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "iyeraravind.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "iyeraravind.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aravindiyer
 github_username:  iyeraravind
 
