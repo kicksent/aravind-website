@@ -1,0 +1,10 @@
+# /_data/navigation.yml
+
+main:
+  - title: "Bio"
+    url: /bio/
+  - title: "Blog"
+    url: /blog/
+  - title: "Math to Code"
+    url: /puzzles/
+
