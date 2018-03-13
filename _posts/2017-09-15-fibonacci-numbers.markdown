@@ -3,6 +3,7 @@ title: "Fibonacci Numbers"
 author: Aravind Iyer
 date: 2017-09-15 16:00:00 +0530
 tags: puzzles
+mathjax: true
 ---
 
 ## Generating Fibonacci Numbers
