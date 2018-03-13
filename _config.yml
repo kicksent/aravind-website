@@ -24,7 +24,7 @@ twitter_username: aravindiyer
 github_username:  iyeraravind
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 name: Aravind Iyer
 search: true
 
