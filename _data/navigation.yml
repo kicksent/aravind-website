@@ -3,6 +3,8 @@
 main:
   - title: "Bio"
     url: /bio/
+  - title: "Music Naka"
+    url: /music-naka/
   - title: "Blog"
     url: /blog/
   - title: "Math to Code"
