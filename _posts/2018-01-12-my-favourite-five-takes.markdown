@@ -4,7 +4,8 @@ author: Aravind Iyer
 date: 2018-01-12 15:00:00 +0530
 ---
 
-![Listening to Take Five for the umpteenth time!]({{ "/assets/images/20180110_143300.jpg" | absolute url }}"Music Player showing Take Five playing")
+![Listening to Take Five for the umpteenth time!]({{ "/assets/images/20180110_143300.jpg" | absolute url }}
+"Music Player showing Take Five playing")
 
 Remarkable as it may seem, it was from
 [Trilok Gurtu](https://en.wikipedia.org/wiki/Trilok_Gurtu), the legendary fusion musician and percussionist, that I first heard about the song
