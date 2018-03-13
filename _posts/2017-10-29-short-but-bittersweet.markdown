@@ -2,6 +2,7 @@
 title: "Short but Bittersweet"
 author: Aravind Iyer
 date: 2017-10-29 09:15:00 +0530
+tags: music-naka
 ---
 ## The musical life of Emily Remler
 

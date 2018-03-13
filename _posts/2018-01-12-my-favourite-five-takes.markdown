@@ -2,6 +2,7 @@
 title: "My Favourite Five Takes on Take Five"
 author: Aravind Iyer
 date: 2018-01-12 15:00:00 +0530
+tags: music-naka
 ---
 
 ![Listening to Take Five for the umpteenth time!]({{ "/assets/images/20180110_143300.jpg" | absolute url }}
