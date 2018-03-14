@@ -6,14 +6,6 @@ tags: puzzles
 mathjax: true
 ---
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    "HTML-CSS": {
-      mtextFontInherit: true
-    }
-  });
-</script>
-
 ## Generating Fibonacci Numbers
 Fibonacci numbers form a sequence denoted by $$F_n$$ and are defined as follows:
 
