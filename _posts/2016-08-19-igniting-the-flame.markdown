@@ -4,7 +4,7 @@ author: Aravind Iyer
 date: 2016-08-19 09:00:00 +0530
 tags: music-naka
 header:
-   teaser: 
+   teaser: "/assets/images/Liner-notes-table.jpg" 
 ---
 ## How I discovered the Mahavishnu Orchestra
 
