@@ -5,6 +5,8 @@ main:
     url: /bio/
   - title: "Music Naka"
     url: /music-naka/
+  - title: "Only Human"
+    url: /only-human/
   - title: "Blog"
     url: /blog/
   - title: "From Math to Code"
