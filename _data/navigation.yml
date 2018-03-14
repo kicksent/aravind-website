@@ -1,14 +1,16 @@
 # /_data/navigation.yml
 
 main:
-  - title: "Bio"
-    url: /bio/
+  - title: "About"
+    url: /about/
   - title: "Music Naka"
     url: /music-naka/
   - title: "Only Human"
     url: /only-human/
   - title: "Blog"
     url: /blog/
+  - title: "Line Art"
+    url: /line-art/
   - title: "From Math to Code"
     url: /puzzles/
 
