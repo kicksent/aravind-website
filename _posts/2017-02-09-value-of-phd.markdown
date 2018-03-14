@@ -1,7 +1,7 @@
 ---
-title: "The Ambivalence of Loneliness"
+title: "The Value of a PhD: Waste of Time or Way of Life"
 author: Aravind Iyer
-date: 2017-02-02 17:08:00 +0530
+date: 2017-02-09 17:08:00 +0530
 tags: only-human
 header:
    teaser: "/assets/images/TheAcademic.jpg"
