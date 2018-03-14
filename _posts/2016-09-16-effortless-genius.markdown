@@ -3,6 +3,8 @@ title: "Effortless Genius"
 author: Aravind Iyer
 date: 2016-09-16 10:30:00 +0530
 tags: music-naka
+header:
+   teaser: "/assets/images/wes-montgomery.jpg"
 ---
 ## The unique appeal of Wes Montgomery
 
@@ -46,4 +48,4 @@ Effortless genius — the notion is a bit fanciful, isn’t it? Maybe our fa
 <a name="FT10"></a> [10.](#FT10REF) Jazz singer [Nancy Wilson](https://www.npr.org/people/2101390/nancy-wilson) profiles [Wes Montgomery](https://www.npr.org/2007/09/26/14687657/wes-montgomery-the-unmistakable-jazz-guitar) as part of NPR’s [Jazz Profiles](https://www.npr.org/series/10208861/npr-s-jazz-profiles). Narrated in Wilson’s lush voice and filled with sound bites and interview clips from musicians, jazz producers and jazz writers, this is one of the best stories and a moving tribute to the great Wes Montgomery.
 
 ## Music
-[1.] [The Incredible Jazz Guitar of Wes Montgomery](https://en.wikipedia.org/wiki/The_Incredible_Jazz_Guitar_of_Wes_Montgomery), [*Wes Montgomery*](https://en.wikipedia.org/wiki/Wes_Montgomery), 1960. Band members: [Wes Montgomery](https://en.wikipedia.org/wiki/Wes_Montgomery) (electric guitar), [Tommy Flanagan](https://en.wikipedia.org/wiki/Tommy_Flanagan) (piano), [Percy Heath](https://en.wikipedia.org/wiki/Percy_Heath) (bass) and [Albert Heath](https://en.wikipedia.org/wiki/Albert_Heath) (drums).
+1. [The Incredible Jazz Guitar of Wes Montgomery](https://en.wikipedia.org/wiki/The_Incredible_Jazz_Guitar_of_Wes_Montgomery), [*Wes Montgomery*](https://en.wikipedia.org/wiki/Wes_Montgomery), 1960. Band members: [Wes Montgomery](https://en.wikipedia.org/wiki/Wes_Montgomery) (electric guitar), [Tommy Flanagan](https://en.wikipedia.org/wiki/Tommy_Flanagan) (piano), [Percy Heath](https://en.wikipedia.org/wiki/Percy_Heath) (bass) and [Albert Heath](https://en.wikipedia.org/wiki/Albert_Heath) (drums).

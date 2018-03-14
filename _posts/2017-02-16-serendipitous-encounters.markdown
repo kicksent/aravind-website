@@ -3,6 +3,8 @@ title: "Serendipitous Encounters"
 author: Aravind Iyer
 date: 2017-02-16 10:25:00 +0530
 tags: music-naka
+header:
+   teaser: "/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg"
 ---
 ## with the genius of Uli Jon Roth
 
