@@ -4,10 +4,10 @@ author: Aravind Iyer
 date: 2017-12-15 16:02:00 +0530
 tags: personal
 header:
-   teaser: "/assets/images//assets/images/reluctant-photographer.jpg"
+   teaser: "/assets/images/reluctant-photographer.jpg"
 ---
 
-![Yours truly at Jog Falls, Karnataka. What an amazing place to be! (Picture courtesy of Avantika Shastri]({{ "/assets/images//assets/images/reluctant-photographer.jpg" | absolute url }} "Aravind Iyer at Jog Falls")
+![Yours truly at Jog Falls, Karnataka. What an amazing place to be! (Picture courtesy of Avantika Shastri]({{ "/assets/images/reluctant-photographer.jpg" | absolute url }} "Aravind Iyer at Jog Falls")
 
 “Photography is an indulgent hobby!” I remember telling a friend in college. She smiled. Then she turned to her camera, peered into her viewfinder and clicked another picture. Soon, some others from our group caught up with us and we continued onwards in one of our hikes in Maharashtra’s Western Ghats. It was a strange thing to say given the lush green vegetation covering the beautiful mountains around us, with every angle offering an arresting view. I had meant to say that photography seemed to consume money, time and attention which could perhaps be better utilised towards other causes. My friend probably did not agree, but I think she got what I was trying to say. Anyway, I had my due reasons to think that way, having had a pretty disastrous relationship with photography up until that time.
 
