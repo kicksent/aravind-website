@@ -4,11 +4,12 @@ author: Aravind Iyer
 date: 2018-01-18 16:30:00 +0530
 tags: music-naka
 header:
-   overlay_image: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg"
-   caption: "Jaga Jazzist (picture courtesy of [Wallpaperscraft](https://wallpaperscraft.com/download/jaga_jazzist_band_faces_line_wall_12987/1920x1080))"
    teaser: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg"
 ---
 ## Electronic Jazz from Jaga Jazzist
+
+![Jaga Jazzist (picture courtesy of [Wallpaperscraft](https://wallpaperscraft.com/download/jaga_jazzist_band_faces_line_wall_12987/1920x1080))]({{ "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg" | absolute url }}
+ "Jaga Jazzist band members")
 
 Does [art imitate life](https://www.psychologytoday.com/blog/the-psychology-fiction/201104/does-art-imitate-life),
 or does [life imitate art](https://en.wikipedia.org/wiki/Life_imitating_art)? It is a question that has been
