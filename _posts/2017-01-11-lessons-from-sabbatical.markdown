@@ -6,7 +6,7 @@ tags: only-human
 header:
    teaser: "/assets/images/IMG_20170110_135335111-01.jpg"
 toc: true
-toc_label: "Lessons from a Sabbatical"
+toc_label: "Lessons"
 ---
 {% include figure image_path="/assets/images/IMG_20170110_135335111-01.jpg" alt="Desk with laptop, headphones and a book" %}
 

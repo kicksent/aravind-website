@@ -8,7 +8,7 @@ header:
 ---
 ## with the genius of Uli Jon Roth
 
-![Picture courtesy of Andreas Lawen (original at [WikiMedia](https://commons.wikimedia.org/wiki/File:Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg))]({{ "/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg" | absolute url }} "Uli Jon Roth playing guitar")
+{% include figure caption="Picture courtesy of Andreas Lawen (original at [WikiMedia](https://commons.wikimedia.org/wiki/File:Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg))" image_path="/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg" alt="Uli Jon Roth playing guitar" %}
 
 We have a fundamental fascination with chance and yet we are confused by it. The instinctive and the rational forces in our minds which so often collaborate to help us in our endeavours, suddenly turn against each other when it comes to reckoning chance. We feel that hard work gives us but modest success which we cannot risk throwing away to chance, and yet that only good luck can give us the glory. The higher the stakes the stronger is our aversion to leaving things to chance, and the stronger is our desire for good luck. But when the stakes are low and we unencumbered by the weight of expectations, it is then that chance has a way of surprising us and making our lives richer. It was through just such a happenstance that I discovered the genius of [Uli Jon Roth](https://en.wikipedia.org/wiki/Uli_Jon_Roth).
 

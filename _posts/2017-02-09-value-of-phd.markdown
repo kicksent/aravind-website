@@ -5,9 +5,11 @@ date: 2017-02-09 17:08:00 +0530
 tags: only-human
 header:
    teaser: "/assets/images/TheAcademic.jpg"
+toc: true
+toc_title: "Values"
 ---
 
-![]({{ "/assets/images/TheAcademic.jpg" | absolute url }} "Aravind Iyer at graduation")
+{% include figure image_path="/assets/images/TheAcademic.jpg" alt="Aravind Iyer at graduation" %}
 
 A correspondent of [The Economist](http://www.economist.com/) wrote an article in 2010, entitled "[The Disposable Academic: Why doing a PhD is often a waste of time](http://www.economist.com/node/17723223)". I myself came across it recently when it was republished a couple of months ago at [Medium](http://medium.com/the-economist/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb) and garnered renewed interest in social media and discussions with friends. Perhaps you should read it, in case you haven't done so before. It is thought-provoking and raises questions about the role of a PhD in society, lack of employment opportunities in the academic domain, the difficulty that PhDs face in crossing over to the industry, and the lack of a significant salary premium over a lower degree. As a PhD myself, the cynical tone of the article did not sit well with me. Naturally, I am tempted to respond.
 

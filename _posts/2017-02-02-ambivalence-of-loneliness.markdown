@@ -7,7 +7,7 @@ header:
    teaser: "/assets/images/Lonely-elder.jpg"
 ---
 
-![Enjoying the solitude or feeling lonely? (Picture courtesy of Aravind Iyer)]({{ "/assets/images/Lonely-elder.jpg" | absolute url }} "An old man soaking up the sun")
+{% include figure caption="Enjoying the solitude or feeling lonely? (Picture courtesy of Aravind Iyer)" image_path="/assets/images/Lonely-elder.jpg" alt="An old man soaking up the sun" %}
 
 As an infant baby, it is inconceivable that we can be left alone. Our life is punctuated by constant care, most of it provided by our mother, but a lot of which also comes from the close support system of father, grandmother, nanny, nurse and a few other near and dear ones. As our senses develop, we start to gain the ability to tell people apart. With the onset of that ability, we partition the world into an inner circle which consists of our constant care-givers, and the rest of the world. We are almost unconditionally trusting and intimate with those in our inner circle, and at the same time, reluctant to mingle with the rest. We want the company of our near ones, and solitude from strangers. We don’t want to be lonely, and yet we want to be left alone.
 

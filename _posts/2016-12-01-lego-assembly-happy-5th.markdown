@@ -82,7 +82,7 @@ We decided we would make it a scripted building activity with instructions. Laas
 
 First we decided to lay out all the Lego to count how many pieces we had. This was the result!
 
-{% include figure url="/assets/images/all-the-lego-duplo-pieces.jpg" image_path="/assets/images/all-the-lego-duplo-pieces.jpg" alt="Lots of Lego Duplo pieces laid out on the floor" %}
+{% include figure image_path="/assets/images/all-the-lego-duplo-pieces.jpg" alt="Lots of Lego Duplo pieces laid out on the floor" %}
 
 Laasya promptly appointed herself as the auditor of the process and was happy to show off her counting skills. Then, based on what we had, we decided to make a Lego railway track system and many small things around it, like a zoo, vehicles, gates, a tree and so on. We wanted to reckon if we could make 10–15 mini-projects each requiring an assembly of 10–20 large bricks or pieces. Based on the pictures below, each vetted by our auditor, it looked like we could. As a final measure of preparation, we made a few mental notes about which kids needed to be given the simplest projects and which ones the harder ones. Our Lego making activity was a go.
 
