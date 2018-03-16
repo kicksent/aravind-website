@@ -5,11 +5,12 @@ date: 2016-12-01 12:57:00 +0530
 tags: personal
 header:
    teaser: "/assets/images/avantika-laasya-5th-bday.jpg"
-gallery: cover
- - image_path: "/assets/images/avantika-laasya-5th-bday.jpg"
-   alt: "Avantika and Laasya at Laasya's 5th birthday!"
- - image_path: "/assets/images/lego-duplo-window.jpg"
-   alt: "Lego Duplo Window"
+
+cover:
+  - image_path: "/assets/images/avantika-laasya-5th-bday.jpg"
+    alt: "Avantika and Laasya at Laasya's 5th birthday!"
+  - image_path: "/assets/images/lego-duplo-window.jpg"
+    alt: "Lego Duplo Window"
 ---
 
 {% include gallery id="cover" %}
