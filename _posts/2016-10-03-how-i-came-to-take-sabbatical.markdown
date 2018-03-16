@@ -7,7 +7,7 @@ header:
    teaser: "/assets/images/urban-sunset.jpg"
 ---
 
-![]({{ "/assets/images/urban-sunset.jpg" | absolute url }} "A sunset against a typical Bengaluru urban skyline")
+{% include figure image_path="/assets/images/urban-sunset.jpg" alt="A sunset against a typical Bengaluru urban skyline" %}
 
 I remember the day I quit my job to take a sabbatical. I also remember how right after my last day at work I was tempted to commit my fresh impressions to a post. But on thinking about it, I felt I should wait for my new reality to sink in before writing anything. Now though, it is probably a good time to explain how I came to take a sabbatical. [Wikipedia defines](http://en.wikipedia.org/wiki/Sabbatical) a sabbatical as “a rest from work, or a break, often lasting from two months to a year.” It also acknowledges the more modern sense of the term to mean an “extended absence in the career of an individual in order to achieve something”. I think that does capture what I have undertaken to do. Now, the specific goals of a sabbatical may be quite personal and selfish. But I do hope there may be something useful and interesting in what I have to say.
 

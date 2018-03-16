@@ -5,10 +5,14 @@ date: 2016-12-01 12:57:00 +0530
 tags: personal
 header:
    teaser: "/assets/images/avantika-laasya-5th-bday.jpg"
+gallery: cover
+ - image_path: "/assets/images/avantika-laasya-5th-bday.jpg"
+   alt: "Avantika and Laasya at Laasya's 5th birthday!"
+ - image_path: "/assets/images/lego-duplo-window.jpg"
+   alt: "Lego Duplo Window"
 ---
 
-![]({{ "/assets/images/avantika-laasya-5th-bday.jpg" | absolute url }} "Avantika and Laasya at Laasya's 5th birthday!")
-![]({{ "/assets/images/lego-duplo-window.jpg" | absolute url }} "Lego Duplo Window")
+{% include gallery id="cover" %}
 
 A few weeks ago, Avantika and I threw a party for Laasya’s 5th birthday. For her last couple of birthday parties, we have been taking to the party venue, a set of Laasya’s toys including a plastic bowling set, a music player with a playlist of her current favourite tunes and the usual assortment of party balloons and whistles among other things. The party agenda has just been for the kids to play, dance and sing, till they are tired enough for the cake and food. The grown-ups meanwhile, have a good break and get a chance to catch up with friends. This time we got the idea of assembling Lego bricks as one of the activities in the party, given how much Laasya had begun to get into Lego assembly.
 

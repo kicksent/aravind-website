@@ -8,7 +8,7 @@ header:
 ---
 ## The Magic of Steely Dan 
 
-![Recreating the stack of CDs on my desk with Aja on top (artwork courtesy of Aravind Iyer)]({{ "/assets/images/aja-album-abstract.jpg" | absolute url }} "Stack of CDs with Aja on top")
+{% include figure caption="Recreating the stack of CDs on my desk with Aja on top (artwork courtesy of Aravind Iyer)" image_path="/assets/images/aja-album-abstract.jpg" alt="Stack of CDs with Aja on top" %}
 
 It may seem unusual, but everybody is some kind of a snob<sup>[1](#FT1)</sup><a name="FT1REF"></a>. Snobbery after all, is the opposite of being indiscriminate, and rare is the individual who is completely happy-go-lucky at everything. Certainly, music connoisseurs and audiophiles are both very discriminating about their respective pursuits. It was from a friend of mine who was a bit of both that I first heard about Aja by Steely Dan. I cannot recall exactly when but it might have been around February 2000. With my curiosity piqued by his praise of Aja, I sought the earliest opportunity to borrow the tape from him, so that I could listen to it.
 
