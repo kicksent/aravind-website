@@ -7,49 +7,68 @@ header:
    teaser: "/assets/images/avantika-laasya-5th-bday.jpg"
 
 cover:
-  - image_path: "/assets/images/avantika-laasya-5th-bday.jpg"
+  - url: "/assets/images/avantika-laasya-5th-bday.jpg"
+    image_path: "/assets/images/avantika-laasya-5th-bday.jpg"
     alt: "Avantika and Laasya at Laasya's 5th birthday!"
-  - image_path: "/assets/images/lego-duplo-window.jpg"
+  - url: "/assets/images/lego-duplo-window.jpg"
+    image_path: "/assets/images/lego-duplo-window.jpg"
     alt: "Lego Duplo Window"
 
 lego-mini-projects:
   - image_path: "/assets/images/lego-train.jpg"
+    url: "/assets/images/lego-train.jpg"
     alt: "Lego Duplo Railway Train"
   - image_path: "/assets/images/lego-tracks.jpg"
+    url: "/assets/images/lego-tracks.jpg"
     alt: "Lego Duplo Railway Tracks"
   - image_path: "/assets/images/lego-station-arch.jpg"
+    url: "/assets/images/lego-station-arch.jpg"
     alt: "Lego Duplo Railway Station Arch with Clock"
   - image_path: "/assets/images/lego-fuel-station.jpg"
+    url: "/assets/images/lego-fuel-station.jpg"
     alt: "Lego Duplo Fuel Station"
   - image_path: "/assets/images/lego-fire-engine.jpg"
+    url: "/assets/images/lego-fire-engine.jpg"
     alt: "Lego Duplo Fire Engine"
   - image_path: "/assets/images/lego-police-car.jpg"
+    url: "/assets/images/lego-police-car.jpg"
     alt: "Lego Duplo Police Car"
   - image_path: "/assets/images/lego-zoo.jpg"
+    url: "/assets/images/lego-zoo.jpg"
     alt: "Lego Duplo Zoo with Animals"
   - image_path: "/assets/images/lego-tree.jpg"
+    url: "/assets/images/lego-tree.jpg"
     alt: "Lego Duplo Tree"
   - image_path: "/assets/images/lego-car.jpg"
+    url: "/assets/images/lego-car.jpg"
     alt: "Lego Duplo Car"
 
 lego-assembly:
   - image_path: "/assets/images/lego-assembly-briefing.jpg"
+    url: "/assets/images/lego-assembly-briefing.jpg"
     alt: "Aravind briefing the kids to start the Lego Assembly activity"
   - image_path: "/assets/images/lego-assembly-leader-briefing.jpg"
+    url: "/assets/images/lego-assembly-leader-briefing.jpg"
     alt: "Aravind briefing the oldest kid to help and supervise the Lego Assembly activity"
   - image_path: "/assets/images/lego-assembly-in-progress.jpg"
+    url: "/assets/images/lego-assembly-in-progress.jpg"
     alt: "Lego Assembly activity in progress"
   - image_path: "/assets/images/lego-assembly-in-progress-2.jpg"
+    url: "/assets/images/lego-assembly-in-progress-2.jpg"
     alt: "Lego Assembly activity in progress"
   - image_path: "/assets/images/lego-assembly-almost-finished.jpg"
+    url: "/assets/images/lego-assembly-almost-finished.jpg"
     alt: "Lego Assembly activity nearing completion"
 
 bday:
   - image_path: "/assets/images/bday-musical-statues.jpg"
+    url: "/assets/images/bday-musical-statues.jpg"
     alt: "The obligatory routine of kids playing musical statues!"
   - image_path: "/assets/images/bday-blowing-candles.jpg"
+    url: "/assets/images/bday-blowing-candles.jpg"
     alt: "The obligatory routine of blowing candles on the birthday cake!"
   - image_path: "/assets/images/bday-aravind-avantika-posed.jpg"
+    url: "/assets/images/bday-aravind-avantika-posed.jpg"
     alt: "Obligatory posed photograph of Aravind and Avantika"
 ---
 
@@ -63,7 +82,7 @@ We decided we would make it a scripted building activity with instructions. Laas
 
 First we decided to lay out all the Lego to count how many pieces we had. This was the result!
 
-{% include figure image_path="/assets/images/all-the-lego-duplo-pieces.jpg" alt="Lots of Lego Duplo pieces laid out on the floor" %}
+{% include figure url="/assets/images/all-the-lego-duplo-pieces.jpg" image_path="/assets/images/all-the-lego-duplo-pieces.jpg" alt="Lots of Lego Duplo pieces laid out on the floor" %}
 
 Laasya promptly appointed herself as the auditor of the process and was happy to show off her counting skills. Then, based on what we had, we decided to make a Lego railway track system and many small things around it, like a zoo, vehicles, gates, a tree and so on. We wanted to reckon if we could make 10–15 mini-projects each requiring an assembly of 10–20 large bricks or pieces. Based on the pictures below, each vetted by our auditor, it looked like we could. As a final measure of preparation, we made a few mental notes about which kids needed to be given the simplest projects and which ones the harder ones. Our Lego making activity was a go.
 
