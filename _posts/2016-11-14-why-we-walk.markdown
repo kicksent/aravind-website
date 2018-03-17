@@ -6,7 +6,12 @@ tags: only-human
 header:
    teaser: "/assets/images/Walking-2-year-old.jpg"
 ---
-{% include figure image_path="/assets/images/Walking-2-year-old.jpg" alt="A two year old walking" %}
+
+<figure>
+   <a href="/assets/images/Walking-2-year-old.jpg">
+      <img src="/assets/images/Walking-2-year-old.jpg" alt="A two year old walking">
+   </a>
+</figure>
 
 A friend of mine once said that he felt the most comfortable in Bangalore, as he had grown up there. In any other city, no matter how long he had lived there, he always felt like a foreigner. He explained further that he felt safe and assured in Bangalore. You could take away his smartphone and his money, blindfold him, leave him at a random location in Bangalore and then ask him to open his blindfolds. He felt quite assured he wouldn’t be flustered but somehow manage to work his way home or to a friend’s or relative’s place. It was not only about being fluent in the local language, Kannada, but he insisted it was also some feeling of knowing the lay of the land, a kind of intuitive understanding of the neighborhoods of Bangalore and their interconnections.
 

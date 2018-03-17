@@ -6,7 +6,12 @@ tags: only-human
 header:
    teaser: "/assets/images/books-1251734_1920.jpg"
 ---
-{% include figure caption="Picture courtesy of [Pixabay](https://pixabay.com/)" image_path="/assets/images/books-1251734_1920.jpg" alt="A stack of books" %}
+<figure>
+   <a href="/assets/images/books-1251734_1920.jpg">
+      <img src="/assets/images/books-1251734_1920.jpg" alt="A stack of books">
+   </a>
+   <figcaption>Picture courtesy of <a href="https://pixabay.com/">Pixabay</a></figcaption>
+</figure>
 
 Speech is what we learn first, but we are taught reading, writing and arithmetic soon after. Between reading and writing, school curricula tend to dwell more on reading than on writing. After all, as students we are learning and a learner is a recipient of teaching, one who is expected to listen and read more than speak and write. But somehow this tends to continue into our adulthood too. We read the news, subject matter relevant to our jobs, instruction manuals, messages from the CEO, political leaders’ speeches, our daily dose of stories from magazines we follow and then some. But unless we are required to write as part of our jobs, we tend to write little or not at all. A relatively small proportion of people produce the bulk of the writings. Why is it then that we write less?
 

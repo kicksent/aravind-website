@@ -6,8 +6,12 @@ tags: only-human
 header:
    teaser: "/assets/images/handstand-1461105_1920.jpg"
 ---
-
-{% include figure caption="Picture courtesy of [Pixabay](https://pixabay.com/)" image_path="/assets/images/handstand-1461105_1920.jpg" alt="Girl doing a hand-stand in a public place" %}
+<figure>
+   <a href="/assets/images/handstand-1461105_1920.jpg">
+      <img src="/assets/images/handstand-1461105_1920.jpg" alt="Girl doing a hand-stand in a public place">
+   </a>
+   <figcaption>Picture courtesy of <a href="https://pixabay.com/">Pixabay</a></figcaption>
+</figure>
 
 It is an advice given often — to not care about what other people think. Indeed being unduly concerned about other people’s opinions can be a real stumbling block in any endeavour, a real dampener in any situation. But what does it really mean to not care?
 
