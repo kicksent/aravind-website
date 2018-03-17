@@ -19,7 +19,7 @@ One may say it is almost an anachronism to have a personal website. It is certai
 
 I made another attempt at a personal website, again hosted on my graduate school server. This time I ran it from around January 2003 until December 2006. Here is a screenshot.
 
-{% include figure caption="My personal website around May 2006" image_path="/assets/images/aravind-purdue-homepage.jpg" alt="Screenshot of Aravind's old website from May 2006" %}
+{% include figure caption="My personal website around May 2006" image_path="/assets/images/aravind-purdue-homepage.jpeg" alt="Screenshot of Aravind's old website from May 2006" %}
 
 It was quite a thing to make and maintain personal websites and blogs. In fact, I had an RSS feed full of lots of different people who used to blog with varying frequency and quality. Over time that has changed. The only blogs and websites that have survived are those that have found a focussed speciality and garnered viewership around that. Social media profiles take care of the rest of our needs to be seen and heard, socially and professionally.
 
