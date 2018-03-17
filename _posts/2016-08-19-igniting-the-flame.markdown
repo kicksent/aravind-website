@@ -27,15 +27,25 @@ Things rarely ever come out of a vacuum. Bitches Brew continued in the direction
 I must have played that tape a dozen times over in the next couple of days. But I could never play it right back as soon as it was over. It needed time, time spent sitting and enjoying the silence, time spent assimilating the music, time spent realising the concentrated value of human endeavour that was possible, time spent waiting till you felt ready, for the next round. That tape was followed up with many more jazz albums, and with the ever-changing landscape of music (CD clubs, digital downloads and unlimited streaming) I have never been far from jazz music. I hope I can write some more album reviews, but here’s thanking the one that ignited the flame!
 
 ## Notes
-<a name="FT1"></a>[1.](#FT1REF) [James Hamblin](https://www.theatlantic.com/author/james-hamblin/) from [The Atlantic](https://www.theatlantic.com/) writes about [how experiences are more valuable to people than things](https://www.theatlantic.com/business/archive/2014/10/buy-experiences/381132/). A great example that a researcher cites in the article, is about waiting in line. When people queue up to buy a concert ticket, they tend to see that as part of the experience, whereas when they wait to get a material purchase, they see the wait as being in the way of getting their hands on the thing.
+<a name="FT1"></a>
 
-<a name="FT2"></a>[2.](#FT2REF) The Guardian reports on how Mumbai’s iconic music record store, Rhythm House, finally [shut down in 2016](https://www.theguardian.com/travel/2016/feb/08/mumbai-rhythm-house-record-shop-to-close-down). Truly, the end of an era!
+[1.](#FT1REF) [James Hamblin](https://www.theatlantic.com/author/james-hamblin/) from [The Atlantic](https://www.theatlantic.com/) writes about [how experiences are more valuable to people than things](https://www.theatlantic.com/business/archive/2014/10/buy-experiences/381132/). A great example that a researcher cites in the article, is about waiting in line. When people queue up to buy a concert ticket, they tend to see that as part of the experience, whereas when they wait to get a material purchase, they see the wait as being in the way of getting their hands on the thing.
 
-<a name="FT3"></a>[3.](#FT3REF) [Walter Kolosky](http://www.walterkolosky.com/) writes at [The Guitar Channel](http://www.guitar-channel.com/rich_murray/) about the history of the Mahavishnu Orchestra, and how its [members and fans remember](http://www.guitar-channel.com/rich_murray/mahavishnu-orchestra-40th-anniversary.html) the band’s early days.
+<a name="FT2"></a>
 
-<a name="FT4"></a>[4.](#FT4REF) The [Red Bull Music Academy](http://www.redbullmusicacademy.com/about) covers the long career of the guitar great John McLaughlin in a [terrific interview](http://daily.redbullmusicacademy.com/2015/02/john-mclaughlin-interview).
+[2.](#FT2REF) The Guardian reports on how Mumbai’s iconic music record store, Rhythm House, finally [shut down in 2016](https://www.theguardian.com/travel/2016/feb/08/mumbai-rhythm-house-record-shop-to-close-down). Truly, the end of an era!
 
-<a name="FT5"></a>[5.](#FT5REF) [Paul Tingen](http://www.miles-beyond.com/biog.htm) at the [Jazz Times](https://jazztimes.com/) narrates an [amazing, in-depth story](https://jazztimes.com/features/miles-davis-and-the-making-of-bitches-brew-sorcerers-brew/) on the making of the Bitches Brew album by Miles Davis.
+<a name="FT3"></a>
+
+[3.](#FT3REF) [Walter Kolosky](http://www.walterkolosky.com/) writes at [The Guitar Channel](http://www.guitar-channel.com/rich_murray/) about the history of the Mahavishnu Orchestra, and how its [members and fans remember](http://www.guitar-channel.com/rich_murray/mahavishnu-orchestra-40th-anniversary.html) the band’s early days.
+
+<a name="FT4"></a>
+
+[4.](#FT4REF) The [Red Bull Music Academy](http://www.redbullmusicacademy.com/about) covers the long career of the guitar great John McLaughlin in a [terrific interview](http://daily.redbullmusicacademy.com/2015/02/john-mclaughlin-interview).
+
+<a name="FT5"></a>
+
+[5.](#FT5REF) [Paul Tingen](http://www.miles-beyond.com/biog.htm) at the [Jazz Times](https://jazztimes.com/) narrates an [amazing, in-depth story](https://jazztimes.com/features/miles-davis-and-the-making-of-bitches-brew-sorcerers-brew/) on the making of the Bitches Brew album by Miles Davis.
 
 ## Music
 1. [Shakti with John McLaughlin](https://en.wikipedia.org/wiki/Shakti_%28Shakti_album%29), *Shakti*, 1976. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [L. Shankar](https://en.wikipedia.org/wiki/L._Shankar) — violin, [Ramnad Raghavan](https://en.wikipedia.org/wiki/Ramnad_Raghavan) — mridangam, [T. H. Vinayakaram](https://en.wikipedia.org/wiki/T._H._Vinayakaram) — ghatam and mridangam, [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_%28musician%29) — tabla.
