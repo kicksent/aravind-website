@@ -6,7 +6,7 @@ tags: only-human
 header:
    teaser: "/assets/images/TheAcademic.jpg"
 toc: true
-toc_title: "Values"
+toc_label: "Values"
 ---
 
 {% include figure image_path="/assets/images/TheAcademic.jpg" alt="Aravind Iyer at graduation" %}
