@@ -29,7 +29,7 @@ I must have played that tape a dozen times over in the next couple of days. But 
 ## Notes
 <a name="FT1"></a>
 
-[1.](#FT1REF) [James Hamblin](https://www.theatlantic.com/author/james-hamblin/) from [The Atlantic](https://www.theatlantic.com/) writes about [how experiences are more valuable to people than things](https://www.theatlantic.com/business/archive/2014/10/buy-experiences/381132/). A great example that a researcher cites in the article, is about waiting in line. When people queue up to buy a concert ticket, they tend to see that as part of the experience, whereas when they wait to get a material purchase, they see the wait as being in the way of getting their hands on the thing.
+1. [James Hamblin](https://www.theatlantic.com/author/james-hamblin/) from [The Atlantic](https://www.theatlantic.com/) writes about [how experiences are more valuable to people than things](https://www.theatlantic.com/business/archive/2014/10/buy-experiences/381132/). A great example that a researcher cites in the article, is about waiting in line. When people queue up to buy a concert ticket, they tend to see that as part of the experience, whereas when they wait to get a material purchase, they see the wait as being in the way of getting their hands on the thing. <a href="#FT1REF"><i class="fas fa-level-up-alt"></i></a>
 
 <a name="FT2"></a>
 
