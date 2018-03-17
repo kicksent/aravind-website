@@ -5,8 +5,6 @@ date: 2017-02-09 17:08:00 +0530
 tags: only-human
 header:
    teaser: "/assets/images/TheAcademic.jpg"
-toc: true
-toc_label: "Values"
 ---
 
 {% include figure image_path="/assets/images/TheAcademic.jpg" alt="Aravind Iyer at graduation" %}

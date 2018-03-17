@@ -25,33 +25,19 @@ There is the musicianship in Aja (what with accomplished saxophonists finishing 
 Steely Dan has produced several great albums by following their unique musical approach. Becker and Fagen with a wide cast of session musicians, have melded witty lyrics, jazzy structures and obsessive studio production into albums like Can’t Buy a Thrill, The Royal Scam and many others. They are known to be quite fastidious, perhaps snobbish, themselves. But snobbery can be of different kinds. There is snobbery that alienates by pursuing discrimination to its own end, and there is snobbery that inspires by kindling an aspiration to being and experiencing better. Steely Dan is definitely in the latter category, and Aja is their finest example. So if you are about to test hi-fi audio gear, or if you want to listen to easy-going yet sophisticated music, or if you are just feeling a bit blue, listen to Aja, rejoice and be a snob.
 
 ## Notes
-<a name="FT1"></a>
+1. <a name="FT1"></a>[Gina Barreca](http://www.courant.com/hartnews-gina-barreca-20130507-staff.html) at the [Hartford Courant](http://www.courant.com/) provides an [insightful look](http://www.courant.com/opinion/op-ed/hc-op-barreca-everyone-has-a-little-snobbery-0129-20160128-column.html) into the phenomenon of snobbery. Barreca writes that the most persuasive theory regarding the origin of the word snob, is that it is a shortening of the Latin words “*sine nobilitate*” (without nobility) into “s.nob” to identify non-aristocratic students attending Oxford and Cambridge. Although a bit surprising at first glance, it is those without nobility who had to exhibit refined taste and fine expertise to gain esteem amongst nobler classmates! <a href="#FT1REF"><i class="fas fa-level-up-alt"></i></a>
 
-1. [Gina Barreca](http://www.courant.com/hartnews-gina-barreca-20130507-staff.html) at the [Hartford Courant](http://www.courant.com/) provides an [insightful look](http://www.courant.com/opinion/op-ed/hc-op-barreca-everyone-has-a-little-snobbery-0129-20160128-column.html) into the phenomenon of snobbery. Barreca writes that the most persuasive theory regarding the origin of the word snob, is that it is a shortening of the Latin words “*sine nobilitate*” (without nobility) into “s.nob” to identify non-aristocratic students attending Oxford and Cambridge. Although a bit surprising at first glance, it is those without nobility who had to exhibit refined taste and fine expertise to gain esteem amongst nobler classmates! <a href="#FT1REF"><i class="fas fa-level-up-alt"></i></a>
+2. <a name="FT2"></a>Although [Yamaguchi](https://en.wikipedia.org/wiki/Sayoko_Yamaguchi) is featured on the album cover of Aja, very little of her can actually be seen! Yet it evokes a sense of mystery, enhanced by the exotic sounding album name written in a matching font. <a href="#FT2REF"><i class="fas fa-level-up-alt"></i></a>
 
-<a name="FT2"></a>
+3. <a name="FT3"></a>Recording engineers are sometimes credited with achieving a certain signature kind of sound with their recordings. A notable example is jazz recording legend [Rudy Van Gelder](https://en.wikipedia.org/wiki/Rudy_Van_Gelder), who achieved an intimate sound of jazz instruments by capturing the finest textures of the instruments’ sound. [Roger Nichols](https://en.wikipedia.org/wiki/Roger_Nichols_%28recording_engineer%29) has created a sound that is distinctive in its own right through his work with Steely Dan and other artists. I think he is right up there with [Alan Parsons](https://en.wikipedia.org/wiki/Alan_Parsons) in creating that clean and crisp sound which endears their albums to audiophiles. <a href="#FT3REF"><i class="fas fa-level-up-alt"></i></a>
 
-2. Although [Yamaguchi](https://en.wikipedia.org/wiki/Sayoko_Yamaguchi) is featured on the album cover of Aja, very little of her can actually be seen! Yet it evokes a sense of mystery, enhanced by the exotic sounding album name written in a matching font. <a href="#FT2REF"><i class="fas fa-level-up-alt"></i></a>
+4. <a name="FT4"></a>[Jeff Giles](https://en.gravatar.com/jefito74) at [Pop Dose](http://popdose.com/) interviews guitarist [Jay Graydon](https://en.wikipedia.org/wiki/Jay_Graydon) who breaks down his [guitar solo in the song Peg](http://popdose.com/anatomy-of-a-song-jay-graydon-discusses-steely-dans-peg/) and also narrates the story of how it happened. If you like the interview, you might also want to check out some of [Graydon’s own work](http://www.jaygraydon.com/index.html). <a href="#FT4REF"><i class="fas fa-level-up-alt"></i></a>
 
-<a name="FT3"></a>
+5. <a name="FT5"></a>It is really worth reading the lyrics of [Deacon Blues](https://www.azlyrics.com/lyrics/steelydan/deaconblues.html) in case you haven’t heard the song or followed the lyrics closely. <a href="#FT5REF"><i class="fas fa-level-up-alt"></i></a>
 
-3. Recording engineers are sometimes credited with achieving a certain signature kind of sound with their recordings. A notable example is jazz recording legend [Rudy Van Gelder](https://en.wikipedia.org/wiki/Rudy_Van_Gelder), who achieved an intimate sound of jazz instruments by capturing the finest textures of the instruments’ sound. [Roger Nichols](https://en.wikipedia.org/wiki/Roger_Nichols_%28recording_engineer%29) has created a sound that is distinctive in its own right through his work with Steely Dan and other artists. I think he is right up there with [Alan Parsons](https://en.wikipedia.org/wiki/Alan_Parsons) in creating that clean and crisp sound which endears their albums to audiophiles. <a href="#FT3REF"><i class="fas fa-level-up-alt"></i></a>
+6. <a name="FT6"></a>[Marc Myers](http://www.jazzwax.com/) at [The Wall Street Journal](https://www.wsj.com/) writes about the fascinating story of how [Fagen and Becker created “Deacon Blues”](https://www.wsj.com/articles/how-steely-dan-created-deacon-blues-1441727645). <a href="#FT6REF"><i class="fas fa-level-up-alt"></i></a>
 
-<a name="FT4"></a>
-
-4. [Jeff Giles](https://en.gravatar.com/jefito74) at [Pop Dose](http://popdose.com/) interviews guitarist [Jay Graydon](https://en.wikipedia.org/wiki/Jay_Graydon) who breaks down his [guitar solo in the song Peg](http://popdose.com/anatomy-of-a-song-jay-graydon-discusses-steely-dans-peg/) and also narrates the story of how it happened. If you like the interview, you might also want to check out some of [Graydon’s own work](http://www.jaygraydon.com/index.html). <a href="#FT4REF"><i class="fas fa-level-up-alt"></i></a>
-
-<a name="FT5"></a>
-
-5. It is really worth reading the lyrics of [Deacon Blues](https://www.azlyrics.com/lyrics/steelydan/deaconblues.html) in case you haven’t heard the song or followed the lyrics closely. <a href="#FT5REF"><i class="fas fa-level-up-alt"></i></a>
-
-<a name="FT6"></a>
-
-6. [Marc Myers](http://www.jazzwax.com/) at [The Wall Street Journal](https://www.wsj.com/) writes about the fascinating story of how [Fagen and Becker created “Deacon Blues”](https://www.wsj.com/articles/how-steely-dan-created-deacon-blues-1441727645). <a href="#FT6REF"><i class="fas fa-level-up-alt"></i></a>
-
-<a name="FT7"></a>
-
-7. Michael Cuscuna [narrates the story](http://www.jazz.fm/index.php/music-a-video-mainmenu/jazzwax-mainmenu-153/4868-how-steely-dan-got-wayne-shorter) of how Wayne Shorter almost wound up not being featured on “Aja”, but did so in the end. <a href="#FT7REF"><i class="fas fa-level-up-alt"></i></a>
+7. <a name="FT7"></a>Michael Cuscuna [narrates the story](http://www.jazz.fm/index.php/music-a-video-mainmenu/jazzwax-mainmenu-153/4868-how-steely-dan-got-wayne-shorter) of how Wayne Shorter almost wound up not being featured on “Aja”, but did so in the end. <a href="#FT7REF"><i class="fas fa-level-up-alt"></i></a>
 
 ## Music
 1. [Aja](https://en.wikipedia.org/wiki/Aja_(album)), [*Steely Dan*](https://en.wikipedia.org/wiki/Steely_Dan), 1977. Band members: [Donald Fagen](https://en.wikipedia.org/wiki/Donald_Fagen) (vocals and synthesizer) and [Walter Becker](https://en.wikipedia.org/wiki/Walter_Becker) (guitar and bass). For a list of additional musicians, check [here](https://en.wikipedia.org/wiki/Aja_%28album%29#Additional_musicians).

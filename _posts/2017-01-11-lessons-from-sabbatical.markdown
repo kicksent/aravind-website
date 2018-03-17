@@ -7,8 +7,6 @@ header:
    teaser: "/assets/images/IMG_20170110_135335111-01.jpg"
    image: "/assets/images/IMG_20170110_135335111-01.jpg"
    alt: "Desk with laptop, headphones and a book" 
-toc: true
-toc_label: "Lessons"
 ---
 
 You may have read about [how I came to take a sabbatical](http://www.linkedin.com/pulse/why-i-am-taking-sabbatical-aravind-iyer). Now, a number of months into it, I would like to share what I have learned in terms of making a sabbatical effective and fulfilling. I had some idea about a number of these factors at the start, based on conversations with people and by reading. But now having lived through it and having learned the importance of some things by not taking them seriously enough at first, I am more confident and motivated to share it. So without more ado, here are six factors that make a successful and fulfilling sabbatical.
