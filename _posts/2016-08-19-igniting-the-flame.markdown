@@ -8,9 +8,12 @@ header:
 ---
 ## How I discovered the Mahavishnu Orchestra
 
-{% include figure caption="Listening to Mahavishnu Orchestra for the first time, while reading the liner notes! (artwork courtesy of Aravind Iyer)" image_path="/assets/images/Liner-notes-table.jpg" alt="An 80s stereo and open liner notes of The Inner Mounting Flame" %}
-
-{% include figure caption="Listening to Mahavishnu Orchestra for the first time, while reading the liner notes! (artwork courtesy of Aravind Iyer)" image_path="/assets/images/Liner-notes-table.jpg" url="/assets/images/Liner-notes-table.jpg" alt="An 80s stereo and open liner notes of The Inner Mounting Flame" %}
+<figure>
+   <a href="/assets/images/Liner-notes-table.jpg">
+      <img src="/assets/images/Liner-notes-table.jpg" alt="An 80s stereo and open liner notes of The Inner Mounting Flame">
+   </a>
+   <figcaption>Listening to Mahavishnu Orchestra for the first time, while reading the liner notes! (artwork courtesy of Aravind Iyer)</figcaption>
+</figure>
 
 It is generally agreed that experiences are more valuable to people than possessions<sup>[1](#FT1)</sup><a name="FT1REF"></a>. From that perspective, a musical performance is something unique and wonderful. Attending one can be an experience to remember, and yet it can be bottled into a record which a music lover can possess and use to re-live the experience. Of course, today’s world of unlimited music streaming has upended the notion of music as a possession, or at least as a collectible. But it wasn’t the case when I bought my first jazz tape, The Inner Mounting Flame. Collecting music records was very much in, and I wanted to buy some tapes to move beyond hard rock and metal, and into jazz.
 
