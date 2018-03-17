@@ -33,19 +33,19 @@ I must have played that tape a dozen times over in the next couple of days. But 
 
 <a name="FT2"></a>
 
-[2.](#FT2REF) The Guardian reports on how Mumbai’s iconic music record store, Rhythm House, finally [shut down in 2016](https://www.theguardian.com/travel/2016/feb/08/mumbai-rhythm-house-record-shop-to-close-down). Truly, the end of an era!
+2. The Guardian reports on how Mumbai’s iconic music record store, Rhythm House, finally [shut down in 2016](https://www.theguardian.com/travel/2016/feb/08/mumbai-rhythm-house-record-shop-to-close-down). Truly, the end of an era! <a href="#FT2REF"><i class="fas fa-level-up-alt"></i></a>
 
 <a name="FT3"></a>
 
-[3.](#FT3REF) [Walter Kolosky](http://www.walterkolosky.com/) writes at [The Guitar Channel](http://www.guitar-channel.com/rich_murray/) about the history of the Mahavishnu Orchestra, and how its [members and fans remember](http://www.guitar-channel.com/rich_murray/mahavishnu-orchestra-40th-anniversary.html) the band’s early days.
+3. [Walter Kolosky](http://www.walterkolosky.com/) writes at [The Guitar Channel](http://www.guitar-channel.com/rich_murray/) about the history of the Mahavishnu Orchestra, and how its [members and fans remember](http://www.guitar-channel.com/rich_murray/mahavishnu-orchestra-40th-anniversary.html) the band’s early days. <a href="#FT3REF"><i class="fas fa-level-up-alt"></i></a>
 
 <a name="FT4"></a>
 
-[4.](#FT4REF) The [Red Bull Music Academy](http://www.redbullmusicacademy.com/about) covers the long career of the guitar great John McLaughlin in a [terrific interview](http://daily.redbullmusicacademy.com/2015/02/john-mclaughlin-interview).
+4. The [Red Bull Music Academy](http://www.redbullmusicacademy.com/about) covers the long career of the guitar great John McLaughlin in a [terrific interview](http://daily.redbullmusicacademy.com/2015/02/john-mclaughlin-interview). <a href="#FT4REF"><i class="fas fa-level-up-alt"></i></a>
 
 <a name="FT5"></a>
 
-[5.](#FT5REF) [Paul Tingen](http://www.miles-beyond.com/biog.htm) at the [Jazz Times](https://jazztimes.com/) narrates an [amazing, in-depth story](https://jazztimes.com/features/miles-davis-and-the-making-of-bitches-brew-sorcerers-brew/) on the making of the Bitches Brew album by Miles Davis.
+5. [Paul Tingen](http://www.miles-beyond.com/biog.htm) at the [Jazz Times](https://jazztimes.com/) narrates an [amazing, in-depth story](https://jazztimes.com/features/miles-davis-and-the-making-of-bitches-brew-sorcerers-brew/) on the making of the Bitches Brew album by Miles Davis. <a href="#FT5REF"><i class="fas fa-level-up-alt"></i></a>
 
 ## Music
 1. [Shakti with John McLaughlin](https://en.wikipedia.org/wiki/Shakti_%28Shakti_album%29), *Shakti*, 1976. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [L. Shankar](https://en.wikipedia.org/wiki/L._Shankar) — violin, [Ramnad Raghavan](https://en.wikipedia.org/wiki/Ramnad_Raghavan) — mridangam, [T. H. Vinayakaram](https://en.wikipedia.org/wiki/T._H._Vinayakaram) — ghatam and mridangam, [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_%28musician%29) — tabla.
