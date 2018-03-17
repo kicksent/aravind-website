@@ -15,5 +15,5 @@ intro:
   - excerpt: "I love music, especially jazz, and I am interested in the little things that make us human. Read my writings on music, observations about life and humanity, and posts on personal events. Let me know if you find something you like."
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="right" %}
 
