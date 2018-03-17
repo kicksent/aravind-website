@@ -9,7 +9,7 @@ header:
    alt: "Desk with laptop, headphones and a book" 
 ---
 
-You may have read about [how I came to take a sabbatical](http://www.linkedin.com/pulse/why-i-am-taking-sabbatical-aravind-iyer). Now, a number of months into it, I would like to share what I have learned in terms of making a sabbatical effective and fulfilling. I had some idea about a number of these factors at the start, based on conversations with people and by reading. But now having lived through it and having learned the importance of some things by not taking them seriously enough at first, I am more confident and motivated to share it. So without more ado, here are six factors that make a successful and fulfilling sabbatical.
+You may have read about [how I came to take a sabbatical]({{ site.baseurl }}{% post_url 2016-10-03-how-i-came-to-take-sabbatical %}). Now, a number of months into it, I would like to share what I have learned in terms of making a sabbatical effective and fulfilling. I had some idea about a number of these factors at the start, based on conversations with people and by reading. But now having lived through it and having learned the importance of some things by not taking them seriously enough at first, I am more confident and motivated to share it. So without more ado, here are six factors that make a successful and fulfilling sabbatical.
 
 ## Workspace
 
@@ -25,7 +25,7 @@ A sabbatical is work, and all work and no play can be quite dull. There’s noth
 
 ## People and Family
 
-A sabbatical is different from regular work, since you don’t have any co-workers. During the course of a regular work day, it is quite easy to meet at least 4–5 different people whose company you like and spend time with them over coffee, lunch, one-on-one discussion or even a group meeting. During a sabbatical, you may need to take the extra effort to cultivate a gym buddy, or ring friends and meet one for lunch or coffee. This is also a time to make more time for family. Take your kid out to play. Maybe teach her bicycling or [build Lego with her](http://medium.com/@.aravindiyer/lego-assembly-at-happy-5th-39a14cba8586). Take your partner out on a lunch date. If your partner works, you know how hard it is to align the free time of your partner and school-going kid to plan those vacations. Well, you have one fewer constraint now!
+A sabbatical is different from regular work, since you don’t have any co-workers. During the course of a regular work day, it is quite easy to meet at least 4–5 different people whose company you like and spend time with them over coffee, lunch, one-on-one discussion or even a group meeting. During a sabbatical, you may need to take the extra effort to cultivate a gym buddy, or ring friends and meet one for lunch or coffee. This is also a time to make more time for family. Take your kid out to play. Maybe teach her bicycling or [build Lego with her]({{ site.baseurl }}{% post_url 2016-12-01-lego-assembly-happy-5th %}). Take your partner out on a lunch date. If your partner works, you know how hard it is to align the free time of your partner and school-going kid to plan those vacations. Well, you have one fewer constraint now!
 
 ## Money
 

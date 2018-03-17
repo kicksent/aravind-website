@@ -21,7 +21,7 @@ I started drawing icons as a way to represent common objects like computers, ser
 
 ## Cars
 
-Being [something of a car enthusiast](https://medium.com/@.aravindiyer/right-of-passage-how-i-wound-up-as-something-of-a-car-enthusiast-91c31dd84a36), I tried my hand at a slightly more complicated object — a car. The car on the left is what I drive currently, a 2007 Honda Civic. The picture on the right is the interior of a car, a 2014 Suzuki Ciaz, which I like for its clean and straightforward layout. I made these using interpolated curves by copying and tracing from reference images.
+Being [something of a car enthusiast]({{ site.baseurl }}{% post_url 2017-06-27-right-of-passage %}), I tried my hand at a slightly more complicated object — a car. The car on the left is what I drive currently, a 2007 Honda Civic. The picture on the right is the interior of a car, a 2014 Suzuki Ciaz, which I like for its clean and straightforward layout. I made these using interpolated curves by copying and tracing from reference images.
 
 ![At the helm and everywhere to go! (Illustration courtesy of Aravind Iyer)]({{ "/assets/images/car-interior.jpg" | absolute url }} "Line drawing of a car interior")
 ![My current ride (Illustration courtesy of Aravind Iyer)]({{ "/assets/images/2007HondaCivic.jpg" | absolute url }} "Line drawing of a modern Japanese compact car")
@@ -34,13 +34,13 @@ Later I wanted to see how complex subjects could be rendered through this proces
 
 ## Mock album covers
 
-Since I have been writing [music reviews](https://medium.com/music-naka), I tried my hand at mocking up some album art. These were intended to evoke the feeling of recognition in people who were already familiar with the album art. The actual album covers are definitely much nicer! On the left is [Inner Mounting Flame](https://medium.com/music-naka/igniting-the-flame-e359c2ddeba0) by The Mahavishnu Orchestra and on the right is [Aja](https://medium.com/music-naka/approachable-snobbery-353d58439264) by Steely Dan.
+Since I have been writing [music reviews]({{ site.baseurl }}{% link _pages/music-naka.md %}), I tried my hand at mocking up some album art. These were intended to evoke the feeling of recognition in people who were already familiar with the album art. The actual album covers are definitely much nicer! On the left is [Inner Mounting Flame]({{ site.baseurl }}{% post_url 2016-08-19-igniting-the-flame %}) by The Mahavishnu Orchestra and on the right is [Aja]({{ site.baseurl }}{% post_url 2016-09-03-approachable-snobbery %}) by Steely Dan.
 
 ![Mock album art — The Inner Mounting Flame (left) and Aja (right) (Illustrations courtesy of Aravind Iyer)]({{ "/assets/images/mock-album-art.jpg" | absolute url }} "Mock album art — The Inner Mounting Flame and Aja" )
 
 ## Pencil work (copy of Hergé’s “The Secret of the Unicorn”)
 
-In the process of creating all these drawings on the computer, one day I suddenly experienced serious doubts about where I really stood with my ability with the pencil. So I made a copy of [Hergé](https://en.wikipedia.org/wiki/Hergé)’s cover of [The Secret of the Unicorn](https://en.wikipedia.org/wiki/The_Secret_of_the_Unicorn) with a pencil. It turned out ok. Phew! The squiggly line at the bottom where Snowy (the dog) is scurrying — that was contributed by my [six year old](https://medium.com/@.aravindiyer/lego-assembly-at-happy-5th-39a14cba8586)! You are, of course, at liberty to compare the copy with Hergè’s original and determine the gulf between the two. But I am not posting it here!
+In the process of creating all these drawings on the computer, one day I suddenly experienced serious doubts about where I really stood with my ability with the pencil. So I made a copy of [Hergé](https://en.wikipedia.org/wiki/Hergé)’s cover of [The Secret of the Unicorn](https://en.wikipedia.org/wiki/The_Secret_of_the_Unicorn) with a pencil. It turned out ok. Phew! The squiggly line at the bottom where Snowy (the dog) is scurrying — that was contributed by my [six year old]({{ site.baseurl }}{% post_url 2016-12-01-lego-assembly-happy-5th %})! You are, of course, at liberty to compare the copy with Hergè’s original and determine the gulf between the two. But I am not posting it here!
 
 ![A copy of Hergé’s cover of “The Secret of the Unicorn” (Illustration courtesy of Aravind Iyer)]({{ "/assets/images/secret-of-unicorn.jpg" | absolute url }} "A pencil copy of Hergé’s cover of The Secret of the Unicorn" )
 
