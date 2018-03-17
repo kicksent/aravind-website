@@ -9,7 +9,8 @@ header:
    overlay_image: "/assets/images/self-sketch-splash.jpg"
    cta_label: "Learn more"
    cta_url: "/about/"
-excerpt: "I am a scientist and computer engineer. I write about music, life and personal stuff."
+excerpt: "I am a scientist and computer engineer.
+          I write about music, life and personal stuff."
 intro:
   - excerpt: "I love music, especially jazz, and I am interested in the little things that make us human. Read my writings on music, observations about life and humanity, and posts on personal events. Let me know if you find something you like."
 ---
