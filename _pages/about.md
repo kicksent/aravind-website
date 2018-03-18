@@ -4,6 +4,8 @@ title: About Aravind Iyer
 permalink: /about/
 author: Aravind Iyer
 author_profile: true
+description: "I am Aravind, a scientist and computer engineer by training, writing about music and life. My writings cover reviews and stories about jazz albums as well as human emotions and ordinary things that make us human."
+og_image: "/assets/images/self-sketch-splash.jpg"
 ---
 
 Hi, I am Aravind. I am a scientist and computer engineer by training. My latest professional assignment was at Samsung where we designed a communications protocol and framework to enable the smartphone, smart watch, televisions and other accessories to talk to each other. Prior to that I was at General Motors where I worked on Vehicle-to-vehicle communications and security protocols for authentic message exchange in a broadcast setting. Before that I was a graduate student at Purdue university where I completed my PhD in Electrical and Computer Engineering.
