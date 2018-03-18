@@ -87,6 +87,11 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/aravindiyer"
+    - "https://facebook.com/aravindiyer"
+    - "https://instagram.com/aravind.iyer"
+    - "https://www.linkedin.com/in/aravindiyer"
+    - "https://plus.google.com/+AravindIyer"
 
 # Analytics
 analytics:
@@ -102,7 +107,7 @@ author:
   bio              : "A tech guy writing about music and life."
   location         : "Bengaluru, India"
   email            :
-  uri              :
+  uri              : "http://aravindiyer.com"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -196,7 +201,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: +0530 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
