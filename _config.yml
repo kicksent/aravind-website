@@ -98,9 +98,9 @@ analytics:
 # Site Author
 author:
   name             : "Aravind Iyer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aravind Iyer is a human being."
-  location         : "Bengaluru, Karnataka, India"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "A tech guy writing about music and life."
+  location         : "Bengaluru, India"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
