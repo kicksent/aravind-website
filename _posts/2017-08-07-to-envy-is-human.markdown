@@ -6,7 +6,12 @@ tags: only-human
 header:
    teaser: "/assets/images/Envious-eyes.jpeg"
 ---
-{% include figure caption="Envy lies in the eye of the beholder (Illustration courtesy of Aravind Iyer)" image_path="/assets/images/Envious-eyes.jpeg" alt="Envious Eyes" %}
+<figure>
+   <a href="/assets/images/Envious-eyes.jpeg">
+      <img src="/assets/images/Envious-eyes.jpeg" alt="Envious Eyes">
+   </a>
+   <figcaption>Envy lies in the eye of the beholder (Illustration courtesy of Aravind Iyer)</figcaption>
+</figure>
 
 Once while taking a walk after lunch, a friend of mine declared dramatically that he was going to stop using [LinkedIn](https://www.linkedin.com/), the professional networking service. Upon enquiring further, he sighed and explained. He was just so tired of seeing his friends and acquaintances seemingly scale ever greater heights in their careers that it made him reflect on his job and career continually, and maybe even needlessly. He was happy. He wanted to remain happy. Now finally he had figured out how to put an end to his worries! While not all of us may be able to relate our experiences with as much candor and humor as my friend, I am sure few can deny having been afflicted with envy at some point or another in their lives. But what is envy and why is it such an inevitable affliction?
 

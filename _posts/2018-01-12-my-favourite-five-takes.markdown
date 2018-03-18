@@ -6,9 +6,12 @@ tags: music-naka
 header:
    teaser: "/assets/images/20180110_143300.jpg"
 ---
-
-![Listening to Take Five for the umpteenth time!]({{ "/assets/images/20180110_143300.jpg" | absolute url }}
-"Music Player showing Take Five playing")
+<figure>
+   <a href="/assets/images/20180110_143300.jpg">
+      <img src="/assets/images/20180110_143300.jpg" alt="Music Player showing Take Five playing">
+   </a>
+   <figcaption> Listening to Take Five for the umpteenth time!</figcaption>
+</figure>
 
 Remarkable as it may seem, it was from
 [Trilok Gurtu](https://en.wikipedia.org/wiki/Trilok_Gurtu), the legendary fusion musician and percussionist, that I first heard about the song
@@ -26,20 +29,20 @@ And I listened to it. Yes, technically, it is in a five beat cycle, but it is de
 [first jazz single](https://www.npr.org/2011/02/19/133479768/the-mix-the-jazz-100)
 to sell over a million copies. In fact, it is quite likely that you know the song, even if you have never sought to listen to jazz on your own. In any case, whether you have heard it before or not, whether you are a jazz fan or not, please do me a favour. Lend your ear to these songs. You may find something you like. So without further ado, here it is, the original version of Take Five, recorded in 1959.
 
-<iframe width="525" height="394" src="https://www.youtube-nocookie.com/embed/nzpnWuk3RjU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include video id="nzpnWuk3RjU" provider="youtube" %}
 
 Rather than recount
 [the story of Take Five](https://www.npr.org/2000/11/19/1114201/take-five), I would like to share some interesting alternative takes of the song. Being such a popular song, Take Five has been covered several times, with over 40 recorded cover versions, according to [Wikipedia](https://en.wikipedia.org/wiki/Take_Five#Cover_versions). Over a period of time, I have run into several fascinating covers of Take Five. The original melody endures all transformations and interpretations, and yet the covers stand as bona fide works of music too. So here are my favourite five takes on Take Five.
 
 ## Carmen McRae on vocals
 
-<iframe width="525" height="394" src="https://www.youtube-nocookie.com/embed/sNWsr6N72yQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include video id="sNWsr6N72yQ" provider="youtube" %}
 
 I first heard [Carmen McRae](https://en.wikipedia.org/wiki/Carmen_McRae) in an album called [Carmen sings Monk](https://en.wikipedia.org/wiki/Carmen_Sings_Monk) where she lends lyrics and her ironic voice to the signature, unorthodox compositions of the jazz pianist, [Thelonious Monk](https://en.wikipedia.org/wiki/Thelonious_Monk). Monk’s songs are mostly instrumental and have their own unique appeal, but McRae sings them so well, it is hard not to remember her lyrics and voice when you go back and hear Monk afterwards. Carmen sings Monk was recorded in 1988 when McRae was 66, but here is a younger McRae, delivering the same treatment to Take Five with the Dave Brubeck Quartet in 1961!
 
 ## George Benson on guitar
 
-<iframe width="525" height="394" src="https://www.youtube-nocookie.com/embed/FhSBK8VaLss" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include video id="FhSBK8VaLss" provider="youtube" %}
 
 I got into [George Benson](https://en.wikipedia.org/wiki/George_Benson) via [Wes Montgomery](https://en.wikipedia.org/wiki/Wes_Montgomery). On
 [an NPR podcast](https://www.npr.org/2007/09/26/14687657/wes-montgomery-the-unmistakable-jazz-guitar), I heard Benson go gaga over Montgomery’s uncanny knack of interpreting any melody as his own, “if he decided to play it, you were gonna hear something unbeatable.” Being a [big fan of Montgomery](https://medium.com/@.aravindiyer/effortless-genius-632f569cdde1), I checked out Benson and ran into this little gem from the album
@@ -47,19 +50,19 @@ I got into [George Benson](https://en.wikipedia.org/wiki/George_Benson) via [Wes
 
 ## Al Jarreau on scat
 
-<iframe width="525" height="394" src="https://www.youtube-nocookie.com/embed/hhq7fSrXn0c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include video id="hhq7fSrXn0c" provider="youtube" %}
 
 Honestly, I had not heard this version until I sat down to make this compilation! But once I heard the [late acrobat of scat](https://www.washingtonpost.com/entertainment/al-jarreau-seven-time-grammy-winning-singer-dies-at-76/2017/02/12/7edf5c7e-f14c-11e6-b9c9-e83fce42fb61_story.html), jazz singer [Al Jarreau](https://en.wikipedia.org/wiki/Al_Jarreau) belt out this take on Take Five, recorded in 1976, there was really no way it wasn’t going to make the list. [Scat singing](https://en.wikipedia.org/wiki/Scat_singing), like [beat boxing](https://en.wikipedia.org/wiki/Beatboxing), is a musical art form where performers uses their voice to produce sounds or meaningless syllables to make music, instead of singing lyrics. It has a certain raw and visceral kind of appeal and it requires an incredible amount of energy and belief to pull off a convincing performance. Well, Jarreau absolutely kills it!
 
 ## Sachal Studios Orchestra from Lahore, Pakistan
 
-<iframe width="525" height="295" src="https://www.youtube-nocookie.com/embed/GLF46JKkCNg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include video id="GLF46JKkCNg" provider="youtube" %}
 
 The idea of an orchestra interpreting a jazz standard is not new. But what happens when the orchestra in question is not a [symphony orchestra](https://en.wikipedia.org/wiki/Orchestra) from America or Europe, but one based in Pakistan, complete with a [tabla](https://en.wikipedia.org/wiki/Tabla) and a [sitar](https://en.wikipedia.org/wiki/Sitar)? What happens is a mind-blowing rendition like no other! Set in a Lahore street lined with tea stalls and car repair garages, Sachal Studios and its orchestra operate thanks to the patronage of [millionaire Izzat Majeed](https://www.npr.org/2014/04/26/306874889/a-millionaire-saves-the-silenced-symphonies-of-pakistan). Majeed remembers hearing Brubeck perform Take Five, live at Lahore in the 60s, when he was 8 years old. Majeed asked the orchestra to interpret Take Five, and what he got was a [massive viral hit](https://www.npr.org/sections/ablogsupreme/2011/07/25/138689137/pakistani-take-five-is-the-best-selling-jazz-thing-on-itunes). Sachal Studios Orchestra has since [hooked](https://youtu.be/e85wO8rsCoQ) [up](https://youtu.be/mOkD_TsKUJo) with big names like Wynton Marsalis and the Jazz at Lincoln Center Orchestra, and [jammed](https://youtu.be/hB0Y6kya_bU) with NYU jazz students. Here they are with Take Five recorded in 2011.
 
 ## Sungha Jung on solo guitar
 
-<iframe width="525" height="295" src="https://www.youtube-nocookie.com/embed/LLi2c7clpoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include video id="LLi2c7clpoY" provider="youtube" %}
 
 It was in Suwon, South Korea that I first heard [Sungha Jung](http://www.sunghajung.com/about). I was over on a business trip, and we had this shuttle van driver who would come to work in a stick shift coupé. He would get his tablet into the van, filled with a really eclectic set of music videos. One morning, as I got in the shuttle, he was playing [Diana Krall](https://en.wikipedia.org/wiki/Diana_Krall) singing “[The Look of Love](https://youtu.be/Yr8xDSPjII8)”. Another time, he played [Jung’s cover](https://youtu.be/24hRqzGj8Ko) of [Bom Bom Bom](https://youtu.be/k3-BDy55tq4) by [Roy Kim](https://en.wikipedia.org/wiki/Roy_Kim). His enthusiastic endorsement of Jung’s talent wasn’t misplaced in the least, as Jung renders with equal comfort, songs as diverse as [Gangnam Style](https://youtu.be/UmplmxwE2WM) or [Autumn Leaves](https://youtu.be/_Dk-_gizxBE). Here he is with his solo guitar take on Take Five, recorded in 2016.
 

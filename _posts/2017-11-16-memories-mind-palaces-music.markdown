@@ -6,7 +6,11 @@ tags: only-human
 header:
    teaser: "/assets/images/agrasen-ki-baoli.jpg"
 ---
-{% include figure image_path="/assets/images/agrasen-ki-baoli.jpg" alt="Agrasen Ki Baoli - an ancient Indian step well in Connaught Palace, New Delhi" %}
+<figure>
+   <a href="/assets/images/agrasen-ki-baoli.jpg">
+      <img src="/assets/images/agrasen-ki-baoli.jpg" alt="Agrasen Ki Baoli - an ancient Indian step well in Connaught Palace, New Delhi">
+   </a>
+</figure>
 
 Time only moves forward. What happened a moment ago, is in the past, and so are your experiences from yesterday, last month or the last decade. This is, of course, obvious. Our understanding of this is reflected nowhere better than in the human desire to travel back in time. Let alone the ability to go back and change the course of past happenings. Just imagine how fascinating it would be if we could even navigate an Atlas of our lives, kind of like we use maps! Swipe left, swipe right, pinch or zoom, to seek and re-live the profound or the mundane moments of our lives, and feel what it was really like. We try to accomplish this through the recollections in our minds as well as supplements in the form of text, audio, pictures or video, but we often fall short. The thing is, when we try to remember, our memories seem to capture us, our activities and our emotions, from a distance, almost from a third person perspective. But there is something which can help us remember more intimately, and that is music.
 

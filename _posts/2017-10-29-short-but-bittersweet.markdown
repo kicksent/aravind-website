@@ -7,8 +7,12 @@ header:
    teaser: "/assets/images/remler.jpg"
 ---
 ## The musical life of Emily Remler
-
-{% include figure caption="Image courtesy of Brian McMillen (from [WikiMedia](https://commons.wikimedia.org/w/index.php?curid=11091773))" image_path="/assets/images/remler.jpg" alt="Emily Remler playing guitar" %}
+<figure>
+   <a href="/assets/images/remler.jpg">
+      <img src="/assets/images/remler.jpg" alt="Emily Remler playing guitar">
+   </a>
+   <figcaption>Image courtesy of Brian McMillen (from <a href="https://commons.wikimedia.org/w/index.php?curid=11091773">WikiMedia</a>)</figcaption>
+</figure>
 
 Who can deny it? From time to time, we all worry whether ours is a life well lived. Almost as proof that this is not an uncommon worry, there is no dearth of advice on how we can make our lives better and more fulfilling. For some, it is by making a bucket list and then proceeding to check every item off it. For others, it is to try and do in 6 months what you may have imagined would take you 10 years to do. For the sage among us, it is by striving for the best, accepting the worst and not worrying about things beyond your control. No doubt, these are all worthy methods to pursue, but it is never as simple as being comfortably settled in deliberate pursuit of your chosen method. Pardon the philosophising, but I often wonder what it would have been like for jazz guitarist, Emily Remler, who made a definite impression on the jazz world despite her very short musical career.
 

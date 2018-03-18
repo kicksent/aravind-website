@@ -6,7 +6,11 @@ tags: only-human
 header:
    teaser: "/assets/images/signals.jpg"
 ---
-{% include figure image_path="/assets/images/signals.jpg" alt="Lots of scrambled signals" %}
+<figure>
+   <a href="/assets/images/signals.jpg">
+      <img src="/assets/images/signals.jpg" alt="Lots of scrambled signals">
+   </a>
+</figure>
 
 Time is [unidirectional](https://en.wikipedia.org/wiki/Arrow_of_time) or [if not](https://www.quantamagazine.org/a-debate-over-the-physics-of-time-20160719/), at least we [feel it is](https://www.scientificamerican.com/article/your-brain-has-two-clocks/). This gives rise to memories since we can reconstruct the past but not the future. If memories were merely information, it should be possible, in principle, to digitise and preserve them completely. Indeed, there can be no doubt that digitisation has had a significant impact on memories and also on the business of memorising. We have gained the ability to record our lives and our knowledge with ever finer fidelity, whether in the form of text, audio, pictures, video or a more immersive sensory experience. We can replay those artifacts. But pending the digitisation and playback of our emotions, we still have to rely on our brains to make us feel how we felt. I [wrote earlier](https://medium.com/@.aravindiyer/memories-mind-palaces-and-music-c819d48219e5) that music had the ability to help us remember more intimately, and this had to do with the [deep connection](http://www.bbc.com/culture/story/20140417-why-does-music-evoke-memories) between music and memories.
 

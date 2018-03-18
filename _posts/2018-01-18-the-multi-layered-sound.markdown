@@ -7,9 +7,12 @@ header:
    teaser: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg"
 ---
 ## Electronic Jazz from Jaga Jazzist
-
-![Jaga Jazzist (picture courtesy of [Wallpaperscraft](https://wallpaperscraft.com/download/jaga_jazzist_band_faces_line_wall_12987/1920x1080))]({{ "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg" | absolute url }}
- "Jaga Jazzist band members")
+<figure>
+   <a href="/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg">
+      <img src="/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg" alt="Jaga Jazzist band members">
+   </a>
+   <figcaption>Jaga Jazzist (picture courtesy of <a href="https://wallpaperscraft.com/download/jaga_jazzist_band_faces_line_wall_12987/1920x1080">Wallpaperscraft</a>)</figcaption>
+</figure>
 
 Does [art imitate life](https://www.psychologytoday.com/blog/the-psychology-fiction/201104/does-art-imitate-life),
 or does [life imitate art](https://en.wikipedia.org/wiki/Life_imitating_art)? It is a question that has been
@@ -118,4 +121,4 @@ utilitarian. But with Jaga Jazzist, behind the sheen of electronica, past the mu
 their music, there is art imitating the sounds of today’s life and creating a fascinating world of music.
 Go, give it a listen!
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/36aZyBDeE3E?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include video id="36aZyBDeE3E" provider="youtube" %}
