@@ -3,6 +3,8 @@ layout: archive
 permalink: /blog/
 title: Blog 
 author_profile: false
+description: "I am Aravind, a scientist and computer engineer, writing about my life. My blog attempts to cover stuff happening in my life with a touch of humour."
+og_image: "/assets/images/self-sketch-splash.jpg"
 ---
 
 <div class="grid__wrapper">
