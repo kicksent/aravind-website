@@ -43,23 +43,6 @@ lego-mini-projects:
     url: "/assets/images/lego-car.jpg"
     alt: "Lego Duplo Car"
 
-lego-assembly:
-  - image_path: "/assets/images/lego-assembly-briefing.jpg"
-    url: "/assets/images/lego-assembly-briefing.jpg"
-    alt: "Aravind briefing the kids to start the Lego Assembly activity"
-  - image_path: "/assets/images/lego-assembly-leader-briefing.jpg"
-    url: "/assets/images/lego-assembly-leader-briefing.jpg"
-    alt: "Aravind briefing the oldest kid to help and supervise the Lego Assembly activity"
-  - image_path: "/assets/images/lego-assembly-in-progress.jpg"
-    url: "/assets/images/lego-assembly-in-progress.jpg"
-    alt: "Lego Assembly activity in progress"
-  - image_path: "/assets/images/lego-assembly-in-progress-2.jpg"
-    url: "/assets/images/lego-assembly-in-progress-2.jpg"
-    alt: "Lego Assembly activity in progress"
-  - image_path: "/assets/images/lego-assembly-almost-finished.jpg"
-    url: "/assets/images/lego-assembly-almost-finished.jpg"
-    alt: "Lego Assembly activity nearing completion"
-
 bday:
   - image_path: "/assets/images/bday-musical-statues.jpg"
     url: "/assets/images/bday-musical-statues.jpg"
@@ -94,8 +77,25 @@ Laasya promptly appointed herself as the auditor of the process and was happy to
 
 We sorted the pieces needed for each mini-project and put them in separate bags, so they won’t get mixed up. We printed a sheet each showing all the pieces and final assembly. Given the simplicity of each model, we thought that would suffice. On the day of the party, I wanted to get all the kids to listen. Very cutely and amazingly, they all sat down obediently to listen to the instructions. We handed out the bag and the printout (of the before and after pictures) to each kid. For the zoo and the tracks, we formed teams of 2–3 kids together to fix it all up.
 
-
-{% include gallery id="lego-assembly" %}
+<figure class="half">
+   <a href="/assets/images/lego-assembly-briefing.jpg">
+      <img src="/assets/images/lego-assembly-briefing.jpg" alt="Aravind briefing the kids to start the Lego Assembly activity">
+   </a>
+   <a href="/assets/images/lego-assembly-leader-briefing.jpg">
+      <img src="/assets/images/lego-assembly-leader-briefing.jpg" alt="Aravind briefing the oldest kid to help and supervise the Lego Assembly activity">
+   </a>
+</figure>
+<figure class="third">
+   <a href="/assets/images/lego-assembly-in-progress.jpg">
+      <img src="/assets/images/lego-assembly-in-progress.jpg" alt="Lego Assembly activity in progress">
+   </a>
+   <a href="/assets/images/lego-assembly-in-progress-2.jpg">
+      <img src="/assets/images/lego-assembly-in-progress-2.jpg" alt="Lego Assembly activity in progress">
+   </a>
+   <a href="/assets/images/lego-assembly-almost-finished.jpg">
+      <img src="/assets/images/lego-assembly-almost-finished.jpg" alt="Lego Assembly activity nearing completion">
+   </a>
+</figure>
 
 The building did not go exactly as planned, but that’s just my grown-up viewpoint since the kids made only one loop of the railway track instead of two. They pretty much nailed the rest of the stuff. And it was great fun! After the building was done, the kids created an impromptu story about how the family of Lego people rode the train to visit the zoo, how the train had to be re-fueled, and so on. Of course, the agenda also included the obligatory musical statues, the cake and the posed photographs. What birthday is complete without them?
 
