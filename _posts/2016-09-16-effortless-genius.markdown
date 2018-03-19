@@ -2,7 +2,7 @@
 title: "Effortless Genius"
 author: Aravind Iyer
 date: 2016-09-16 10:30:00 +0530
-tags: music-naka
+categories: music-naka
 header:
    teaser: "/assets/images/wes-montgomery.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "The Ambivalence of Loneliness"
 author: Aravind Iyer
 date: 2017-02-02 17:08:00 +0530
-tags: only-human
+categories: only-human
 header:
    teaser: "/assets/images/Lonely-elder.jpg"
    image: "/assets/images/Lonely-elder.jpg"

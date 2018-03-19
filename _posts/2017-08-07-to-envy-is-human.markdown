@@ -2,7 +2,7 @@
 title: "To Envy is Human"
 author: Aravind Iyer
 date: 2017-08-07 17:31:00 +0530
-tags: only-human
+categories: only-human
 header:
    teaser: "/assets/images/Envious-eyes.jpeg"
 ---

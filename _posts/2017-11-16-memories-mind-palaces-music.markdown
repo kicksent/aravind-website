@@ -2,7 +2,7 @@
 title: "Memories, Mind Palaces and Music"
 author: Aravind Iyer
 date: 2017-11-16 18:33:00 +0530
-tags: only-human
+categories: only-human
 header:
    teaser: "/assets/images/agrasen-ki-baoli.jpg"
 ---

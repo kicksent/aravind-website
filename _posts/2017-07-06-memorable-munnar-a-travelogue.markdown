@@ -2,7 +2,7 @@
 title: "Memorable Munnar - A Travelogue"
 author: Aravind Iyer
 date: 2017-07-06 15:23:00 +0530
-tags: personal
+categories: personal
 header:
    teaser: "/assets/images/breakfast-at-munnar.jpg"
 ---

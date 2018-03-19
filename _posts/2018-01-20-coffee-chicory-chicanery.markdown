@@ -2,7 +2,7 @@
 title: "Coffee, Chicory and Chicanery"
 author: Aravind Iyer
 date: 2018-01-20 17:06:00 +0530
-tags: personal
+categories: personal
 header:
    teaser: "/assets/images/coffee-and-biscotti.jpg"
 ---

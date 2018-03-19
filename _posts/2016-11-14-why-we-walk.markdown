@@ -2,7 +2,7 @@
 title: "Why we walk"
 author: Aravind Iyer
 date: 2016-11-14 08:15:00 +0530
-tags: only-human
+categories: only-human
 header:
    teaser: "/assets/images/Walking-2-year-old.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "Right of Passage - How I wound up as something of a car enthusiast!"
 author: Aravind Iyer
 date: 2017-06-27 13:42:00 +0530
-tags: personal
+categories: personal
 header:
    teaser: "/assets/images/car-interior.jpg"
 ---

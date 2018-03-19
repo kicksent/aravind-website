@@ -2,7 +2,7 @@
 title: "Short but Bittersweet"
 author: Aravind Iyer
 date: 2017-10-29 09:15:00 +0530
-tags: music-naka
+categories: music-naka
 header:
    teaser: "/assets/images/remler.jpg"
 ---

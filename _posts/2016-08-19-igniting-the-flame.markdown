@@ -2,7 +2,7 @@
 title: "Igniting the Flame"
 author: Aravind Iyer
 date: 2016-08-19 09:00:00 +0530
-tags: music-naka
+categories: music-naka
 header:
    teaser: "/assets/images/Liner-notes-table.jpg" 
 ---

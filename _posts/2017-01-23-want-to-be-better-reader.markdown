@@ -2,7 +2,7 @@
 title: "Want to be a better reader? Start writing!"
 author: Aravind Iyer
 date: 2017-01-23 15:15:00 +0530
-tags: only-human
+categories: only-human
 header:
    teaser: "/assets/images/books-1251734_1920.jpg"
 ---

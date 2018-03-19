@@ -2,7 +2,7 @@
 title: "Mercurial yet Everlasting"
 author: Aravind Iyer
 date: 2017-11-07 11:10:00 +0530
-tags: music-naka
+categories: music-naka
 header:
    teaser: "/assets/images/Freddy_Mercury_Statue_Montreux.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "Memories are in bytes and Mind Palaces are subscriptions"
 author: Aravind Iyer
 date: 2017-12-07 18:45:00 +0530
-tags: only-human
+categories: only-human
 header:
    teaser: "/assets/images/signals.jpg"
 ---

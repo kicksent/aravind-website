@@ -2,7 +2,7 @@
 title: "Approachable Snobbery"
 author: Aravind Iyer
 date: 2016-09-03 08:30:00 +0530
-tags: music-naka
+categories: music-naka
 header:
    teaser: "/assets/images/aja-album-abstract.jpg"
 ---

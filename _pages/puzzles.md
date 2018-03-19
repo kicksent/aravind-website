@@ -7,10 +7,10 @@ description: "I am Aravind, a scientist and computer engineer, and like a good m
 og_image: "/assets/images/self-sketch-splash.jpg"
 ---
 
-{% include group-by-array collection=site.posts field="tags" %}
+{% include group-by-array collection=site.posts field="categories" %}
 
-{% for tag in group_names %}
-  {% if tag == 'puzzles' %}
+{% for category in group_names %}
+  {% if category == 'puzzles' %}
     {% assign posts = group_items[forloop.index0] %}
     {% for post in posts %}
       {% include archive-single.html %}

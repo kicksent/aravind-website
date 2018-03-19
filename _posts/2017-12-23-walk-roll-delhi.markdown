@@ -2,7 +2,7 @@
 title: "Walk and Roll in Delhi"
 author: Aravind Iyer
 date: 2017-12-23 16:34:00 +0530
-tags: personal
+categories: personal
 header:
    teaser: "/assets/images/india-gate-selfie.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "How to not care about what other people think"
 author: Aravind Iyer
 date: 2017-06-20 17:24:00 +0530
-tags: only-human
+categories: only-human
 header:
    teaser: "/assets/images/handstand-1461105_1920.jpg"
 ---
