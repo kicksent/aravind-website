@@ -45,6 +45,22 @@ $(document).ready(function() {
     stickySideBar();
   });
 
+  //Sticky navbar - from line 48 to line 62
+  var stickyNavBar = function() {
+    var show = $(window).pageYOffset() >= $(".site-nav").offsetTop;
+    if (show) {
+      $(".site-nav").addClass("sticky");
+    } else {
+      $(".site-nav").removeClass("sticky);
+    }
+  }
+  
+  stickyNavBar();
+
+  $(.window).onscroll(function() {
+    stickyNavBar();
+  });
+
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function() {
     $(".author__urls").toggleClass("is--visible");
