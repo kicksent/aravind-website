@@ -1,3 +1,9 @@
+<!-- Generating previous and next links at the bottom
+     Previous and next links should be within the category of the given page
+     If the page has no categories, the previous and next links should be across all pages
+     Solution adapted from https://github.com/jekyll/jekyll/issues/260
+-->
+
 {% if page.categories %}
   {% assign category = page.categories[0] %}
   {% assign posts = site.categories[category] %}
@@ -15,6 +21,9 @@
       {% assign prev_post = post %}
     {% endif %}
   {% endfor %}
+{% else %}
+  {% assign next_post = page.next %}
+  {% assign prev_post = page.previous %}
 {% endif %}
 
 {% if prev_post or next_post %}
