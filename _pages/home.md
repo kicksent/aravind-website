@@ -9,7 +9,7 @@ header:
    overlay_image: "/assets/images/self-sketch-splash.jpg"
    cta_label: "Learn more"
    cta_url: "/about/"
-excerpt: "A scientist and computer engineer, writing about music, life and personal stuff."
+excerpt: "A tech guy writing about music, life and personal stuff."
 description: "I am Aravind, a scientist and computer engineer by training, writing about music and life. My writings cover reviews and stories about jazz albums as well as human emotions and ordinary things that make us human."
 og_image: "/assets/images/self-sketch-splash.jpg"
 ---
