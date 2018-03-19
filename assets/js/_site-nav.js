@@ -1,10 +1,10 @@
   //Sticky navbar
   var stickyNavBar = function() {
-    var show = $(window).pageYOffset() >= $(".site-nav").offsetTop;
+    var show = $(window).pageYOffset() >= $(".masthead").offsetTop;
     if (show) {
-      $(".site-nav").addClass("sticky");
+      $(".masthead").addClass("sticky");
     } else {
-      $(".site-nav").removeClass("sticky");
+      $(".masthead").removeClass("sticky");
     }
   }
   
