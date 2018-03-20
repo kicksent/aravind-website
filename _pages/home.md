@@ -12,8 +12,7 @@ header:
 excerpt: "A tech guy writing about music, life and personal stuff."
 description: "I am Aravind, a scientist and computer engineer by training, writing about music, life and personal stuff. My writings cover stories about jazz albums, human emotions and ordinary things that make us human, and narrations of things happening in my life."
 og_image: "/assets/images/self-sketch-splash.jpg"
-
-feature_music_naka:
+feature_collections:
   - image_path: /assets/images/music-naka-cover.jpg
     alt: "Collage of cover images of Music Naka posts"
     title: "Music Naka"
@@ -21,8 +20,6 @@ feature_music_naka:
     url: "/music-naka/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-feature_only_human:
   - image_path: /assets/images/only-human-cover.jpg
     alt: "Collage of cover images of Only Human posts"
     title: "Only Human"
@@ -30,20 +27,14 @@ feature_only_human:
     url: "/only-human/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-feature_blog:
   - image_path: /assets/images/blog-cover.jpg
     alt: "Collage of cover images of blog posts"
     title: "Personal Blog"
-    excerpt: 'An ordinary life and things that happen, covered with a touch of humour.'
+    excerpt: 'Stories about an ordinary life and things that happen, narrated with a touch of humour.'
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 ---
 
-{% include feature_row id="feature_music_naka" type="right" %}
+{% include feature_row id="feature_collections" %}
 
-{% include feature_row id="feature_only_human" type="left" %}
-
-{% include feature_row id="feature_blog" type="right" %}
