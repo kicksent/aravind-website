@@ -16,21 +16,21 @@ feature_collections:
   - image_path: /assets/images/music-naka-cover.jpg
     alt: "Collage of cover images of Music Naka posts"
     title: "Music Naka"
-    excerpt: 'Playlists, jazz albums, stories about how they were made or how I discovered them.'
+    excerpt: 'Playlists, jazz albums, stories about how they were made or how I found them.'
     url: "/music-naka/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/only-human-cover.jpg
     alt: "Collage of cover images of Only Human posts"
     title: "Only Human"
-    excerpt: 'Things we do, the emotions we feel and the little everyday things that make us human.'
+    excerpt: 'Things we do, emotions we feel and little everyday things that make us human.'
     url: "/only-human/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-cover.jpg
     alt: "Collage of cover images of blog posts"
     title: "Personal Blog"
-    excerpt: 'Stories about an ordinary life and things that happen, narrated with a touch of humour.'
+    excerpt: 'Stories about an ordinary life and events, narrated with a touch of humour.'
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
