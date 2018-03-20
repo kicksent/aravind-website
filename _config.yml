@@ -140,6 +140,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _redirects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -275,7 +276,7 @@ defaults:
       share: true
       related: true
 
-include: ["_pages"]
+include: ["_pages, _redirects"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
