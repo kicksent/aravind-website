@@ -89,8 +89,9 @@ social:
   links: # An array of links to social media profiles
     - "https://twitter.com/aravindiyer"
     - "https://facebook.com/aravindiyer"
-    - "https://instagram.com/aravind.iyer"
+    - "https://medium.com/@.aravindiyer"
     - "https://www.linkedin.com/in/aravindiyer"
+    - "https://instagram.com/aravind.iyer"
     - "https://plus.google.com/+AravindIyer"
 
 # Analytics
@@ -118,6 +119,7 @@ author:
   github           : "iyeraravind"
   gitlab           :
   google_plus      : +AravindIyer
+  medium           : .aravindIyer
   keybase          :
   instagram        : aravind.iyer
   lastfm           :
