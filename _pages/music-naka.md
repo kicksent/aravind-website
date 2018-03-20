@@ -3,7 +3,7 @@ layout: archive
 permalink: /music-naka/
 title: Music Naka
 author_profile: false
-description: "I am Aravind, a scientist and computer engineer, and a lover of music, especially jazz. Music Naka is my collection of posts about music albums, stories about how they were made or how I discovered them. If you like jazz, you may find something you like."
+description: "I am Aravind, a scientist and computer engineer, and a lover of music, especially jazz. Music Naka is a collection of posts about playlists, music albums, stories about how they were made or how I discovered them."
 og_image: "/assets/images/self-sketch-splash.jpg"
 ---
 

@@ -10,14 +10,14 @@ header:
    cta_label: "About me"
    cta_url: "/about/"
 excerpt: "A tech guy writing about music, life and personal stuff."
-description: "I am Aravind, a scientist and computer engineer by training, writing about music and life. My writings cover reviews and stories about jazz albums as well as human emotions and ordinary things that make us human."
+description: "I am Aravind, a scientist and computer engineer by training, writing about music, life and personal stuff. My writings cover stories about jazz albums, human emotions and ordinary things that make us human, and narrations of things happening in my life."
 og_image: "/assets/images/self-sketch-splash.jpg"
 
 feature_music_naka:
   - image_path: /assets/images/music-naka-cover.jpg
     alt: "Collage of cover images of Music Naka posts"
     title: "Music Naka"
-    excerpt: 'Music Naka is my collection of posts about music albums, stories about how they were made or how I discovered them. If you like jazz, you may find something you like.'
+    excerpt: 'Playlists, jazz albums, stories about how they were made or how I discovered them.'
     url: "/music-naka/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -26,7 +26,7 @@ feature_only_human:
   - image_path: /assets/images/only-human-cover.jpg
     alt: "Collage of cover images of Only Human posts"
     title: "Only Human"
-    excerpt: 'I am interested in human emotions and the little things that make us human, and I write about these from time to time.'
+    excerpt: 'Things we do, the emotions we feel and the little everyday things that make us human.'
     url: "/only-human/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -35,7 +35,7 @@ feature_blog:
   - image_path: /assets/images/blog-cover.jpg
     alt: "Collage of cover images of blog posts"
     title: "Personal Blog"
-    excerpt: 'My blog attempts to cover stuff happening in my life with a touch of humour.'
+    excerpt: 'An ordinary life and things that happen, covered with a touch of humour.'
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"

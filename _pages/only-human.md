@@ -3,7 +3,7 @@ layout: archive
 permalink: /only-human/
 title: Only Human
 author_profile: false
-description: "I am Aravind, a scientist and computer engineer, and a human being. I am interested in human emotions and the little things that make us human, and I write about these from time to time."
+description: "I am Aravind, a scientist and computer engineer, and a human being. I am interested in the things we do, the emotions we feel and the little everyday things that make us human. I write about these from time to time."
 og_image: "/assets/images/self-sketch-splash.jpg"
 ---
 
