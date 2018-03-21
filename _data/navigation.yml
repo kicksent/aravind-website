@@ -9,9 +9,13 @@ main:
     url: /only-human/
   - title: "Blog"
     url: /blog/
-  - title: "Line Art"
-    url: /line-art/
-  - title: "From Math to Code"
-    url: /puzzles/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Contact"
+    url: /contact/
+  - title: "Terms of Use"
+    url: /terms/
+#  - title: "Line Art"
+#    url: /line-art/
+#  - title: "From Math to Code"
+#    url: /puzzles/
+#  - title: "Sitemap"
+#    url: /sitemap/

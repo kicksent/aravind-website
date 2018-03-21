@@ -2,7 +2,7 @@
 title: "Between the Lines"
 author: Aravind Iyer
 date: 2018-02-15 14:43:00 +0530
-categories: line-art
+categories: line-art, personal 
 header:
    teaser: "/assets/images/pen-in-hand-640.jpg" 
 ---
@@ -121,4 +121,3 @@ You may have probably seen it already. But there is a picture, by [M. C. Escher]
 
 That’s it for now. I hope you liked the pictures. If you have a comment, question or suggestion, feel free to contact me.
 
-All the illustrations on this page (except the pencil sketch of Hergé’s comic — The Secret of the Unicorn) are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
