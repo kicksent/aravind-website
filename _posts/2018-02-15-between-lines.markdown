@@ -2,7 +2,7 @@
 title: "Between the Lines"
 author: Aravind Iyer
 date: 2018-02-15 14:43:00 +0530
-categories: line-art, personal 
+categories: personal 
 header:
    teaser: "/assets/images/pen-in-hand-640.jpg" 
 ---
