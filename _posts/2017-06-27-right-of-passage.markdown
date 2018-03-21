@@ -49,3 +49,5 @@ But compromise is not the only thing that is wrong with the car today. Several t
    </a>
    <figcaption>My current ride (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>
+
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*

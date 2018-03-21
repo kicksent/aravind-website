@@ -110,3 +110,5 @@ We had our dinner and talked about when to leave the following morning. We thoug
 Our morning started with alacrity and we had crossed the state border into Tamil Nadu before we knew it. Then somewhere, reality hit us. Our vacation was going to be over soon. Still with the early start we set our sights on a fancy lunch at a posh hotel in Salem, Tamil Nadu, where we could pamper ourselves with good food and reminisce about the great time we had had so far. The trip definitely confirmed to us the beauty of the planet we live in. But while we may reside on the same planet, we often live in our made up little worlds, running on the seemingly ever-accelerating treadmill of our routines. Routine is good. Acceleration can be good too. Once in a while we just need a breather.
 
 So when are we doing the next one?
+
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*

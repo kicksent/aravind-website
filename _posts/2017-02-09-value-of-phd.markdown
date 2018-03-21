@@ -43,3 +43,5 @@ What does it mean to be ambitious? Some say that being ambitious means striving 
 All right, maybe these values are aspirational and difficult to translate into practice, even for the best of academics. Neither is it the exclusive domain of academics to aspire to and practise these values. But when you pursue self-directed research for years in the quest of earning a PhD, while peers may gain wealth and position with perhaps less rigour and learning, I think the academic has already shown plenty of faith in these values.
 
 Yes, the cynics are often right. As with so many things, the PhD degree may well come to be disposable with better methods and standards of education and training taking its place, ones which might even confer a higher incremental salary on its recipients. But the academic mindset is invaluable for society, and it’s not going away any time soon.
+
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*

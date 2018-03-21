@@ -28,3 +28,5 @@ For a long time, Queen was the mainstay of my music collection and Mercury was m
 But just like the time when I had learned that Mercury had died, I got a fresh impetus to listen to Queen again. I got out all the tapes of Queen I had, some bought, some dubbed and some recorded from FM programs. Equipped with my own tape player in my college hostel room, crooning along with Mercury in my pyjamas on a late Saturday morning, and being a general nuisance to my tolerant neighbours, I felt like I couldn’t have broken more free. In those moments, everything faded away, into the background, Queen and Mercury’s backstory, my friend’s opinions, anyone’s opinions about anything, the past, the future. Only the moments remained, and the music — mercurial yet everlasting!
 
 Nothing is permanent except change. Music is now so easy to get. I am not a teenager anymore. Drugs are no longer cool, and smartphones are the new drugs. Being gay is a bit more OK than it used to be in the 90s. But the magic of Freddie Mercury’s voice lives on.
+
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*

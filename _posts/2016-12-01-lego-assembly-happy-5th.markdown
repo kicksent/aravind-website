@@ -104,3 +104,5 @@ The building did not go exactly as planned, but that’s just my grown-up viewpo
 All in all, it was a totally cool idea to do Lego assembly at Laasya’s 5th birthday party. Unsurprisingly, Laasya wanted to be a part of everything, from laying out all the bricks, counting them, checking each picture of the models, to totally getting into building and playing during the party.
 
 So? What are we doing next?
+
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*

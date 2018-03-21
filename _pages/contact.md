@@ -12,7 +12,7 @@ og_image: "/assets/images/profile.jpg"
 
 # Contact me
 
-If you would like share your feedback about your experience at this website, please [email me](mailto:feedback@aravindiyer.com). If you would like to follow me on social media, please use the following links.
+The best way to reach me is to [email me](mailto:feedback@aravindiyer.com). I know it's old school, but I would really appreciate it if you would write in, if you had something to say. If you would like to follow me on social media, please use the links below.
 
 {% assign author = site.author %}
 

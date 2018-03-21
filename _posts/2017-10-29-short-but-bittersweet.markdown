@@ -29,3 +29,5 @@ With Firefly, Remler’s career was off to a good start. Although her technique 
 {% include video id="484waDASa9s" provider="youtube" %}
 
 In the short span of less than 10 years, Remler took Montgomery’s torch and carried it forward while also giving it her own identity. We can only wonder at what might have been, had she lived and played longer. Just when she had overcome the hurdles of gender bias, technique and the long shadows of her heroes, and begun to form her own voice, it all ended so abruptly. So, was hers a life well lived? Today, it seems that our lives are so much about output than input — about the things that we display rather than about the things that we absorb. Remler’s career was tragically cut short with the result that she did not produce the output that was so obviously within her musical reach. Yet I think she got more out of her life by absorbing her life experiences, learning from them and just harnessing them into her music. That was the musical life of Emily Remler — short and bittersweet, but very much well lived!
+
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*

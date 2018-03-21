@@ -15,4 +15,4 @@ All content is provided solely for informational purposes. The articles, posts a
 All original content (e.g. articles, blog posts, illustrations, artwork, and photographs) available on [www.aravindiyer.com](https://www.aravindiyer.com) is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted. Basically this means you are free to copy, redistribute, remix, transform, and build on my work provided you do not use it for any commercial purpose without my prior written consent.
 
 # Credit
-To provide credit, please link back to the source article attributed to Aravind Iyer.
+It's nice to be given credit for your work, isn't it? If you are using any of my work, do provide credit for it by linking back to the source article or material here. Thanks!
