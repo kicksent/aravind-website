@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2018-02-15 14:43:00 +0530
 categories: line-art
 header:
-   teaser: "/assets/images/pen-in-hand.jpg" 
+   teaser: "/assets/images/pen-in-hand-640.jpg" 
 ---
 <figure>
    <a href="/assets/images/pen-in-hand.jpg">
-      <img src="/assets/images/pen-in-hand.jpg" alt="Line drawing of a hand with a pencil">
+      <img src="/assets/images/pen-in-hand-640.jpg" alt="Line drawing of a hand with a pencil">
    </a>
    <figcaption>Wielding the pencil, but it’s really a metaphor for the computer mouse! (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -23,7 +23,7 @@ I started drawing icons as a way to represent common objects like computers, ser
 
 <figure>
    <a href="/assets/images/line-drawing-icons.jpg">
-      <img src="/assets/images/line-drawing-icons.jpg" alt="Line drawing of a phone, a watch and an 80’s stereo">
+      <img src="/assets/images/line-drawing-icons-640.jpg" alt="Line drawing of a phone, a watch and an 80’s stereo">
    </a>
    <figcaption>A phone, a watch and an 80’s stereo (Illustrations courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -34,10 +34,10 @@ Being [something of a car enthusiast]({{ site.baseurl }}{% post_url 2017-06-27-r
 
 <figure class="half">
    <a href="/assets/images/car-interior.jpg">
-      <img src="/assets/images/car-interior.jpg" alt="Line drawing of a car interior">
+      <img src="/assets/images/car-interior-640.jpg" alt="Line drawing of a car interior">
    </a>
    <a href="/assets/images/2007HondaCivic.jpg">
-      <img src="/assets/images/2007HondaCivic.jpg" alt="Line drawing of a modern Japanese compact car">
+      <img src="/assets/images/2007HondaCivic-640.jpg" alt="Line drawing of a modern Japanese compact car">
    </a>
    <figcaption>A car interior (left) and my current ride (right) (Illustrations courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -48,7 +48,7 @@ Later I wanted to see how complex subjects could be rendered through this proces
 
 <figure>
    <a href="/assets/images/complex-subjects.jpg">
-      <img src="/assets/images/complex-subjects.jpg" alt="Line drawing of a self-portrait and an African elephant">
+      <img src="/assets/images/complex-subjects-640.jpg" alt="Line drawing of a self-portrait and an African elephant">
    </a>
    <figcaption>Self-portrait and an African elephant (Illustrations courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -59,7 +59,7 @@ Since I have been writing [music reviews]({{ site.baseurl }}{% link _pages/music
 
 <figure>
    <a href="/assets/images/mock-album-art.jpg">
-      <img src="/assets/images/mock-album-art.jpg" alt="Mock album art — The Inner Mounting Flame and Aja">
+      <img src="/assets/images/mock-album-art-640.jpg" alt="Mock album art — The Inner Mounting Flame and Aja">
    </a>
    <figcaption>Mock album art — The Inner Mounting Flame (left) and Aja (right) (Illustrations courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -70,7 +70,7 @@ In the process of creating all these drawings on the computer, one day I suddenl
 
 <figure>
    <a href="/assets/images/secret-of-unicorn.jpg">
-      <img src="/assets/images/secret-of-unicorn.jpg" alt="A pencil copy of Hergé’s cover of The Secret of the Unicorn">
+      <img src="/assets/images/secret-of-unicorn-640.jpg" alt="A pencil copy of Hergé’s cover of The Secret of the Unicorn">
    </a>
    <figcaption>A copy of Hergé’s cover of “The Secret of the Unicorn” (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -81,7 +81,7 @@ The other day I was in a shopping mall and I was fascinated looking at this scen
 
 <figure>
    <a href="/assets/images/mall-escalators.jpg">
-      <img src="/assets/images/mall-escalators.jpg" alt="Line drawing of Escalators in a Mall">
+      <img src="/assets/images/mall-escalators-640.jpg" alt="Line drawing of Escalators in a Mall">
    </a>
    <figcaption>Escalators in a Mall (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -92,7 +92,7 @@ The amazing thing about drawing on a computer is the ever-growing collection of 
 
 <figure>
    <a href="/assets/images/self-draw.jpg">
-      <img src="/assets/images/self-draw.jpg" alt="Line drawing of a hand taking a selfie">
+      <img src="/assets/images/self-draw-640.jpg" alt="Line drawing of a hand taking a selfie">
    </a>
    <figcaption>Picture of a selfie (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -103,7 +103,7 @@ Here is a picture of a hand drawing a phone taking a picture of a hand drawing a
 
 <figure>
    <a href="/assets/images/Hand-camera.jpg">
-      <img src="/assets/images/Hand-camera.jpg" alt="Line drawing of a hand drawing a phone taking a picture of a hand drawing a phone taking a picture…">
+      <img src="/assets/images/Hand-camera-640.jpg" alt="Line drawing of a hand drawing a phone taking a picture of a hand drawing a phone taking a picture…">
    </a>
    <figcaption>Recursion (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -114,7 +114,7 @@ You may have probably seen it already. But there is a picture, by [M. C. Escher]
 
 <figure>
    <a href="/assets/images/human-machine-entanglement.jpg">
-      <img src="/assets/images/human-machine-entanglement.jpg" alt="Line drawing of the right hand drawing the left hand holding a phone taking a picture of the right hand">
+      <img src="/assets/images/human-machine-entanglement-640.jpg" alt="Line drawing of the right hand drawing the left hand holding a phone taking a picture of the right hand">
    </a>
    <figcaption>Human Machine Entanglement (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>

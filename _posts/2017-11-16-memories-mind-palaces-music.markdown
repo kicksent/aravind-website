@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-11-16 18:33:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/agrasen-ki-baoli.jpg"
+   teaser: "/assets/images/agrasen-ki-baoli-640.jpg"
 ---
 <figure>
    <a href="/assets/images/agrasen-ki-baoli.jpg">
-      <img src="/assets/images/agrasen-ki-baoli.jpg" alt="Agrasen Ki Baoli - an ancient Indian step well in Connaught Palace, New Delhi">
+      <img src="/assets/images/agrasen-ki-baoli-640.jpg" alt="Agrasen Ki Baoli - an ancient Indian step well in Connaught Palace, New Delhi">
    </a>
 </figure>
 

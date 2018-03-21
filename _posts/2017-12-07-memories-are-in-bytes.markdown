@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-12-07 18:45:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/signals.jpg"
+   teaser: "/assets/images/signals-640.jpg"
 ---
 <figure>
    <a href="/assets/images/signals.jpg">
-      <img src="/assets/images/signals.jpg" alt="Lots of scrambled signals">
+      <img src="/assets/images/signals-640.jpg" alt="Lots of scrambled signals">
    </a>
 </figure>
 

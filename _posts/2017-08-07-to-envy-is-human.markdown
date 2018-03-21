@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-08-07 17:31:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/Envious-eyes.jpeg"
+   teaser: "/assets/images/Envious-eyes-640.jpg"
 ---
 <figure>
    <a href="/assets/images/Envious-eyes.jpeg">
-      <img src="/assets/images/Envious-eyes.jpeg" alt="Envious Eyes">
+      <img src="/assets/images/Envious-eyes-640.jpg" alt="Envious Eyes">
    </a>
    <figcaption>Envy lies in the eye of the beholder (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>

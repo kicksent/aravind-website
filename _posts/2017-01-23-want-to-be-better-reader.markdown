@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-01-23 15:15:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/books-1251734_1920.jpg"
+   teaser: "/assets/images/books-1251734_1920-640.jpg"
 ---
 <figure>
    <a href="/assets/images/books-1251734_1920.jpg">
-      <img src="/assets/images/books-1251734_1920.jpg" alt="A stack of books">
+      <img src="/assets/images/books-1251734_1920-640.jpg" alt="A stack of books">
    </a>
    <figcaption>Picture courtesy of <a href="https://pixabay.com/">Pixabay</a></figcaption>
 </figure>

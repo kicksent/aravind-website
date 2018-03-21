@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2018-01-20 17:06:00 +0530
 categories: personal
 header:
-   teaser: "/assets/images/coffee-and-biscotti.jpg"
+   teaser: "/assets/images/coffee-and-biscotti-640.jpg"
 ---
 <figure>
    <a href="/assets/images/coffee-and-biscotti.jpg">
-      <img src="/assets/images/coffee-and-biscotti.jpg" alt="South Indian filter coffee and an Italian almond biscotti">
+      <img src="/assets/images/coffee-and-biscotti-640.jpg" alt="South Indian filter coffee and an Italian almond biscotti">
    </a>
    <figcaption>South Indian filter coffee and an Italian almond biscotti — but hey, it really works! (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -19,13 +19,13 @@ Packets of unroasted [coffee beans](https://en.wikipedia.org/wiki/Coffee_bean) w
 
 <figure class="third">
    <a href="/assets/images/coffee-744157.jpg">
-      <img src="/assets/images/coffee-744157.jpg" alt="Old-fashioned hand grinder">
+      <img src="/assets/images/coffee-744157-640.jpg" alt="Old-fashioned hand grinder">
    </a>
    <a href="/assets/images/Disassembled_South_Indian_coffee_filter.jpg">
-      <img src="/assets/images/Disassembled_South_Indian_coffee_filter.jpg" alt="South Indian coffee filter">
+      <img src="/assets/images/Disassembled_South_Indian_coffee_filter-640.jpg" alt="South Indian coffee filter">
    </a>
    <a href="/assets/images/Filter_coffee_South_Indian_style.jpg">
-      <img src="/assets/images/Filter_coffee_South_Indian_style.jpg" alt="Coffee served in a tumbler-davarah">
+      <img src="/assets/images/Filter_coffee_South_Indian_style-640.jpg" alt="Coffee served in a tumbler-davarah">
    </a>
    <figcaption>An old-fashioned hand grinder (picture courtesy of <a href="https://pixabay.com">Pixabay</a>), a South Indian coffee filter (picture courtesy of <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>) and a frothing, steaming hot coffee served in a tumbler-davarah (picture courtesy of <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>)</figcaption>
 </figure>
@@ -36,10 +36,10 @@ Times changed quite soon though. It became quite convenient and cheap to just bu
 
 <figure class="half">
    <a href="/assets/images/coffee-beans-drying.jpg">
-      <img src= "/assets/images/coffee-beans-drying.jpg" alt="Coffee beans">
+      <img src= "/assets/images/coffee-beans-drying-640.jpg" alt="Coffee beans">
    </a>
    <a href="/assets/images/Witlof_en_wortel.jpg">
-      <img src="/assets/images/Witlof_en_wortel.jpg" alt="Chicory root">
+      <img src="/assets/images/Witlof_en_wortel-640.jpg" alt="Chicory root">
    </a>
    <figcaption>Coffee beans (picture courtesy of Aravind Iyer) and Chicory root (picture courtesy of <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>)</figcaption>
 </figure>
@@ -52,10 +52,10 @@ Then I started college and my coffee snobbery nose-dived further. Living in a ho
 
 <figure class="half">
    <a href="/assets/images/pexels-photo-685527.jpg">
-      <img src="/assets/images/pexels-photo-685527.jpg" alt="An espresso">
+      <img src="/assets/images/pexels-photo-685527-640.jpg" alt="An espresso">
    </a>
    <a href="/assets/images/coffee-540653.jpg">
-      <img src="/assets/images/coffee-540653.jpg" alt="Cold coffee with a straw">
+      <img src="/assets/images/coffee-540653-640.jpg" alt="Cold coffee with a straw">
    </a>
    <figcaption>An espresso (picture courtesy of <a href="https://pexels.com">Pexels</a>) and what I thought it was! (picture courtesy of <a href="https://pixabay.com">Pixabay</a>)</figcaption>
 </figure>
@@ -64,7 +64,7 @@ Thankfully that was the lowest point of my coffee snob quotient. It all changed 
 
 <figure>
    <a href="/assets/images/coffee-snobbery-chart.jpg">
-      <img src="/assets/images/coffee-snobbery-chart.jpg" alt="Chart showing various levels of coffee snobbery">
+      <img src="/assets/images/coffee-snobbery-chart-640.jpg" alt="Chart showing various levels of coffee snobbery">
    </a>
    <figcaption>My coffee snob quotient over the years — in one easy chart!</figcaption>
 </figure>

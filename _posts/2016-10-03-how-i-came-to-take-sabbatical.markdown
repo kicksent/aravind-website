@@ -4,7 +4,7 @@ author: Aravind Iyer
 date: 2016-10-03 12:51:00 +0530
 categories: personal
 header:
-   teaser: "/assets/images/urban-sunset.jpg"
+   teaser: "/assets/images/urban-sunset-640.jpg"
    image: "/assets/images/urban-sunset.jpg"
    alt: "A sunset against a typical Bengaluru urban skyline" 
 ---

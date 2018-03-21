@@ -4,7 +4,7 @@ author: Aravind Iyer
 date: 2017-02-02 17:08:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/Lonely-elder.jpg"
+   teaser: "/assets/images/Lonely-elder-640.jpg"
    image: "/assets/images/Lonely-elder.jpg"
    caption: "Enjoying the solitude or feeling lonely? (Picture courtesy of Aravind Iyer)"
    alt: "An old man soaking up the sun"

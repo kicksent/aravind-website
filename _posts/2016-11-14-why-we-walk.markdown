@@ -4,12 +4,12 @@ author: Aravind Iyer
 date: 2016-11-14 08:15:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/Walking-2-year-old.jpg"
+   teaser: "/assets/images/Walking-2-year-old-640.jpg"
 ---
 
 <figure>
    <a href="/assets/images/Walking-2-year-old.jpg">
-      <img src="/assets/images/Walking-2-year-old.jpg" alt="A two year old walking">
+      <img src="/assets/images/Walking-2-year-old-640.jpg" alt="A two year old walking">
    </a>
 </figure>
 

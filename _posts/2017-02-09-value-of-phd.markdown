@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-02-09 17:08:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/TheAcademic.jpg"
+   teaser: "/assets/images/TheAcademic-640.jpg"
 ---
 <figure>
    <a href="/assets/images/TheAcademic.jpg">
-      <img src="/assets/images/TheAcademic.jpg" alt="Aravind Iyer at graduation">
+      <img src="/assets/images/TheAcademic-640.jpg" alt="Aravind Iyer at graduation">
    </a>
 </figure>
 

@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-11-07 11:10:00 +0530
 categories: music-naka
 header:
-   teaser: "/assets/images/Freddy_Mercury_Statue_Montreux.jpg"
+   teaser: "/assets/images/Freddy_Mercury_Statue_Montreux-640.jpg"
 ---
 <figure>
    <a href="/assets/images/Freddy_Mercury_Statue_Montreux.jpg">
-      <img src="/assets/images/Freddy_Mercury_Statue_Montreux.jpg" alt="Statue of Freddie Mercury at Montreaux">
+      <img src="/assets/images/Freddy_Mercury_Statue_Montreux-640.jpg" alt="Statue of Freddie Mercury at Montreaux">
    </a>
    <figcaption>Statue of Freddie Mercury at Montreaux (picture courtesy of <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>)</figcaption>
 </figure>

@@ -4,12 +4,12 @@ author: Aravind Iyer
 date: 2018-01-18 16:30:00 +0530
 categories: music-naka
 header:
-   teaser: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg"
+   teaser: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080-640.jpg"
 ---
 ## Electronic Jazz from Jaga Jazzist
 <figure>
    <a href="/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg">
-      <img src="/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg" alt="Jaga Jazzist band members">
+      <img src="/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080-640.jpg" alt="Jaga Jazzist band members">
    </a>
    <figcaption>Jaga Jazzist (picture courtesy of <a href="https://wallpaperscraft.com/download/jaga_jazzist_band_faces_line_wall_12987/1920x1080">Wallpaperscraft</a>)</figcaption>
 </figure>

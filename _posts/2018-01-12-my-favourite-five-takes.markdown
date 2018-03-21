@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2018-01-12 15:00:00 +0530
 categories: music-naka
 header:
-   teaser: "/assets/images/20180110_143300.jpg"
+   teaser: "/assets/images/20180110_143300-640.jpg"
 ---
 <figure>
    <a href="/assets/images/20180110_143300.jpg">
-      <img src="/assets/images/20180110_143300.jpg" alt="Music Player showing Take Five playing">
+      <img src="/assets/images/20180110_143300-640.jpg" alt="Music Player showing Take Five playing">
    </a>
    <figcaption> Listening to Take Five for the umpteenth time!</figcaption>
 </figure>

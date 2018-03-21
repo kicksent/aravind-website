@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-07-06 15:23:00 +0530
 categories: personal
 header:
-   teaser: "/assets/images/breakfast-at-munnar.jpg"
+   teaser: "/assets/images/breakfast-at-munnar-640.jpg"
 ---
 <figure>
    <a href="/assets/images/breakfast-at-munnar.jpg">
-      <img src="/assets/images/breakfast-at-munnar.jpg" alt="Aravind and Laasya having breakfast at Munnar overlooking the Ponmudi Reservoir">
+      <img src="/assets/images/breakfast-at-munnar-640.jpg" alt="Aravind and Laasya having breakfast at Munnar overlooking the Ponmudi Reservoir">
    </a>
 </figure>
 
@@ -18,7 +18,7 @@ For some time, we had been thinking about taking a road trip to a place where we
 
 <figure>
    <a href="/assets/images/Hills_around_the_tea_plantations_Munnar.jpg">
-      <img src="/assets/images/Hills_around_the_tea_plantations_Munnar.jpg" alt="Hills around tea plantations at Munnar">
+      <img src="/assets/images/Hills_around_the_tea_plantations_Munnar-640.jpg" alt="Hills around tea plantations at Munnar">
    </a>
    <figcaption>Picture courtesy of <a href="https://commons.wikimedia.org/wiki/File:Hills_around_the_tea_plantations,_Munnar.JPG">WikiMedia Commons</a></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Anyone who has traveled on Indian highways would know how much an early morning 
 
 <figure>
    <a href="/assets/images/ghat-road.jpg">
-      <img src="/assets/images/ghat-road.jpg" alt="A car parked on the side of a ghat road">
+      <img src="/assets/images/ghat-road-640.jpg" alt="A car parked on the side of a ghat road">
    </a>
    <figcaption>Hold on to your seats. The ghat roads begin. (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -38,7 +38,7 @@ After driving on nearly arrow straight highways, the sight of the twisty mountai
 
 <figure>
    <a href="/assets/images/smiling-travelers.jpg">
-      <img src="/assets/images/smiling-travelers.jpg" alt="Smiling travelers in front of the Western Ghat mountains">
+      <img src="/assets/images/smiling-travelers-640.jpg" alt="Smiling travelers in front of the Western Ghat mountains">
    </a>
    <figcaption>Who wouldn’t smile with a background as pretty as this! (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -47,7 +47,7 @@ We arrived at our accommodations, a lovely resort next to the Ponmudi reservoir 
 
 <figure>
    <a href="/assets/images/ponmudi-reservoir-pano.jpg">
-      <img src="/assets/images/ponmudi-reservoir-pano.jpg" alt="Panorama of Ponmudi reservoir">
+      <img src="/assets/images/ponmudi-reservoir-pano-640.jpg" alt="Panorama of Ponmudi reservoir">
    </a>
    <figcaption>The breathtakingly beautiful Ponmudi reservoir. (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -58,7 +58,7 @@ We were much less tired at the end of the day than when we had arrived. So we sa
 
 <figure>
    <a href="/assets/images/single-lane-bridge.jpg">
-      <img src="/assets/images/single-lane-bridge.jpg" alt="Single Lane bridge across Muthirappuzhayar river at Attukad Falls">
+      <img src="/assets/images/single-lane-bridge-640.jpg" alt="Single Lane bridge across Muthirappuzhayar river at Attukad Falls">
    </a>
    <figcaption>Only one car can pass through the bridge at a time at Attukad Falls. (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -76,7 +76,7 @@ The entirety of the spectacle — misty hill tops, tea estates on the slopes
 
 <figure>
    <a href="/assets/images/attukad-falls-pano.jpg">
-      <img src="/assets/images/attukad-falls-pano.jpg" alt="Panorama shot of Attukad Falls">
+      <img src="/assets/images/attukad-falls-pano-640.jpg" alt="Panorama shot of Attukad Falls">
    </a>
    <figcaption>The many paths the water takes to flow down into the valley at Attukad Falls. (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -85,13 +85,13 @@ Maybe we were quite hungry by the time we got to lunch, but our meal at Maya Baz
 
 <figure class="third">
    <a href="/assets/images/tea-leaves.jpg">
-      <img src="/assets/images/tea-leaves.jpg" alt="Tea leaves">
+      <img src="/assets/images/tea-leaves-640.jpg" alt="Tea leaves">
    </a>
    <a href="/assets/images/drying-and-separating-tea.jpg">
-      <img src="/assets/images/drying-and-separating-tea.jpg" alt="Green and black teas being dried and separated into various grades">
+      <img src="/assets/images/drying-and-separating-tea-640.jpg" alt="Green and black teas being dried and separated into various grades">
    </a>
    <a href="/assets/images/tea-brewing-instructions.jpg">
-      <img src="/assets/images/tea-brewing-instructions.jpg" alt="Tea brewing instructions at the Kanan Devan Tea Museum">
+      <img src="/assets/images/tea-brewing-instructions-640.jpg" alt="Tea brewing instructions at the Kanan Devan Tea Museum">
    </a>
    <figcaption>Tea leaves on the plant, green and black teas being dried and separated into various grades, and fastidious instructions to brew your tea right, courtesy of the Kanan Devan Tea Museum. (Pictures courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -100,7 +100,7 @@ Knowing it was to be our last evening, we stopped over at the Kallimali viewpoin
 
 <figure>
    <a href="/assets/images/ponmudi-reservoir-pano-2.jpg">
-      <img src="/assets/images/ponmudi-reservoir-pano-2.jpg" alt="Panorama of Ponmudi reservoir">
+      <img src="/assets/images/ponmudi-reservoir-pano-2-640.jpg" alt="Panorama of Ponmudi reservoir">
    </a>
    <figcaption>Now, that’s not a bad view! (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>

@@ -4,12 +4,12 @@ author: Aravind Iyer
 date: 2017-10-29 09:15:00 +0530
 categories: music-naka
 header:
-   teaser: "/assets/images/remler.jpg"
+   teaser: "/assets/images/remler-640.jpg"
 ---
 ## The musical life of Emily Remler
 <figure>
    <a href="/assets/images/remler.jpg">
-      <img src="/assets/images/remler.jpg" alt="Emily Remler playing guitar">
+      <img src="/assets/images/remler-640.jpg" alt="Emily Remler playing guitar">
    </a>
    <figcaption>Image courtesy of Brian McMillen (from <a href="https://commons.wikimedia.org/w/index.php?curid=11091773">WikiMedia</a>)</figcaption>
 </figure>

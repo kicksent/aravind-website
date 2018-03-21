@@ -4,14 +4,14 @@ author: Aravind Iyer
 date: 2017-02-16 10:25:00 +0530
 categories: music-naka
 header:
-   teaser: "/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg"
+   teaser: "/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223-640.jpg"
 ---
 ## with the genius of Uli Jon Roth
 <figure>
    <a href="/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg">
-      <img src="/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg" alt="Uli Jon Roth playing guitar">
+      <img src="/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223-640.jpg" alt="Uli Jon Roth playing guitar">
    </a>
-   <figcaption>Picture courtesy of Andreas Lawen (original at <a href="https://commons.wikimedia.org/wiki/File:Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg">WikiMedia</a>)</figcaption>
+   <figcaption>Picture courtesy of Andreas Lawen (original at <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>)</figcaption>
 </figure>
 
 We have a fundamental fascination with chance and yet we are confused by it. The instinctive and the rational forces in our minds which so often collaborate to help us in our endeavours, suddenly turn against each other when it comes to reckoning chance. We feel that hard work gives us but modest success which we cannot risk throwing away to chance, and yet that only good luck can give us the glory. The higher the stakes the stronger is our aversion to leaving things to chance, and the stronger is our desire for good luck. But when the stakes are low and we unencumbered by the weight of expectations, it is then that chance has a way of surprising us and making our lives richer. It was through just such a happenstance that I discovered the genius of [Uli Jon Roth](https://en.wikipedia.org/wiki/Uli_Jon_Roth).

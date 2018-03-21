@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-12-23 16:34:00 +0530
 categories: personal
 header:
-   teaser: "/assets/images/india-gate-selfie.jpg"
+   teaser: "/assets/images/india-gate-selfie-640.jpg"
 ---
 <figure>
    <a href="/assets/images/india-gate-selfie.jpg">
-      <img src="/assets/images/india-gate-selfie.jpg" alt="Aravind and Laasya at India Gate">
+      <img src="/assets/images/india-gate-selfie-640.jpg" alt="Aravind and Laasya at India Gate">
    </a>
    <figcaption>Tired, sweaty and thirsty after walking to India Gate.</figcaption>
 </figure>
@@ -21,13 +21,13 @@ The first day started off a bit too lazily. By the time we had bathed, had break
 
 <figure class="third">
    <a href="/assets/images/breakfast-lalit-selfie.jpg">
-      <img src="/assets/images/breakfast-lalit-selfie.jpg" alt="Aravind and Laasya having breakfast in a hotel">
+      <img src="/assets/images/breakfast-lalit-selfie-640.jpg" alt="Aravind and Laasya having breakfast in a hotel">
    </a>
    <a href="/assets/images/lunch-time-colouring.jpg">
-      <img src="/assets/images/lunch-time-colouring.jpg" alt="Laasya showing her colouring efforts">
+      <img src="/assets/images/lunch-time-colouring-640.jpg" alt="Laasya showing her colouring efforts">
    </a>
    <a href="/assets/images/line-of-control.jpg">
-      <img src="/assets/images/line-of-control.jpg" alt="Laasya dwarfed by the steel sculpture - Line of Control">
+      <img src="/assets/images/line-of-control-640.jpg" alt="Laasya dwarfed by the steel sculpture - Line of Control">
    </a>
    <figcaption>Breakfast at the hotel, lunch-time colouring and being dwarfed by the Line of Control!</figcaption>
 </figure>
@@ -36,7 +36,7 @@ All the mall walking notwithstanding, we hadn’t done any street walking yet. W
 
 <figure>
    <a href="/assets/images/jantar-mantar.jpg">
-      <img src="/assets/images/jantar-mantar.jpg" alt="Laasya looking at a Jantar Mantar instrument">
+      <img src="/assets/images/jantar-mantar-640.jpg" alt="Laasya looking at a Jantar Mantar instrument">
    </a>
    <figcaption>Captivating instrumentation.</figcaption>
 </figure>
@@ -47,13 +47,13 @@ Encouraged by this experience, we decided to do some more walking the next day. 
 
 <figure class="third">
    <a href="/assets/images/agrasen-ki-baoli-down.jpg">
-      <img src="/assets/images/agrasen-ki-baoli-down.jpg" alt="Agrasen Ki Baoli from the top of the stairs">
+      <img src="/assets/images/agrasen-ki-baoli-down-640.jpg" alt="Agrasen Ki Baoli from the top of the stairs">
    </a>
    <a href="/assets/images/agrasen-ki-baoli-mid.jpg">
-      <img src="/assets/images/agrasen-ki-baoli-mid.jpg" alt="Agrasen Ki Baoli from a midway down the steps">
+      <img src="/assets/images/agrasen-ki-baoli-mid-640.jpg" alt="Agrasen Ki Baoli from a midway down the steps">
    </a>
    <a href="/assets/images/agrasen-ki-baoli-up.jpg">
-      <img src="/assets/images/agrasen-ki-baoli-up.jpg" alt="Looking up at the steps of Agrasen Ki Baoli from the bottom">
+      <img src="/assets/images/agrasen-ki-baoli-up-640.jpg" alt="Looking up at the steps of Agrasen Ki Baoli from the bottom">
    </a>
    <figcaption>Climbing down and then up the steps of Agrasen Ki Baoli</figcaption>
 </figure>
@@ -62,10 +62,10 @@ After the stair climb and several swigs of water, we decided there could be noth
 
 <figure class="half">
    <a href="/assets/images/india-gate.jpg">
-      <img src="/assets/images/india-gate.jpg" alt="India Gate">
+      <img src="/assets/images/india-gate-640.jpg" alt="India Gate">
    </a>
    <a href="/assets/images/amar-jawan-jyoti.jpg">
-      <img src="/assets/images/amar-jawan-jyoti.jpg" alt="Amar Jawan Jyoti">
+      <img src="/assets/images/amar-jawan-jyoti-640.jpg" alt="Amar Jawan Jyoti">
    </a>
    <figcaption>India Gate and Amar Jawan Jyoti under its arch</figcaption>
 </figure>

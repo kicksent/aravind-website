@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-06-27 13:42:00 +0530
 categories: personal
 header:
-   teaser: "/assets/images/car-interior.jpg"
+   teaser: "/assets/images/car-interior-640.jpg"
 ---
 <figure>
    <a href="/assets/images/car-interior.jpg">
-      <img src="/assets/images/car-interior.jpg" alt="Line drawing of a car interior">
+      <img src="/assets/images/car-interior-640.jpg" alt="Line drawing of a car interior">
    </a>
    <figcaption>At the helm and everywhere to go! (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -17,7 +17,7 @@ I grew up in Mumbai with nary a want or thought for a car. Anyone who studied or
 
 <figure>
    <a href="/assets/images/trick-pedals.jpg">
-      <img src="/assets/images/trick-pedals.jpg" alt="Line drawing of pedals in a driver training car - student pedals on one side; instructor pedals (clutch and brake) on the opposite side">
+      <img src="/assets/images/trick-pedals-640.jpg" alt="Line drawing of pedals in a driver training car - student pedals on one side; instructor pedals (clutch and brake) on the opposite side">
    </a>
    <figcaption>Trick pedals in the driving school training car — student on the right; instructor on the left (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -28,7 +28,7 @@ On my first flight from India to the United States, looking at the birds-eye vie
 
 <figure>
    <a href="/assets/images/1991GeoPrizm.jpg">
-      <img src="/assets/images/1991GeoPrizm.jpg" alt="Line drawing of a late 80s Japanese compact car">
+      <img src="/assets/images/1991GeoPrizm-640.jpg" alt="Line drawing of a late 80s Japanese compact car">
    </a>
    <figcaption>"My first car! (Illustration courtesy of Aravind Iyer)"</figcaption>
 </figure>
@@ -45,7 +45,7 @@ But compromise is not the only thing that is wrong with the car today. Several t
 
 <figure>
    <a href="/assets/images/2007HondaCivic.jpg">
-      <img src="/assets/images/2007HondaCivic.jpg" alt="Line drawing of a modern Japanese compact car">
+      <img src="/assets/images/2007HondaCivic-640.jpg" alt="Line drawing of a modern Japanese compact car">
    </a>
    <figcaption>My current ride (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>

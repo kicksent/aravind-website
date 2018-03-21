@@ -4,13 +4,13 @@ author: Aravind Iyer
 date: 2016-09-16 10:30:00 +0530
 categories: music-naka
 header:
-   teaser: "/assets/images/wes-montgomery.jpg"
+   teaser: "/assets/images/wes-montgomery-640.jpg"
 ---
 ## The unique appeal of Wes Montgomery
 
 <figure>
    <a href="/assets/images/wes-montgomery.jpg">
-      <img src="/assets/images/wes-montgomery.jpg" alt="Wes Montgomery playing guitar">
+      <img src="/assets/images/wes-montgomery-640.jpg" alt="Wes Montgomery playing guitar">
    </a>
    <figcaption>A Portrait of Wes Montgomery (Illustration courtesy of Aravind Iyer)</figcaption>
 </figure>

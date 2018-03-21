@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-12-15 16:02:00 +0530
 categories: personal
 header:
-   teaser: "/assets/images/reluctant-photographer.jpg"
+   teaser: "/assets/images/reluctant-photographer-640.jpg"
 ---
 <figure>
    <a href="/assets/images/reluctant-photographer.jpg">
-      <img src="/assets/images/reluctant-photographer.jpg" alt="Aravind Iyer at Jog Falls">
+      <img src="/assets/images/reluctant-photographer-640.jpg" alt="Aravind Iyer at Jog Falls">
    </a>
    <figcaption>Yours truly at Jog Falls, Karnataka. What an amazing place to be! (Picture courtesy of Avantika Shastri)</figcaption>
 </figure>
@@ -17,7 +17,7 @@ header:
 
 <figure>
    <a href="/assets/images/rainy-western-ghats.jpg">
-      <img src="/assets/images/rainy-western-ghats.jpg" alt="Cloudy skies and the Western Ghats">
+      <img src="/assets/images/rainy-western-ghats-640.jpg" alt="Cloudy skies and the Western Ghats">
    </a>
    <figcaption>A rainy day hike in the Western Ghats. (Original picture taken in Kerala, not Maharashtra; Edited to recreate the monsoon feeling; courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -28,7 +28,7 @@ I continued with this arrangement through all of school and even into college. I
 
 <figure>
    <a href="/assets/images/snowy-morning.jpg">
-      <img src="/assets/images/snowy-morning.jpg" alt="Snowy sloping grounds in front of a large house">
+      <img src="/assets/images/snowy-morning-640.jpg" alt="Snowy sloping grounds in front of a large house">
    </a>
    <figcaption>A snowy morning in West Lafayette, Indiana. (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -37,7 +37,7 @@ But it was really when I saw a digital camera in action that I managed to shed m
 
 <figure>
    <a href="/assets/images/hibiscus-portrait.jpg">
-      <img src="/assets/images/hibiscus-portrait.jpg" alt="Close up of a Hibiscus flower">
+      <img src="/assets/images/hibiscus-portrait-640.jpg" alt="Close up of a Hibiscus flower">
    </a>
    <figcaption>Portrait of a Hibiscus flower. (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -46,22 +46,22 @@ Later I became bold enough to look up esoteric terms like ISO, aperture, exposur
 
 <figure class="half">
    <a href="/assets/images/butterfly-closeup.jpg">
-      <img src="/assets/images/butterfly-closeup.jpg" alt="Close up of a butterfly">
+      <img src="/assets/images/butterfly-closeup-640.jpg" alt="Close up of a butterfly">
    </a>
    <a href="/assets/images/sky-scraper-reflection.jpg">
-      <img src="/assets/images/sky-scraper-reflection.jpg" alt="Reflection of skyscrapers in water">
+      <img src="/assets/images/sky-scraper-reflection-640.jpg" alt="Reflection of skyscrapers in water">
    </a>
    <figcaption>Evolving photography - using a compact digital camera (Pictures courtesy of Aravind Iyer)</figcaption>
 </figure>
 <figure class="third">
    <a href="/assets/images/boat-bow.jpg">
-      <img src="/assets/images/boat-bow.jpg" alt="Bow of a boat">
+      <img src="/assets/images/boat-bow-640.jpg" alt="Bow of a boat">
    </a>
    <a href="/assets/images/pasta-salad-wine.jpg">
-      <img src="/assets/images/pasta-salad-wine.jpg" alt="Pasta, salads and wine">
+      <img src="/assets/images/pasta-salad-wine-640.jpg" alt="Pasta, salads and wine">
    </a>
    <a href="/assets/images/alphabet-teethers.jpg">
-      <img src="/assets/images/alphabet-teethers.jpg" alt="Alphabet-shaped teethers">
+      <img src="/assets/images/alphabet-teethers-640.jpg" alt="Alphabet-shaped teethers">
    </a>
    <figcaption>Evolving photography - using a digital SLR and then a smartphone camera (Pictures courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -72,13 +72,13 @@ As I think about how I reluctantly but surely became a photographer, a chronicle
 
 <figure class="third">
    <a href="/assets/images/avantika-laasya-aravind.jpg">
-      <img src="/assets/images/avantika-laasya-aravind.jpg" alt="Avantika, Laasya and Aravind">
+      <img src="/assets/images/avantika-laasya-aravind-640.jpg" alt="Avantika, Laasya and Aravind">
    </a>
    <a href="/assets/images/painting-photo-overlay.jpg">
-      <img src="/assets/images/painting-photo-overlay.jpg" alt="A painting and a photograph of the painting overlaid">
+      <img src="/assets/images/painting-photo-overlay-640.jpg" alt="A painting and a photograph of the painting overlaid">
    </a>
    <a href="/assets/images/late-evening-sky-bengaluru.jpg">
-      <img src="/assets/images/late-evening-sky-bengaluru.jpg" alt="Late evening sky at Whitefield, Bengaluru">
+      <img src="/assets/images/late-evening-sky-bengaluru-640.jpg" alt="Late evening sky at Whitefield, Bengaluru">
    </a>
    <figcaption>A definite part of our communication vocabulary, aren't they? (Picture courtesy of Aravind Iyer)</figcaption>
 </figure>

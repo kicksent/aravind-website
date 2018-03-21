@@ -4,11 +4,11 @@ author: Aravind Iyer
 date: 2017-06-20 17:24:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/handstand-1461105_1920.jpg"
+   teaser: "/assets/images/handstand-1461105_1920-640.jpg"
 ---
 <figure>
    <a href="/assets/images/handstand-1461105_1920.jpg">
-      <img src="/assets/images/handstand-1461105_1920.jpg" alt="Girl doing a hand-stand in a public place">
+      <img src="/assets/images/handstand-1461105_1920-640.jpg" alt="Girl doing a hand-stand in a public place">
    </a>
    <figcaption>Picture courtesy of <a href="https://pixabay.com/">Pixabay</a></figcaption>
 </figure>

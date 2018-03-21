@@ -4,13 +4,13 @@ author: Aravind Iyer
 date: 2016-09-03 08:30:00 +0530
 categories: music-naka
 header:
-   teaser: "/assets/images/aja-album-abstract.jpg"
+   teaser: "/assets/images/aja-album-abstract-640.jpg"
 ---
 ## The Magic of Steely Dan 
 
 <figure>
    <a href="/assets/images/aja-album-abstract.jpg">
-      <img src="/assets/images/aja-album-abstract.jpg" alt="Stack of CDs with Aja on top">
+      <img src="/assets/images/aja-album-abstract-640.jpg" alt="Stack of CDs with Aja on top">
    </a>
    <figcaption>Recreating the stack of CDs on my desk with Aja on top (artwork courtesy of Aravind Iyer)</figcaption>
 </figure>

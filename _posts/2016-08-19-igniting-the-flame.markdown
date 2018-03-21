@@ -4,13 +4,13 @@ author: Aravind Iyer
 date: 2016-08-19 09:00:00 +0530
 categories: music-naka
 header:
-   teaser: "/assets/images/Liner-notes-table.jpg" 
+   teaser: "/assets/images/Liner-notes-table-640.jpg" 
 ---
 ## How I discovered the Mahavishnu Orchestra
 
 <figure>
    <a href="/assets/images/Liner-notes-table.jpg">
-      <img src="/assets/images/Liner-notes-table.jpg" alt="An 80s stereo and open liner notes of The Inner Mounting Flame">
+      <img src="/assets/images/Liner-notes-table-640.jpg" alt="An 80s stereo and open liner notes of The Inner Mounting Flame">
    </a>
    <figcaption>Listening to Mahavishnu Orchestra for the first time, while reading the liner notes! (artwork courtesy of Aravind Iyer)</figcaption>
 </figure>

@@ -4,7 +4,7 @@ author: Aravind Iyer
 date: 2017-01-11 12:45:00 +0530
 categories: only-human
 header:
-   teaser: "/assets/images/IMG_20170110_135335111-01.jpg"
+   teaser: "/assets/images/IMG_20170110_135335111-01-640.jpg"
    image: "/assets/images/IMG_20170110_135335111-01.jpg"
    alt: "Desk with laptop, headphones and a book" 
 ---

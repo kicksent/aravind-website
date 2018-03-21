@@ -4,53 +4,53 @@ author: Aravind Iyer
 date: 2016-12-01 12:57:00 +0530
 categories: personal
 header:
-   teaser: "/assets/images/avantika-laasya-5th-bday.jpg"
+   teaser: "/assets/images/avantika-laasya-5th-bday-640.jpg"
 
 cover:
   - url: "/assets/images/avantika-laasya-5th-bday.jpg"
-    image_path: "/assets/images/avantika-laasya-5th-bday.jpg"
+    image_path: "/assets/images/avantika-laasya-5th-bday-640.jpg"
     alt: "Avantika and Laasya at Laasya's 5th birthday!"
   - url: "/assets/images/lego-duplo-window.jpg"
-    image_path: "/assets/images/lego-duplo-window.jpg"
+    image_path: "/assets/images/lego-duplo-window-640.jpg"
     alt: "Lego Duplo Window"
 
 lego-mini-projects:
-  - image_path: "/assets/images/lego-train.jpg"
+  - image_path: "/assets/images/lego-train-640.jpg"
     url: "/assets/images/lego-train.jpg"
     alt: "Lego Duplo Railway Train"
-  - image_path: "/assets/images/lego-tracks.jpg"
+  - image_path: "/assets/images/lego-tracks-640.jpg"
     url: "/assets/images/lego-tracks.jpg"
     alt: "Lego Duplo Railway Tracks"
-  - image_path: "/assets/images/lego-station-arch.jpg"
+  - image_path: "/assets/images/lego-station-arch-640.jpg"
     url: "/assets/images/lego-station-arch.jpg"
     alt: "Lego Duplo Railway Station Arch with Clock"
-  - image_path: "/assets/images/lego-fuel-station.jpg"
+  - image_path: "/assets/images/lego-fuel-station-640.jpg"
     url: "/assets/images/lego-fuel-station.jpg"
     alt: "Lego Duplo Fuel Station"
-  - image_path: "/assets/images/lego-fire-engine.jpg"
+  - image_path: "/assets/images/lego-fire-engine-640.jpg"
     url: "/assets/images/lego-fire-engine.jpg"
     alt: "Lego Duplo Fire Engine"
-  - image_path: "/assets/images/lego-police-car.jpg"
+  - image_path: "/assets/images/lego-police-car-640.jpg"
     url: "/assets/images/lego-police-car.jpg"
     alt: "Lego Duplo Police Car"
-  - image_path: "/assets/images/lego-zoo.jpg"
+  - image_path: "/assets/images/lego-zoo-640.jpg"
     url: "/assets/images/lego-zoo.jpg"
     alt: "Lego Duplo Zoo with Animals"
-  - image_path: "/assets/images/lego-tree.jpg"
+  - image_path: "/assets/images/lego-tree-640.jpg"
     url: "/assets/images/lego-tree.jpg"
     alt: "Lego Duplo Tree"
-  - image_path: "/assets/images/lego-car.jpg"
+  - image_path: "/assets/images/lego-car-640.jpg"
     url: "/assets/images/lego-car.jpg"
     alt: "Lego Duplo Car"
 
 bday:
-  - image_path: "/assets/images/bday-musical-statues.jpg"
+  - image_path: "/assets/images/bday-musical-statues-640.jpg"
     url: "/assets/images/bday-musical-statues.jpg"
     alt: "The obligatory routine of kids playing musical statues!"
-  - image_path: "/assets/images/bday-blowing-candles.jpg"
+  - image_path: "/assets/images/bday-blowing-candles-640.jpg"
     url: "/assets/images/bday-blowing-candles.jpg"
     alt: "The obligatory routine of blowing candles on the birthday cake!"
-  - image_path: "/assets/images/bday-aravind-avantika-posed.jpg"
+  - image_path: "/assets/images/bday-aravind-avantika-posed-640.jpg"
     url: "/assets/images/bday-aravind-avantika-posed.jpg"
     alt: "Obligatory posed photograph of Aravind and Avantika"
 ---
@@ -67,7 +67,7 @@ First we decided to lay out all the Lego to count how many pieces we had. This w
 
 <figure>
    <a href="/assets/images/all-the-lego-duplo-pieces.jpg">
-      <img src="/assets/images/all-the-lego-duplo-pieces.jpg" alt="Lots of Lego Duplo pieces laid out on the floor">
+      <img src="/assets/images/all-the-lego-duplo-pieces-640.jpg" alt="Lots of Lego Duplo pieces laid out on the floor">
    </a>
 </figure>
 
@@ -79,21 +79,21 @@ We sorted the pieces needed for each mini-project and put them in separate bags,
 
 <figure class="half">
    <a href="/assets/images/lego-assembly-briefing.jpg">
-      <img src="/assets/images/lego-assembly-briefing.jpg" alt="Aravind briefing the kids to start the Lego Assembly activity">
+      <img src="/assets/images/lego-assembly-briefing-640.jpg" alt="Aravind briefing the kids to start the Lego Assembly activity">
    </a>
    <a href="/assets/images/lego-assembly-leader-briefing.jpg">
-      <img src="/assets/images/lego-assembly-leader-briefing.jpg" alt="Aravind briefing the oldest kid to help and supervise the Lego Assembly activity">
+      <img src="/assets/images/lego-assembly-leader-briefing-640.jpg" alt="Aravind briefing the oldest kid to help and supervise the Lego Assembly activity">
    </a>
 </figure>
 <figure class="third">
    <a href="/assets/images/lego-assembly-in-progress.jpg">
-      <img src="/assets/images/lego-assembly-in-progress.jpg" alt="Lego Assembly activity in progress">
+      <img src="/assets/images/lego-assembly-in-progress-640.jpg" alt="Lego Assembly activity in progress">
    </a>
    <a href="/assets/images/lego-assembly-in-progress-2.jpg">
-      <img src="/assets/images/lego-assembly-in-progress-2.jpg" alt="Lego Assembly activity in progress">
+      <img src="/assets/images/lego-assembly-in-progress-2-640.jpg" alt="Lego Assembly activity in progress">
    </a>
    <a href="/assets/images/lego-assembly-almost-finished.jpg">
-      <img src="/assets/images/lego-assembly-almost-finished.jpg" alt="Lego Assembly activity nearing completion">
+      <img src="/assets/images/lego-assembly-almost-finished-640.jpg" alt="Lego Assembly activity nearing completion">
    </a>
 </figure>
 
