@@ -45,7 +45,7 @@ I first heard [Carmen McRae](https://en.wikipedia.org/wiki/Carmen_McRae) in an a
 {% include video id="FhSBK8VaLss" provider="youtube" %}
 
 I got into [George Benson](https://en.wikipedia.org/wiki/George_Benson) via [Wes Montgomery](https://en.wikipedia.org/wiki/Wes_Montgomery). On
-[an NPR podcast](https://www.npr.org/2007/09/26/14687657/wes-montgomery-the-unmistakable-jazz-guitar), I heard Benson go gaga over Montgomery’s uncanny knack of interpreting any melody as his own, “if he decided to play it, you were gonna hear something unbeatable.” Being a [big fan of Montgomery](https://medium.com/@.aravindiyer/effortless-genius-632f569cdde1), I checked out Benson and ran into this little gem from the album
+[an NPR podcast](https://www.npr.org/2007/09/26/14687657/wes-montgomery-the-unmistakable-jazz-guitar), I heard Benson go gaga over Montgomery’s uncanny knack of interpreting any melody as his own, “if he decided to play it, you were gonna hear something unbeatable.” Being a [big fan of Montgomery]({{ site.baseurl }}{% post_url 2016-09-16-effortless-genius %}), I checked out Benson and ran into this little gem from the album
 [Bad Benson](https://en.wikipedia.org/wiki/Bad_Benson) released in 1974. Benson makes Take Five his own! As drummer [Steve Gadd](https://en.wikipedia.org/wiki/Steve_Gadd) and bassist [Ron Carter](https://en.wikipedia.org/wiki/Ron_Carter) hold down an unshakeable groove, funky Benson just flies on guitar! Also listen to the amazing rhythm guitar of [Phil Upchurch](https://en.wikipedia.org/wiki/Phil_Upchurch) and the keyboard solo by [Kenny Barron](https://en.wikipedia.org/wiki/Kenny_Barron).
 
 ## Al Jarreau on scat
