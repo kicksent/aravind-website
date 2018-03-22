@@ -31,6 +31,8 @@ There is the musicianship in Aja (what with accomplished saxophonists finishing 
 
 Steely Dan has produced several great albums by following their unique musical approach. Becker and Fagen with a wide cast of session musicians, have melded witty lyrics, jazzy structures and obsessive studio production into albums like Can’t Buy a Thrill, The Royal Scam and many others. They are known to be quite fastidious, perhaps snobbish, themselves. But snobbery can be of different kinds. There is snobbery that alienates by pursuing discrimination to its own end, and there is snobbery that inspires by kindling an aspiration to being and experiencing better. Steely Dan is definitely in the latter category, and Aja is their finest example. So if you are about to test hi-fi audio gear, or if you want to listen to easy-going yet sophisticated music, or if you are just feeling a bit blue, listen to Aja, rejoice and be a snob.
 
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+
 ## Notes
 1. <a name="FT1"></a>[Gina Barreca](http://www.courant.com/hartnews-gina-barreca-20130507-staff.html) at the [Hartford Courant](http://www.courant.com/) provides an [insightful look](http://www.courant.com/opinion/op-ed/hc-op-barreca-everyone-has-a-little-snobbery-0129-20160128-column.html) into the phenomenon of snobbery. Barreca writes that the most persuasive theory regarding the origin of the word snob, is that it is a shortening of the Latin words “*sine nobilitate*” (without nobility) into “s.nob” to identify non-aristocratic students attending Oxford and Cambridge. Although a bit surprising at first glance, it is those without nobility who had to exhibit refined taste and fine expertise to gain esteem amongst nobler classmates! <a href="#FT1REF"><i class="fas fa-level-up-alt"></i></a>
 
@@ -48,5 +50,3 @@ Steely Dan has produced several great albums by following their unique musical a
 
 ## Music
 1. [Aja](https://en.wikipedia.org/wiki/Aja_(album)), [*Steely Dan*](https://en.wikipedia.org/wiki/Steely_Dan), 1977. Band members: [Donald Fagen](https://en.wikipedia.org/wiki/Donald_Fagen) (vocals and synthesizer) and [Walter Becker](https://en.wikipedia.org/wiki/Walter_Becker) (guitar and bass). For a list of additional musicians, check [here](https://en.wikipedia.org/wiki/Aja_%28album%29#Additional_musicians).
-
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
