@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080-640.jpg"
 excerpt: "A friend sent me the Jazztronica playlist from Spotify. Jaga Jazzist opened with Lithuania and I was hooked. It’s a Chemical Brothers meet Weather Report kind of vibe, and it really works! I can even quote my immediate reactions as I heard it for the first few times — 'Smooth, engaging, loopy, hypnotic even!' I had texted back enthusiastically. Lithuania starts with a catchy loop of electronic tones and real instruments, and soon proceeds to add layer upon layer of new loops, but somehow managing to make the end result sound like a bona fide arrangement of jazz music."
 description: "A friend sent me the Jazztronica playlist from Spotify. Jaga Jazzist opened with Lithuania and I was hooked. It’s a Chemical Brothers meet Weather Report kind of vibe, and it really works! I can even quote my immediate reactions as I heard it for the first few times — 'Smooth, engaging, loopy, hypnotic even!' I had texted back enthusiastically. Lithuania starts with a catchy loop of electronic tones and real instruments, and soon proceeds to add layer upon layer of new loops, but somehow managing to make the end result sound like a bona fide arrangement of jazz music."
+og_image: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080-640.jpg"
 ---
 ## Electronic Jazz from Jaga Jazzist
 <figure>

@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/Envious-eyes-640.jpg"
 excerpt: "Few can deny feeling envious at some point or another. But envy make us fundamentally human. It is an extension of the animal impulse to protect one’s territory into a heightened sense of awareness of disparity in possessions, capabilities and status. When we feel envy, the brain shows activity in regions which also register physical pain. We feel relief or even pleasure when the disparity that causes envy is neutralised. Envy enables us to reach higher than we might have attempted otherwise but also forces us to recognise our limitations and rationalise the perceived unfairness of life."
 description: "Few can deny feeling envious at some point or another. But envy make us fundamentally human. It is an extension of the animal impulse to protect one’s territory into a heightened sense of awareness of disparity in possessions, capabilities and status. When we feel envy, the brain shows activity in regions which also register physical pain. We feel relief or even pleasure when the disparity that causes envy is neutralised. Envy enables us to reach higher than we might have attempted otherwise but also forces us to recognise our limitations and rationalise the perceived unfairness of life."
+og_image: "/assets/images/Envious-eyes-640.jpg"
 ---
 <figure>
    <a href="/assets/images/Envious-eyes.jpeg">

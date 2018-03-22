@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/agrasen-ki-baoli-640.jpg"
 excerpt: "When we try hard to remember, our memories seem to capture us from a distance, almost from a third person perspective. But music has a knack of stimulating memories, taking us back to the time and triggering the same emotions we felt. Music can also be used for memorising. The brain holds two kinds of memories, explicit and implicit, and it is the implicit memories which are related to emotion and get triggered by music. But things may be changing dramatically. Today we can record and preserve with the finest fidelity and access with the most immediate ubiquity, both music and our memories. We need to watch how the role of music evolves."
 description: "When we try hard to remember, our memories seem to capture us from a distance, almost from a third person perspective. But music has a knack of stimulating memories, taking us back to the time and triggering the same emotions we felt. Music can also be used for memorising. The brain holds two kinds of memories, explicit and implicit, and it is the implicit memories which are related to emotion and get triggered by music. But things may be changing dramatically. Today we can record and preserve with the finest fidelity and access with the most immediate ubiquity, both music and our memories. We need to watch how the role of music evolves."
+og_image: "/assets/images/agrasen-ki-baoli-640.jpg"
 ---
 <figure>
    <a href="/assets/images/agrasen-ki-baoli.jpg">

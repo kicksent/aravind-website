@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/TheAcademic-640.jpg"
 excerpt: "What is the role of a PhD in society and what of the lack of a significant salary premium over a lower degree? But being an academic is a way of life. An academic is one who is some where between a cynic and a romantic, as skeptical in her rigour to analyse and test, as she is open-minded in proposing a new idea. It is almost a job requirement for an academic to be an auto-didact and teach herself everything she needs. The aspirations of an academic are not determined by the number of zeros at the end of their net worth. They wield power through ideas and not position. Society does need them!"
 description: "What is the role of a PhD in society and what of the lack of a significant salary premium over a lower degree? But being an academic is a way of life. An academic is one who is some where between a cynic and a romantic, as skeptical in her rigour to analyse and test, as she is open-minded in proposing a new idea. It is almost a job requirement for an academic to be an auto-didact and teach herself everything she needs. The aspirations of an academic are not determined by the number of zeros at the end of their net worth. They wield power through ideas and not position. Society does need them!"
+og_image: "/assets/images/TheAcademic-640.jpg"
 ---
 <figure>
    <a href="/assets/images/TheAcademic.jpg">

@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/Walking-2-year-old-640.jpg"
 excerpt: "Walking is fundamental to humans. When we walk, the scenery and the soundscape change, and yet at a gentle enough pace that lets us take it all in. We walk to clear our head — to satisfy the need for a sense of motion, and also as a bonafide social activity. Walking serves to break up a heated meeting. Better not to face one another, but rather be facing out to the same spectacle as our partners. Walking is also about getting around — a valid form of transportation elegantly captured as “Bus Route #11” in the Indian vernacular."
 description: "Walking is fundamental to humans. When we walk, the scenery and the soundscape change, and yet at a gentle enough pace that lets us take it all in. We walk to clear our head — to satisfy the need for a sense of motion, and also as a bonafide social activity. Walking serves to break up a heated meeting. Better not to face one another, but rather be facing out to the same spectacle as our partners. Walking is also about getting around — a valid form of transportation elegantly captured as “Bus Route #11” in the Indian vernacular."
+og_image: "/assets/images/Walking-2-year-old-640.jpg"
 ---
 
 <figure>

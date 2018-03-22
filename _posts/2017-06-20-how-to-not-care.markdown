@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/handstand-1461105_1920-640.jpg"
 excerpt: "It is an advice given often — to not care about what other people think. It cannot mean that you disregard other opinions completely. Not caring is to care, and then to let it rest. We have to agree to disagree, and accept with empathy that the bearer of the opposing opinion may be inevitably drawn to it owing to their values and experiences. Or we have to accept and adopt the alien opinion and harmonise the ensuing contradictions in our values and beliefs."
 description: "It is an advice given often — to not care about what other people think. It cannot mean that you disregard other opinions completely. Not caring is to care, and then to let it rest. We have to agree to disagree, and accept with empathy that the bearer of the opposing opinion may be inevitably drawn to it owing to their values and experiences. Or we have to accept and adopt the alien opinion and harmonise the ensuing contradictions in our values and beliefs."
+og_image: "/assets/images/handstand-1461105_1920-640.jpg"
 ---
 <figure>
    <a href="/assets/images/handstand-1461105_1920.jpg">

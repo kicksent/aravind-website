@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/Liner-notes-table-640.jpg" 
 excerpt: "It was the autumn of 2000. I popped the tape into my tape player. Barely 20 seconds into track 1, Meeting of the Spirits, I was staring agape, in disbelief, trying to figure out what exactly I was hearing. Heavy, High-pitched electric guitar, Powerhouse drums, oh yeah! Except this was so much more. Miles Davis had taken McLaughlin aside after a gig in 1970 and told him 'It’s time you formed your own band'. In McLaughlin’s words, 'Since he was the most honest person I’ve ever met, I took it very seriously.'"
 description: "It was the autumn of 2000. I popped the tape into my tape player. Barely 20 seconds into track 1, Meeting of the Spirits, I was staring agape, in disbelief, trying to figure out what exactly I was hearing. Heavy, High-pitched electric guitar, Powerhouse drums, oh yeah! Except this was so much more. Miles Davis had taken McLaughlin aside after a gig in 1970 and told him 'It’s time you formed your own band'. In McLaughlin’s words, 'Since he was the most honest person I’ve ever met, I took it very seriously.'"
+og_image: "/assets/images/Liner-notes-table-640.jpg" 
 ---
 ## How I discovered the Mahavishnu Orchestra
 

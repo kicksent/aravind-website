@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/books-1251734_1920-640.jpg"
 excerpt: "By reading we implicitly bestow a measure of trust in the writer. Maybe our trust-meter is obsolete. Writing being mightier than a weapon is a notion that humankind has known right from when writing became a thing. And the Internet has amplified the might of writing. But if writing is so potent, then surely it is an act of folly to be a reader without knowing how writing works. Write and empower yourself. The old trust-meter is broken. You need a new one, and it’s called writing."
 description: "By reading we implicitly bestow a measure of trust in the writer. Maybe our trust-meter is obsolete. Writing being mightier than a weapon is a notion that humankind has known right from when writing became a thing. And the Internet has amplified the might of writing. But if writing is so potent, then surely it is an act of folly to be a reader without knowing how writing works. Write and empower yourself. The old trust-meter is broken. You need a new one, and it’s called writing."
+og_image: "/assets/images/books-1251734_1920-640.jpg"
 ---
 <figure>
    <a href="/assets/images/books-1251734_1920.jpg">

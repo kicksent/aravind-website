@@ -7,6 +7,7 @@ header:
    teaser: "/assets/images/aja-album-abstract-640.jpg"
 description: "It was clear as soon as it started playing, why Aja was the kind of album that would appeal to the music connoisseur and the audiophile alike. Steely Dan or Becker and Fagen, with a wide cast of session musicians, have melded witty lyrics, jazzy structures and obsessive studio production into a kind of minimalistic experience in albums like Can’t Buy a Thrill, The Royal Scam and many others. They are known to be quite fastidious, perhaps even snobbish. But there is snobbery that alienates by pursuing discrimination, and there is snobbery that inspires by kindling an aspiration to being better."
 excerpt: "It was clear as soon as it started playing, why Aja was the kind of album that would appeal to the music connoisseur and the audiophile alike. Steely Dan or Becker and Fagen, with a wide cast of session musicians, have melded witty lyrics, jazzy structures and obsessive studio production into a kind of minimalistic experience in albums like Can’t Buy a Thrill, The Royal Scam and many others. They are known to be quite fastidious, perhaps even snobbish. But there is snobbery that alienates by pursuing discrimination, and there is snobbery that inspires by kindling an aspiration to being better."
+og_image: "/assets/images/aja-album-abstract-640.jpg"
 ---
 ## The Magic of Steely Dan 
 
