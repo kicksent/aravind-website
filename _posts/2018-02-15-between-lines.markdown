@@ -5,6 +5,8 @@ date: 2018-02-15 14:43:00 +0530
 categories: personal 
 header:
    teaser: "/assets/images/pen-in-hand-640.jpg" 
+excerpt: "I like drawings which are mostly made up of lines, and commonly fall in the categories of sketches, cartoons, schematics or diagrams. Being quite terrible at colouring, drawing class for me, consisted of the joy of capturing something in its outline and then ruining it with colours! Once I discovered drawing on a computer, I just loved it. I thought the drawings that were possible to make, using a combination of template shapes, free hand curves and interpolated curves, were just endless. Here are a few drawings I have made and some comments about them."
+description: "I like drawings which are mostly made up of lines, and commonly fall in the categories of sketches, cartoons, schematics or diagrams. Being quite terrible at colouring, drawing class for me, consisted of the joy of capturing something in its outline and then ruining it with colours! Once I discovered drawing on a computer, I just loved it. I thought the drawings that were possible to make, using a combination of template shapes, free hand curves and interpolated curves, were just endless. Here are a few drawings I have made and some comments about them."
 ---
 <figure>
    <a href="/assets/images/pen-in-hand.jpg">

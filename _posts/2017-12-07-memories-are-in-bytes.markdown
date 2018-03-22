@@ -5,6 +5,8 @@ date: 2017-12-07 18:45:00 +0530
 categories: only-human
 header:
    teaser: "/assets/images/signals-640.jpg"
+excerpt: "We can record our lives and our knowledge with ever finer fidelity, and we can replay them. We see digital content as our appendage — something that should be always available to us, without which we would feel crippled. But it is not without consequences. Music used to be an activity in the foreground, now it plays while multi-task, hardly registering. Text is not far behind. We scroll through several lines of text, without absorbing what they said. The problem lies in ubiquity. Constraints also served as cues which have disappeared leading to memories not sticking. And while we can replay our lives and our knowledge, we still have to rely on our brains to make us feel the associated feelings."
+description: "We can record our lives and our knowledge with ever finer fidelity, and we can replay them. We see digital content as our appendage — something that should be always available to us, without which we would feel crippled. But it is not without consequences. Music used to be an activity in the foreground, now it plays while multi-task, hardly registering. Text is not far behind. We scroll through several lines of text, without absorbing what they said. The problem lies in ubiquity. Constraints also served as cues which have disappeared leading to memories not sticking. And while we can replay our lives and our knowledge, we still have to rely on our brains to make us feel the associated feelings."
 ---
 <figure>
    <a href="/assets/images/signals.jpg">

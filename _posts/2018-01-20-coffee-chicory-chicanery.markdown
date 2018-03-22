@@ -5,6 +5,8 @@ date: 2018-01-20 17:06:00 +0530
 categories: personal
 header:
    teaser: "/assets/images/coffee-and-biscotti-640.jpg"
+excerpt: "I grew up to the smells and sounds of coffee in a household that roasted and ground its own coffee! But soon we went to chicory-blended coffee powder, more tea and less coffee, and at one stage even instant coffee! Serving coffee often involved the chicanery of some instant coffee being stirred in to render the proper colour for important guests. I started college and my coffee snobbery nose-dived further. I started drinking, in the name of coffee, any brown liquid that didn’t taste like tea, or at least wasn’t called tea."
+description: "I grew up to the smells and sounds of coffee in a household that roasted and ground its own coffee! But soon we went to chicory-blended coffee powder, more tea and less coffee, and at one stage even instant coffee! Serving coffee often involved the chicanery of some instant coffee being stirred in to render the proper colour for important guests. I started college and my coffee snobbery nose-dived further. I started drinking, in the name of coffee, any brown liquid that didn’t taste like tea, or at least wasn’t called tea."
 ---
 <figure>
    <a href="/assets/images/coffee-and-biscotti.jpg">

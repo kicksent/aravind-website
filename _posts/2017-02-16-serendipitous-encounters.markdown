@@ -5,6 +5,8 @@ date: 2017-02-16 10:25:00 +0530
 categories: music-naka
 header:
    teaser: "/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223-640.jpg"
+excerpt: "By sheer chance, I discovered the guitarist, Uli Jon Roth. To me, he was a potent musical force who could play the best guitar solos ever! But no one had heard of Roth and the Internet wasn't yet a thing. So it all lent an incredible air of mystery to this amazing guitarist. Then I found that the mysterious guitarist who I discovered by chance, whose name never rang a bell musical conversations, had just gone and reprised the music he played nearly four decades ago. It is a kind of closure — a completion of the orbit."
+description: "By sheer chance, I discovered the guitarist, Uli Jon Roth. To me, he was a potent musical force who could play the best guitar solos ever! But no one had heard of Roth and the Internet wasn't yet a thing. So it all lent an incredible air of mystery to this amazing guitarist. Then I found that the mysterious guitarist who I discovered by chance, whose name never rang a bell musical conversations, had just gone and reprised the music he played nearly four decades ago. It is a kind of closure — a completion of the orbit."
 ---
 ## with the genius of Uli Jon Roth
 <figure>

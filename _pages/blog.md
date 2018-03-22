@@ -3,10 +3,12 @@ layout: archive
 permalink: /blog/
 title: Blog 
 author_profile: false
-description: "I am Aravind, a scientist and computer engineer, writing about my life. My blog attempts to cover my ordinary life and the things that happen, with a touch of humour."
+description: "I am Aravind, a tech guy, a scientist and computer engineer by training, writing about my life. My blog narrates stories about my ordinary life and events that happen, with a touch of humour."
 og_image: "/assets/images/self-sketch-splash.jpg"
 ---
+Here are some stories about an ordinary life and events, narrated with a touch of humour. If you like a story or if you have one of your own to share, please [write](mailto:letters@aravindiyer.com) to me.
 
+## Latest Stories
 <div class="grid__wrapper">
 {% include group-by-array collection=site.posts field="categories" %}
 

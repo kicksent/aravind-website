@@ -10,13 +10,13 @@ header:
    cta_label: "About me"
    cta_url: "/about/"
 excerpt: "A tech guy writing about music, life and personal stuff."
-description: "I am Aravind, a scientist and computer engineer by training, writing about music, life and personal stuff. My writings cover stories about jazz albums, human emotions and ordinary things that make us human, and narrations of things happening in my life."
+description: "I am Aravind, a tech guy, a scientist and computer engineer by training, writing about music, life and personal stuff. My writings cover stories about music, playlists and albums, human emotions and ordinary things that make us human, and narrations of things happening in my ordinary life."
 og_image: "/assets/images/self-sketch-splash.jpg"
 feature_collections:
   - image_path: /assets/images/music-naka-cover.jpg
     alt: "Collage of cover images of Music Naka posts"
     title: "Music Naka"
-    excerpt: 'Playlists, jazz albums, stories about how they were made or how I found them.'
+    excerpt: 'Playlists, music albums, stories about how they were made or how I found them.'
     url: "/music-naka/"
     btn_label: "Read More"
     btn_class: "btn--primary"

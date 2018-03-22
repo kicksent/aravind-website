@@ -3,7 +3,7 @@ layout: archive
 permalink: /line-art/
 title: Line Art
 author_profile: false
-description: "I am Aravind, a scientist and computer engineer, dabbling with line art. My posts on line art present my drawings, techniques and motivations behind the work."
+description: "I am Aravind, a tech guy, a scientist and computer engineer by training, dabbling with line art. My posts on line art present my drawings, techniques and motivations behind the work."
 og_image: "/assets/images/self-sketch-splash.jpg"
 ---
 

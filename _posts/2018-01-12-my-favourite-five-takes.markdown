@@ -5,6 +5,8 @@ date: 2018-01-12 15:00:00 +0530
 categories: music-naka
 header:
    teaser: "/assets/images/20180110_143300-640.jpg"
+excerpt: "Take Five, a song from Timeout by Dave Brubeck's quartet, is technically set in a five beat cycle, but it is so delightful and accessible! No wonder it became the first jazz single to sell over a million copies. I have run into several fascinating covers of Take Five. The original melody endures all transformations and interpretations, and yet the covers stand as bona fide works of music too. So here are my favourite five takes on Take Five."
+description: "Take Five, a song from Timeout by Dave Brubeck's quartet, is technically set in a five beat cycle, but it is so delightful and accessible! No wonder it became the first jazz single to sell over a million copies. I have run into several fascinating covers of Take Five. The original melody endures all transformations and interpretations, and yet the covers stand as bona fide works of music too. So here are my favourite five takes on Take Five."
 ---
 <figure>
    <a href="/assets/images/20180110_143300.jpg">

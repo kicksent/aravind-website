@@ -5,6 +5,8 @@ date: 2016-09-16 10:30:00 +0530
 categories: music-naka
 header:
    teaser: "/assets/images/wes-montgomery-640.jpg"
+excerpt: "A guitar player I knew described Wes Montgomery as “effortless genius”. He had a signature thumb picked guitar sound, mellow and rounded at the same time as being crisp and well-defined. His albums had an ease in the way the music was laid down, like it was just another day in the office. Montgomery's humble acceptance of his cultivated skill and his genuine desire to make his music accessible to everyone, is what disarms us and makes his genius seem effortless."
+description: "A guitar player I knew described Wes Montgomery as “effortless genius”. He had a signature thumb picked guitar sound, mellow and rounded at the same time as being crisp and well-defined. His albums had an ease in the way the music was laid down, like it was just another day in the office. Montgomery's humble acceptance of his cultivated skill and his genuine desire to make his music accessible to everyone, is what disarms us and makes his genius seem effortless."
 ---
 ## The unique appeal of Wes Montgomery
 

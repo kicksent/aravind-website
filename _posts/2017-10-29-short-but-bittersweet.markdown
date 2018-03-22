@@ -5,6 +5,8 @@ date: 2017-10-29 09:15:00 +0530
 categories: music-naka
 header:
    teaser: "/assets/images/remler-640.jpg"
+excerpt: "I heard Emily Remler on air, gushing with admiration for Wes Montgomery. Remler carried Montgomery’s torch forward, while also giving it her own identity. But just when she had overcome the hurdles of gender bias, technique and the long shadows of her heroes, and begun to form her own voice, she died and it all ended so abruptly. Maybe she did not produce the output that was so obviously within her musical reach. Yet I think she got more out of her life than most, by absorbing her life experiences, learning from them and just harnessing them into her music. That was the musical life of Emily Remler — short and bittersweet, but very much well lived!"
+description: "I heard Emily Remler on air, gushing with admiration for Wes Montgomery. Remler carried Montgomery’s torch forward, while also giving it her own identity. But just when she had overcome the hurdles of gender bias, technique and the long shadows of her heroes, and begun to form her own voice, she died and it all ended so abruptly. Maybe she did not produce the output that was so obviously within her musical reach. Yet I think she got more out of her life than most, by absorbing her life experiences, learning from them and just harnessing them into her music. That was the musical life of Emily Remler — short and bittersweet, but very much well lived!"
 ---
 ## The musical life of Emily Remler
 <figure>

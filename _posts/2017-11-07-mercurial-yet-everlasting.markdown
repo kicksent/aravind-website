@@ -5,6 +5,8 @@ date: 2017-11-07 11:10:00 +0530
 categories: music-naka
 header:
    teaser: "/assets/images/Freddy_Mercury_Statue_Montreux-640.jpg"
+excerpt: "I first heard Queen on FM radio, in India. It is the song “The Show must go on” which really is Mercury’s swan song. Mercury was quite unwell during the making of the album and ended up dying within 10 months of its release. Listening to Mercury sing resolutely, “Ooh, inside my heart is breaking, my make-up may be flaking, but my smile still stays on” followed by May’s searing guitar, it is hard to imagine a braver, more stoic good bye in the face of the inevitable! Nothing is permanent except change. Music is now so easy to get. I am not a teenager anymore. Drugs are no longer cool, and smartphones are the new drugs. Being gay is a bit more OK than it used to be in the 90s. But the magic of Freddie Mercury’s voice lives on."
+description: "I first heard Queen on FM radio, in India. It is the song “The Show must go on” which really is Mercury’s swan song. Mercury was quite unwell during the making of the album and ended up dying within 10 months of its release. Listening to Mercury sing resolutely, “Ooh, inside my heart is breaking, my make-up may be flaking, but my smile still stays on” followed by May’s searing guitar, it is hard to imagine a braver, more stoic good bye in the face of the inevitable! Nothing is permanent except change. Music is now so easy to get. I am not a teenager anymore. Drugs are no longer cool, and smartphones are the new drugs. Being gay is a bit more OK than it used to be in the 90s. But the magic of Freddie Mercury’s voice lives on."
 ---
 <figure>
    <a href="/assets/images/Freddy_Mercury_Statue_Montreux.jpg">

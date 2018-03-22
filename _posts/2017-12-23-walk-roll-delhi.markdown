@@ -5,6 +5,8 @@ date: 2017-12-23 16:34:00 +0530
 categories: personal
 header:
    teaser: "/assets/images/india-gate-selfie-640.jpg"
+excerpt: "Indian cities are not great for walking, and Delhi no exception. But on a hot October evening, with a six year old in tow, but with constant encouragement and flattery about our walking stamina, we quickly put 1 km under our belt. The air was not terrible by the standards of urban India. There were plenty of people about, of different means and grooming. There were decent sidewalks and the shade of trees from time to time. And then there was the smell — a kind of dry, hot smell, enhanced by one or two sellers of roasted peanuts. Each city has its sensory identity, right down to how it smells. We completed the rest of the walk, licking on rapidly melting ice candies while also shooing away some pesky flies."
+description: "Indian cities are not great for walking, and Delhi no exception. But on a hot October evening, with a six year old in tow, but with constant encouragement and flattery about our walking stamina, we quickly put 1 km under our belt. The air was not terrible by the standards of urban India. There were plenty of people about, of different means and grooming. There were decent sidewalks and the shade of trees from time to time. And then there was the smell — a kind of dry, hot smell, enhanced by one or two sellers of roasted peanuts. Each city has its sensory identity, right down to how it smells. We completed the rest of the walk, licking on rapidly melting ice candies while also shooing away some pesky flies."
 ---
 <figure>
    <a href="/assets/images/india-gate-selfie.jpg">

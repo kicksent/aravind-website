@@ -4,7 +4,7 @@ title: About Aravind Iyer
 permalink: /about/
 author: Aravind Iyer
 author_profile: true
-description: "I am Aravind, a scientist and computer engineer by training, writing about music and life. My writings cover reviews and stories about jazz albums as well as human emotions and ordinary things that make us human."
+description: "I am Aravind, a tech guy, a scientist and computer engineer by training, writing about music and life. My writings cover reviews and stories about music as well as human emotions and ordinary things that make us human."
 og_image: "/assets/images/profile.jpg"
 ---
 
@@ -26,5 +26,5 @@ It was quite a thing to make and maintain personal websites and blogs. In fact, 
 
 Despite all this, I feel I need a place to organise my writing and showcase any other work I might do. I have written at [Medium](https://medium.com/@.aravindiyer) and also on [LinkedIn](https://www.linkedin.com/in/aravindiyer/), and I intend to continue doing so. But I like my own little corner. Regarding the choice of the platform, this site is built using [Jekyll](https://jekyllrb.com/) using the excellent theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) by [Michael Rose](https://mademistakes.com/). The repository for this site is hosted on [Github](https://github.com/iyeraravind/aravind-website/) and the site itself is hosted by [Netlify](https://www.netlify.com/). This setup may not be to everyone's taste, of course, but it's fun to be able to use a text editor and a command line to publish posts in 2018!
 
-Have fun reading, and if you find something you like, please let me know! Cheers!
+Have fun reading, and if you find something you like, please [let me know](mailto:feedback@aravindiyer.com)! Cheers!
 
