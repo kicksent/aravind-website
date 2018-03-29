@@ -1,13 +1,13 @@
 ---
 title: "What is work - labour of love or love of labour?"
 author: Aravind Iyer
-date: 2018-03-29 09:52:00 +0530
+date: 2018-03-29 15:00:00 +0530
 categories: drafts #only-human
 noindex: true
 header:
    teaser: "/assets/images/dimensions-of-work-640.jpg"
-excerpt:
-description:
+excerpt: "We use the word “work” quite freely and frequently in our conversations. But it is probably worth asking and contemplating, what work is exactly? We need to work. We need to be seen as working. We need to sweat. We need the fruits and also the fulfilment. Work defines us. It is our love of labour as much as it is a labour of love."
+description: "We use the word “work” quite freely and frequently in our conversations. But it is probably worth asking and contemplating, what work is exactly? We need to work. We need to be seen as working. We need to sweat. We need the fruits and also the fulfilment. Work defines us. It is our love of labour as much as it is a labour of love."
 og_image: "/assets/images/dimensions-of-work-640.jpg"
 ---
 <figure>
@@ -35,7 +35,7 @@ Effort is the deliberate direction of energy towards achieving a goal. Work requ
 
 ## Work is value
 
-Value is a measure of the merit or usefulness of something. Stones and metals are deemed valuable based on our collective perception of their lustre, beauty and longevity. Work is valuable in proportion to how well it maintains the status quo or how well it can be seen as improving upon it. Work is also valuable if it improves the manner in which other work is done by making it more efficient, less redundant or more fruitful. Most importantly, value is not merely utilitarian but also artistic, emotional and abstract. If work were only value, then not working would make us parasitic.
+Value is a measure of the merit or usefulness of something. Stones and metals are deemed valuable based on our collective perception of their lustre, beauty and longevity. Work is valuable in proportion to how well it maintains the status quo or how well it can be seen as improving upon it. Work is also valuable if it improves the manner in which other work is done by making it more efficient, less redundant or more fruitful. Most importantly, the value that work creates is not merely utilitarian, but can also be artistic, emotional and abstract. If work were only value, then not working would make us parasitic.
 
 ## Work is its own reward
 
