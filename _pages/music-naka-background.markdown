@@ -17,4 +17,4 @@ But music is also a medium for communicating and stimulating emotions, for conve
 
 The word *naka* means crossroads or square in *Hindi*. It is a place of gathering and conversations (and alas, also a place for the paying of tolls). In my teens, it used to be the fashion for young people to go to the *naka* to hang out, meet others, tell stories to one another and have a good time. It's good to see you at Music Naka! If you like a story or if you have one to share, please [write](mailto:letters@aravindiyer.com) to me.
 
-Go ahead, [read on!]({{ site.baseurl }}{% link _pages/music-naka.md %})
+Go ahead, [read on!]({{ site.baseurl }}{% link _pages/music-naka.markdown %})

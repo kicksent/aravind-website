@@ -58,7 +58,7 @@ Later I wanted to see how complex subjects could be rendered through this proces
 
 ## Mock album covers
 
-Since I have been writing [music reviews]({{ site.baseurl }}{% link _pages/music-naka.md %}), I tried my hand at mocking up some album art. These were intended to evoke the feeling of recognition in people who were already familiar with the album art. The actual album covers are definitely much nicer! On the left is [Inner Mounting Flame]({{ site.baseurl }}{% post_url 2016-08-19-igniting-the-flame %}) by The Mahavishnu Orchestra and on the right is [Aja]({{ site.baseurl }}{% post_url 2016-09-03-approachable-snobbery %}) by Steely Dan.
+Since I have been writing [music reviews]({{ site.baseurl }}{% link _pages/music-naka.markdown %}), I tried my hand at mocking up some album art. These were intended to evoke the feeling of recognition in people who were already familiar with the album art. The actual album covers are definitely much nicer! On the left is [Inner Mounting Flame]({{ site.baseurl }}{% post_url 2016-08-19-igniting-the-flame %}) by The Mahavishnu Orchestra and on the right is [Aja]({{ site.baseurl }}{% post_url 2016-09-03-approachable-snobbery %}) by Steely Dan.
 
 <figure>
    <a href="/assets/images/mock-album-art.jpg">

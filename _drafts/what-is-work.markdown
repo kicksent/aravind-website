@@ -1,7 +1,7 @@
 ---
 title: "What is work - labour of love or need of labour?"
 author: Aravind Iyer
-date:
+date: 2018-03-29 09:52:00 +0530
 categories: only-human
 header:
    teaser:
