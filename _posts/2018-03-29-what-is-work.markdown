@@ -1,0 +1,54 @@
+---
+title: "What is work - labour of love or love of labour?"
+author: Aravind Iyer
+date: 2018-03-29 09:52:00 +0530
+categories: drafts #only-human
+header:
+   teaser: "/assets/images/dimensions-of-work-640.jpg"
+excerpt:
+description:
+og_image: "/assets/images/dimensions-of-work-640.jpg"
+---
+<figure>
+   <a href="/assets/images/dimensions-of-work.jpg">
+      <img src="/assets/images/dimensions-of-work-640.jpg" alt="Symbols denoting different dimensions of work">
+   </a>
+   <figcaption>Different dimensions of work (Illustration courtesy of Aravind Iyer)</figcaption>
+</figure>
+
+We use the word “work” quite freely and frequently in our conversations. We use it without thinking and most of the time, we understand what it means. But we also exhibit some confusion in the exact meaning we attach to it. We aspire to do our best work and yet we desire work-life balance. We value leisure, but sloth is sinful in most cultures. We seek automation so that we may work more efficiently. Yet we talk about a post-work world, and are none the wiser how we should or might cope in it. Some of us have a hobby, but only a few of us are professional in its pursuit. I have shared the same confusion about work, writing once of how I took a [sabbatical from work]({{ site.baseurl }}{% post_url 2016-10-03-how-i-came-to-take-sabbatical %}) and later of how a [sabbatical is work]({{ site.baseurl }}{% post_url 2017-01-11-lessons-from-sabbatical %}), and yet again attempting to provide a positive ending to my observations on loneliness, when I asked the reader to [get to work]({{ site.baseurl }}{% post_url 2017-02-02-ambivalence-of-loneliness %}). In this background, it is probably worth asking and contemplating, what work is exactly?
+
+Rather than propose a definition of work, it is perhaps more useful to describe it. Work has many meanings or connotations, and listing them out can bring us closer to understanding what work is. Here are some characteristics we associate with work.
+
+## Work is chores
+
+Chores are routine tasks that need doing. They are necessary for us to maintain our home, our lifestyle, our legal status, our businesses, our software, or our health among other things. We may or may not like them, but chores preserve the status quo and prevent decay. It is generally easy to tell if a chore is done or not, and it is also a mostly clear if tedious process to perform one. If work were only chores, then not working would result in decay.
+
+## Work is livelihood
+
+Livelihood is the means of securing the necessities and comforts of life. Work pays us the money to buy those needs and comforts. We donate our time, skills and effort towards work, and we get rewarded in proportion to the perceived scarcity of our capabilities. We may not often be the best at it, and we may not like it all of the time, but we are always happy for the security of livelihood. If work were only livelihood, then not working would result in financial ill-health or dependence.
+
+## Work is effort
+
+Effort is the deliberate direction of energy towards achieving a goal. Work requires effort — physical, emotional, intellectual or all kinds. Sometimes, the effort may tire us, and at other times, it may spur us on. Our effort may be focussed and appropriate in intensity, or it may well be lacking or misdirected. Our efforts may bear fruit or they may be in vain. But it is unlikely that there is work without effort. If work were only effort, then not working would be sloth.
+
+## Work is value
+
+Value is a measure of the merit or usefulness of something. Stones and metals are deemed valuable based on our collective perception of their lustre, beauty and longevity. Work is valuable in proportion to how well it maintains the status quo or how well it can be seen as improving upon it. Work is also valuable if it improves the manner in which other work is done by making it more efficient, less redundant or more fruitful. Most importantly, value is not merely utilitarian but also artistic, emotional and abstract. If work were only value, then not working would make us parasitic.
+
+## Work is its own reward
+
+A reward is often a compensation in recognition of an achievement. But it is also often the case that the mere process of seeking and striving towards an achievement, results in a build-up of moral value, which no one can confer upon you. Regardless of whether work maintains the status quo or wins the bread or consumes your energy or creates externally recognisable value, work can sometimes feel like it is just worth it. If only that which was rewarding by itself was work, then not working would result in the erosion of our self-worth.
+
+With its many connotations, the confusion around work is both easy to understand and easy to unravel. We aspire to do our best work because we like to see the best value created out of our efforts. Besides, the resonance of effort turning into value completely, is hugely rewarding too. We desire work-life balance not because we want to slacken our efforts, but because life is bigger than livelihood. We value leisure not because we want to stop working, but because the pause recharges us and guides us to what we should work on and how. We fear sloth because it is fundamentally human to work, and most of all because lack of work erodes our sense of self-worth. We seek automation to avoid errors and inefficiency, and while we love the prospect of our chores being taken away, we rightly fear for our livelihood.
+
+My own experience during my sabbatical made me confront what exactly work was. I started my sabbatical because my work (or source of monetary reward) had come to dominate my life. I wanted it to give me everything that work can give us, while unwittingly ignoring other work that I needed to do in my life. But during my sabbatical, I came to question the notion of work even more. Being of a privileged background, I had scant chores that I needed to do myself. Despite the quantified loss of livelihood, I was conscious of not earning. My efforts were diffused as I had plenty of interests to pursue, and whether my work was valuable or not was just that - a question. Despite my brave posture that a sabbatical was also work, it was easy enough to wonder whether I was working or just in sloth. Thinking about work in these simple terms helped me overcome my doubts and allowed me to really work.
+
+<figure>
+   <a href="/assets/images/dimensions-of-work-labelled.jpg">
+      <img src="/assets/images/dimensions-of-work-labelled-640.jpg" alt="Symbols denoting different dimensions of work">
+   </a>
+   <figcaption>Different dimensions of work (Illustration courtesy of Aravind Iyer)</figcaption>
+</figure>
+
+The dimensions of work may read like a platitude, and we may well laugh at its obviousness. Yet, confusion about the nature of work is a distraction and a deterrent to work. By accepting that work needs to fulfil these different kinds of needs, we can come to terms with its role and empower ourselves to exert fully. We need to work. We need to be seen as working. We need to sweat. We need the fruits and also the fulfilment. Work defines us. It is our love of labour as much as it is a labour of love. We may come upon a future where the association between work and livelihood may be less tight than it is today, but there can be no doubt that we will still be hard at work.
