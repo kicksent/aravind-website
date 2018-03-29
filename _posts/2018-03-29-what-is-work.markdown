@@ -3,6 +3,7 @@ title: "What is work - labour of love or love of labour?"
 author: Aravind Iyer
 date: 2018-03-29 09:52:00 +0530
 categories: drafts #only-human
+noindex: true
 header:
    teaser: "/assets/images/dimensions-of-work-640.jpg"
 excerpt:
