@@ -54,3 +54,5 @@ My own experience during my sabbatical made me confront what exactly work was. I
 The dimensions of work may read like a platitude, and we may well laugh at its obviousness. Yet, confusion about the nature of work is a distraction and a deterrent to work. Reflect on the times when you have been able to exert fully. I bet you didn't harbour any confusions about the work you were exerting for. Now, think of those times when doubt and hesitation have impaired you from being productive. It's easier said than done, but by accepting that work needs to fulfil these different kinds of needs, we can come to terms with its specific role and empower ourselves to carry it out.
 
 We need to work. We need to be seen as working. We need to see others working. We need to sweat. We need the fruits and also the fulfilment. Work defines us. It is our love of labour as much as it is a labour of love. We may come upon a future where the association between work and livelihood may be less tight than it is today, but there can be no doubt that we will still be at work.
+
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*

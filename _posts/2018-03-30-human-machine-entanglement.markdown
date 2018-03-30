@@ -11,7 +11,7 @@ og_image: "/assets/images/hme-cover-640.jpg"
 ---
 <figure>
   <a href="/assets/images/hme-cover.jpg">
-    <img src="/assets/images/hme-cover-640.jpg" alt="Hand drawing a sketch inside a smartphone">
+    <img src="/assets/images/hme-cover.jpg" alt="Hand drawing a sketch inside a smartphone">
   </a>
   <figcaption>Your digital persona — work in progress (Artwork courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -19,7 +19,7 @@ The image just came into my head the other day — I was looking down at a c
 
 <figure>
   <a href="/assets/images/digital-self-push.jpg">
-    <img src="/assets/images/digital-self-push-640.jpg" alt="Sketch of person trying to get out of the smartphone">
+    <img src="/assets/images/digital-self-push.jpg" alt="Sketch of person trying to get out of the smartphone">
   </a>
   <figcaption>The digital alter ego, all grown up and trying to get out. (Artwork courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -30,7 +30,7 @@ But it is also our own doing. It is hard to think of any activities we do which 
 
 <figure>
   <a href="/assets/images/more-entanglement.jpg">
-    <img src="/assets/images/more-entanglement-640.jpg" alt="Sketch of person sketching himself while also trying to get out of the smartphone">
+    <img src="/assets/images/more-entanglement.jpg" alt="Sketch of person sketching himself while also trying to get out of the smartphone">
   </a>
   <figcaption>One hand draws us in, even as the other tries to push out! (Artwork courtesy of Aravind Iyer)</figcaption>
 </figure>
@@ -39,7 +39,11 @@ But even this isn’t the complete picture. Doubtless, we are creating our digit
 
 <figure>
   <a href="/assets/images/entanglement-coffee.jpg">
-    <img src="/assets/images/entanglement-coffee-640.jpg" alt="Sketch of person sketching himself while also trying to reach out of the smartphone for the coffee on the table">
+    <img src="/assets/images/entanglement-coffee.jpg" alt="Sketch of person sketching himself while also trying to reach out of the smartphone for the coffee on the table">
   </a>
   <figcaption>Digital doesn't want out. It wants in and is reaching for the coffee! (Artwork courtesy of Aravind Iyer)</figcaption>
 </figure>
+
+Which illustration do you think best captures our state of entanglement with the digital world?
+
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
