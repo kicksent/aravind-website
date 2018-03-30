@@ -36,7 +36,7 @@
   </script>
 {% endif %}
 
-{% if page.noindex %}
+{% if page.categories[0] == 'drafts' %}
   <meta name="robots" content="noindex" />
 {% endif %}
 
