@@ -49,6 +49,9 @@ I must have played that tape a dozen times over in the next couple of days. But 
 5. <a name="FT5"></a>[Paul Tingen](http://www.miles-beyond.com/biog.htm) at the [Jazz Times](https://jazztimes.com/) narrates an [amazing, in-depth story](https://jazztimes.com/features/miles-davis-and-the-making-of-bitches-brew-sorcerers-brew/) on the making of the Bitches Brew album by Miles Davis. <a href="#FT5REF"><i class="fas fa-level-up-alt"></i></a>
 
 ## Music
+
+<iframe height="300" width="360" src="https://play.soundsgood.co/embed/5abe3768b78a710611a642ea?color=52adc8&hideCurator=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 1. [Shakti with John McLaughlin](https://en.wikipedia.org/wiki/Shakti_%28Shakti_album%29), *Shakti*, 1976. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [L. Shankar](https://en.wikipedia.org/wiki/L._Shankar) — violin, [Ramnad Raghavan](https://en.wikipedia.org/wiki/Ramnad_Raghavan) — mridangam, [T. H. Vinayakaram](https://en.wikipedia.org/wiki/T._H._Vinayakaram) — ghatam and mridangam, [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_%28musician%29) — tabla.
 
 2. [The Inner Mounting Flame](https://en.wikipedia.org/wiki/The_Inner_Mounting_Flame), *Mahavishnu Orchestra*, 1971. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [Rick Laird](https://en.wikipedia.org/wiki/Rick_Laird) — bass, [Billy Cobham](https://en.wikipedia.org/wiki/Billy_Cobham) — drums, percussion, [Jan Hammer](https://en.wikipedia.org/wiki/Jan_Hammer) — keyboards, organ, [Jerry Goodman](https://en.wikipedia.org/wiki/Jerry_Goodman) — violin.
