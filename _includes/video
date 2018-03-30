@@ -7,5 +7,7 @@
   <iframe src="https://player.vimeo.com/video/{{ video_id }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+{% elsif video_provider == "soundsgood" %}
+  <iframe src="https://play.soundsgood.co/embed/{{ video_id }}?color=52adc8&&hideCurator=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 {% endif %}
 </div>
