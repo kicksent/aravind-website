@@ -3,6 +3,9 @@ title: "Igniting the Flame"
 author: Aravind Iyer
 date: 2016-08-19 09:00:00 +0530
 categories: music-naka
+toc: true
+toc_label: Jump to
+toc_icon: angle-double-down
 header:
    teaser: "/assets/images/Liner-notes-table-640.jpg" 
 excerpt: "It was the autumn of 2000. I popped the tape into my tape player. Barely 20 seconds into track 1, Meeting of the Spirits, I was staring agape, in disbelief, trying to figure out what exactly I was hearing. Heavy, High-pitched electric guitar, Powerhouse drums, oh yeah! Except this was so much more. Miles Davis had taken McLaughlin aside after a gig in 1970 and told him 'It’s time you formed your own band'. In McLaughlin’s words, 'Since he was the most honest person I’ve ever met, I took it very seriously.'"
@@ -36,6 +39,10 @@ I must have played that tape a dozen times over in the next couple of days. But 
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
+## Music player
+
+{% include video id="5abe3768b78a710611a642ea" provider="soundsgood" %}
+
 ## Notes
 
 1. <a name="FT1"></a>[James Hamblin](https://www.theatlantic.com/author/james-hamblin/) from [The Atlantic](https://www.theatlantic.com/) writes about [how experiences are more valuable to people than things](https://www.theatlantic.com/business/archive/2014/10/buy-experiences/381132/). A great example that a researcher cites in the article, is about waiting in line. When people queue up to buy a concert ticket, they tend to see that as part of the experience, whereas when they wait to get a material purchase, they see the wait as being in the way of getting their hands on the thing. <a href="#FT1REF"><i class="fas fa-level-up-alt"></i></a>
@@ -48,15 +55,12 @@ I must have played that tape a dozen times over in the next couple of days. But 
 
 5. <a name="FT5"></a>[Paul Tingen](http://www.miles-beyond.com/biog.htm) at the [Jazz Times](https://jazztimes.com/) narrates an [amazing, in-depth story](https://jazztimes.com/features/miles-davis-and-the-making-of-bitches-brew-sorcerers-brew/) on the making of the Bitches Brew album by Miles Davis. <a href="#FT5REF"><i class="fas fa-level-up-alt"></i></a>
 
-## Music
+## Program
 
-{% include video id="5abe3768b78a710611a642ea" provider="soundsgood" %}
+1. [The Inner Mounting Flame](https://en.wikipedia.org/wiki/The_Inner_Mounting_Flame), *Mahavishnu Orchestra*, 1971. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [Rick Laird](https://en.wikipedia.org/wiki/Rick_Laird) — bass, [Billy Cobham](https://en.wikipedia.org/wiki/Billy_Cobham) — drums, percussion, [Jan Hammer](https://en.wikipedia.org/wiki/Jan_Hammer) — keyboards, organ, [Jerry Goodman](https://en.wikipedia.org/wiki/Jerry_Goodman) — violin.
 
+2. [Shakti with John McLaughlin](https://en.wikipedia.org/wiki/Shakti_%28Shakti_album%29), *Shakti*, 1976. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [L. Shankar](https://en.wikipedia.org/wiki/L._Shankar) — violin, [Ramnad Raghavan](https://en.wikipedia.org/wiki/Ramnad_Raghavan) — mridangam, [T. H. Vinayakaram](https://en.wikipedia.org/wiki/T._H._Vinayakaram) — ghatam and mridangam, [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_%28musician%29) — tabla.
 
-1. [Shakti with John McLaughlin](https://en.wikipedia.org/wiki/Shakti_%28Shakti_album%29), *Shakti*, 1976. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [L. Shankar](https://en.wikipedia.org/wiki/L._Shankar) — violin, [Ramnad Raghavan](https://en.wikipedia.org/wiki/Ramnad_Raghavan) — mridangam, [T. H. Vinayakaram](https://en.wikipedia.org/wiki/T._H._Vinayakaram) — ghatam and mridangam, [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_%28musician%29) — tabla.
+3. [In a Silent Way](https://en.wikipedia.org/wiki/In_a_Silent_Way), *Miles Davis*, 1969. Band members: [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis) — trumpet, [Wayne Shorter](https://en.wikipedia.org/wiki/Wayne_Shorter) — tenor saxophone, [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [Chick Corea](https://en.wikipedia.org/wiki/Chick_Corea) — electric piano, [Herbie Hancock](https://en.wikipedia.org/wiki/Herbie_Hancock) — electric piano, [Joe Zawinul](https://en.wikipedia.org/wiki/Joe_Zawinul) — electric piano, organ, [Dave Holland](https://en.wikipedia.org/wiki/Dave_Holland) — bass, [Tony Williams](https://en.wikipedia.org/wiki/Tony_Williams_%28drummer%29) — drums.
 
-2. [The Inner Mounting Flame](https://en.wikipedia.org/wiki/The_Inner_Mounting_Flame), *Mahavishnu Orchestra*, 1971. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [Rick Laird](https://en.wikipedia.org/wiki/Rick_Laird) — bass, [Billy Cobham](https://en.wikipedia.org/wiki/Billy_Cobham) — drums, percussion, [Jan Hammer](https://en.wikipedia.org/wiki/Jan_Hammer) — keyboards, organ, [Jerry Goodman](https://en.wikipedia.org/wiki/Jerry_Goodman) — violin.
-
-3. [Bitches Brew](https://en.wikipedia.org/wiki/Bitches_Brew), *Miles Davis*, 1970. Band members: [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis) — trumpet, [Wayne Shorter](https://en.wikipedia.org/wiki/Wayne_Shorter) — saxophone, [Bennie Maupin](https://en.wikipedia.org/wiki/Bennie_Maupin) — bass clarinet, [Joe Zawinul](https://en.wikipedia.org/wiki/Joe_Zawinul) — electric piano, [Chick Corea](https://en.wikipedia.org/wiki/Chick_Corea) — electric piano, [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — electric guitar, [Dave Holland](https://en.wikipedia.org/wiki/Dave_Holland) — bass, [Harvey Brooks](https://en.wikipedia.org/wiki/Harvey_Brooks_%28bassist%29) — electric bass, [Lenny White](https://en.wikipedia.org/wiki/Lenny_White) — drums, [Jack DeJohnette](https://en.wikipedia.org/wiki/Jack_DeJohnette) — drums, [Don Alias](https://en.wikipedia.org/wiki/Don_Alias) — congas, [Juma Santos](https://en.wikipedia.org/wiki/Juma_Santos) — shaker, congas, [Larry Young](https://en.wikipedia.org/wiki/Larry_Young_%28jazz%29) — electric piano, [Billy Cobham](https://en.wikipedia.org/wiki/Billy_Cobham) — drums, [Airto Moreira](https://en.wikipedia.org/wiki/Airto_Moreira) — percussion.
-
-4. [In a Silent Way](https://en.wikipedia.org/wiki/In_a_Silent_Way), *Miles Davis*, 1969. Band members: [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis) — trumpet, [Wayne Shorter](https://en.wikipedia.org/wiki/Wayne_Shorter) — tenor saxophone, [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [Chick Corea](https://en.wikipedia.org/wiki/Chick_Corea) — electric piano, [Herbie Hancock](https://en.wikipedia.org/wiki/Herbie_Hancock) — electric piano, [Joe Zawinul](https://en.wikipedia.org/wiki/Joe_Zawinul) — electric piano, organ, [Dave Holland](https://en.wikipedia.org/wiki/Dave_Holland) — bass, [Tony Williams](https://en.wikipedia.org/wiki/Tony_Williams_%28drummer%29) — drums.
+4. [Bitches Brew](https://en.wikipedia.org/wiki/Bitches_Brew), *Miles Davis*, 1970. Band members: [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis) — trumpet, [Wayne Shorter](https://en.wikipedia.org/wiki/Wayne_Shorter) — saxophone, [Bennie Maupin](https://en.wikipedia.org/wiki/Bennie_Maupin) — bass clarinet, [Joe Zawinul](https://en.wikipedia.org/wiki/Joe_Zawinul) — electric piano, [Chick Corea](https://en.wikipedia.org/wiki/Chick_Corea) — electric piano, [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — electric guitar, [Dave Holland](https://en.wikipedia.org/wiki/Dave_Holland) — bass, [Harvey Brooks](https://en.wikipedia.org/wiki/Harvey_Brooks_%28bassist%29) — electric bass, [Lenny White](https://en.wikipedia.org/wiki/Lenny_White) — drums, [Jack DeJohnette](https://en.wikipedia.org/wiki/Jack_DeJohnette) — drums, [Don Alias](https://en.wikipedia.org/wiki/Don_Alias) — congas, [Juma Santos](https://en.wikipedia.org/wiki/Juma_Santos) — shaker, congas, [Larry Young](https://en.wikipedia.org/wiki/Larry_Young_%28jazz%29) — electric piano, [Billy Cobham](https://en.wikipedia.org/wiki/Billy_Cobham) — drums, [Airto Moreira](https://en.wikipedia.org/wiki/Airto_Moreira) — percussion.
