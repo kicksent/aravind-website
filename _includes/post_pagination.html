@@ -1,8 +1,9 @@
-<!-- Generating previous and next links at the bottom
-     Previous and next links should be within the category of the given page
-     If the page has no categories, the previous and next links should be across all pages
-     Solution adapted from https://github.com/jekyll/jekyll/issues/260
--->
+{% comment %}
+  Generating previous and next links at the bottom
+  Previous and next links should be within the category of the given page
+  If the page has no categories, the previous and next links should be across all pages
+  Solution adapted from https://github.com/jekyll/jekyll/issues/260
+{% endcomment %}
 
 {% if page.categories %}
   {% assign category = page.categories[0] %}

@@ -12,14 +12,9 @@ Music makes its best impression when it is shared by a friend over a story. Musi
 ## Latest stories
 
 <div class="grid__wrapper">
-{% include group-by-array collection=site.posts field="categories" %}
-
-{% for category in group_names %}
-  {% if category == 'music-naka' %}
-    {% assign posts = group_items[forloop.index0] %}
-    {% for post in posts %}
-      {% include archive-single.html type="grid" %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+  {% assign category = 'music-naka' %}
+  {% assign posts = site.categories[category] %}
+  {% for post in posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
 </div>

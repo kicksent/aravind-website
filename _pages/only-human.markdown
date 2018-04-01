@@ -11,14 +11,9 @@ We walk, and not just to get around. We feel lonely, and we still want to be lef
 ## Latest Stories
 
 <div class="grid__wrapper">
-{% include group-by-array collection=site.posts field="categories" %}
-
-{% for category in group_names %}
-  {% if category == 'only-human' %}
-    {% assign posts = group_items[forloop.index0] %}
-    {% for post in posts %}
-      {% include archive-single.html type="grid" %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+  {% assign category = 'only-human' %}
+  {% assign posts = site.categories[category] %}
+  {% for post in posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
 </div>

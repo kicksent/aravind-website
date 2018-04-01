@@ -7,13 +7,10 @@ description: "I am Aravind, a tech guy, a scientist and computer engineer by tra
 og_image: "/assets/images/self-sketch-splash.jpg"
 ---
 
-{% include group-by-array collection=site.posts field="categories" %}
-
-{% for category in group_names %}
-  {% if category == 'puzzles' %}
-    {% assign posts = group_items[forloop.index0] %}
-    {% for post in posts %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+<div class="grid__wrapper">
+  {% assign category = 'puzzles' %}
+  {% assign posts = site.categories[category] %}
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>

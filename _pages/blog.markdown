@@ -9,15 +9,11 @@ og_image: "/assets/images/blog-cover.jpg"
 Here are some stories about an ordinary life and the stuff that happens. If you like a story or if you have one of your own to share, please [write](mailto:letters@aravindiyer.com) to me.
 
 ## Latest Stories
-<div class="grid__wrapper">
-{% include group-by-array collection=site.posts field="categories" %}
 
-{% for category in group_names %}
-  {% if category == 'personal' %}
-    {% assign posts = group_items[forloop.index0] %}
-    {% for post in posts %}
-      {% include archive-single.html type="grid" %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+<div class="grid__wrapper">
+  {% assign category = 'personal' %}
+  {% assign posts = site.categories[category] %}
+  {% for post in posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
 </div>
