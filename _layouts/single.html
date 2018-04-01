@@ -68,7 +68,7 @@ layout: default
     {% endif %}
   </article>
 
-  {% if page.related %}
+  {% if page.related and page.categories[0] != 'drafts' %}
     {% include related.html %}
   {% endif %}
 
