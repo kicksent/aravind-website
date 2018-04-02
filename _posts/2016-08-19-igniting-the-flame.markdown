@@ -3,9 +3,6 @@ title: "Igniting the Flame"
 author: Aravind Iyer
 date: 2016-08-19 09:00:00 +0530
 categories: music-naka
-toc: true
-toc_label: Jump to
-toc_icon: angle-double-down
 header:
    teaser: "/assets/images/Liner-notes-table-640.jpg" 
 excerpt: "It was the autumn of 2000. I popped the tape into my tape player. Barely 20 seconds into track 1, Meeting of the Spirits, I was staring agape, in disbelief, trying to figure out what exactly I was hearing. Heavy, High-pitched electric guitar, Powerhouse drums, oh yeah! Except this was so much more. Miles Davis had taken McLaughlin aside after a gig in 1970 and told him 'It’s time you formed your own band'. In McLaughlin’s words, 'Since he was the most honest person I’ve ever met, I took it very seriously.'"
@@ -14,12 +11,10 @@ og_image: "/assets/images/Liner-notes-table-640.jpg"
 ---
 ## How I discovered the Mahavishnu Orchestra
 
-<figure>
-   <a href="/assets/images/Liner-notes-table.jpg">
-      <img src="/assets/images/Liner-notes-table-640.jpg" alt="An 80s stereo and open liner notes of The Inner Mounting Flame">
-   </a>
-   <figcaption>Listening to Mahavishnu Orchestra for the first time, while reading the liner notes! (artwork courtesy of Aravind Iyer)</figcaption>
-</figure>
+{% include video id="5abe3768b78a710611a642ea" provider="soundsgood" %}
+
+**ProTip:** Choose your streaming service above, and play along while you read!
+{: .notice--info}
 
 It is generally agreed that experiences are more valuable to people than possessions[^experiences]. From that perspective, a musical performance is something unique and wonderful. Attending one can be an experience to remember, and yet it can be bottled into a record which a music lover can possess and use to re-live the experience. Of course, today’s world of unlimited music streaming has upended the notion of music as a possession, or at least as a collectible. But it wasn’t the case when I bought my first jazz tape, The Inner Mounting Flame. Collecting music records was very much in, and I wanted to buy some tapes to move beyond hard rock and metal, and into jazz.
 
@@ -49,13 +44,9 @@ I must have played that tape a dozen times over in the next couple of days. But 
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
-## Music player
-
-{% include video id="5abe3768b78a710611a642ea" provider="soundsgood" %}
-
-## Program
-
 {% capture program-text %}
+**Program**
+
 1. [The Inner Mounting Flame](https://en.wikipedia.org/wiki/The_Inner_Mounting_Flame), *Mahavishnu Orchestra*, 1971. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [Rick Laird](https://en.wikipedia.org/wiki/Rick_Laird) — bass, [Billy Cobham](https://en.wikipedia.org/wiki/Billy_Cobham) — drums, percussion, [Jan Hammer](https://en.wikipedia.org/wiki/Jan_Hammer) — keyboards, organ, [Jerry Goodman](https://en.wikipedia.org/wiki/Jerry_Goodman) — violin.
 
 2. [Shakti with John McLaughlin](https://en.wikipedia.org/wiki/Shakti_%28Shakti_album%29), *Shakti*, 1976. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [L. Shankar](https://en.wikipedia.org/wiki/L._Shankar) — violin, [Ramnad Raghavan](https://en.wikipedia.org/wiki/Ramnad_Raghavan) — mridangam, [T. H. Vinayakaram](https://en.wikipedia.org/wiki/T._H._Vinayakaram) — ghatam and mridangam, [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_%28musician%29) — tabla.
@@ -69,4 +60,5 @@ I must have played that tape a dozen times over in the next couple of days. But 
   {{ program-text | markdownify }}
 </div>
 
-## Notes
+**Notes**
+{: .small}

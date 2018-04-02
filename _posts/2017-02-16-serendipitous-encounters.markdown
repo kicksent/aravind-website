@@ -3,9 +3,6 @@ title: "Serendipitous Encounters"
 author: Aravind Iyer
 date: 2017-02-16 10:25:00 +0530
 categories: music-naka
-toc: true
-toc_label: Jump to
-toc_icon: angle-double-down
 header:
    teaser: "/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223-640.jpg"
 excerpt: "By sheer chance, I discovered the guitarist, Uli Jon Roth. To me, he was a potent musical force who could play the best guitar solos ever! But no one had heard of Roth and the Internet wasn't yet a thing. So it all lent an incredible air of mystery to this amazing guitarist. Then I found that the mysterious guitarist who I discovered by chance, whose name never rang a bell musical conversations, had just gone and reprised the music he played nearly four decades ago. It is a kind of closure — a completion of the orbit."
@@ -13,12 +10,11 @@ description: "By sheer chance, I discovered the guitarist, Uli Jon Roth. To me, 
 og_image: "/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223-640.jpg"
 ---
 ## with the genius of Uli Jon Roth
-<figure>
-   <a href="/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223.jpg">
-      <img src="/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223-640.jpg" alt="Uli Jon Roth playing guitar">
-   </a>
-   <figcaption>Picture courtesy of Andreas Lawen (original at <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>)</figcaption>
-</figure>
+
+{% include video id="5abf9ae31ea28401117dd9b0" provider="soundsgood" %}
+
+**ProTip:** Choose your streaming service above, and play along while you read!
+{: .notice--info}
 
 We have a fundamental fascination with chance and yet we are confused by it[^riskperception]. The instinctive and the rational forces in our minds which so often collaborate to help us in our endeavours, suddenly turn against each other when it comes to reckoning chance. We feel that hard work gives us but modest success which we cannot risk throwing away to chance, and yet that only good luck can give us the glory[^lossaversion]. The higher the stakes the stronger is our aversion to leaving things to chance, and the stronger is our desire for good luck. But when the stakes are low and we unencumbered by the weight of expectations, it is then that chance has a way of surprising us and making our lives richer. It was through just such a happenstance that I discovered the genius of [Uli Jon Roth](https://en.wikipedia.org/wiki/Uli_Jon_Roth).
 
@@ -52,13 +48,9 @@ It is a strange feeling for me. The mysterious guitarist who I discovered by cha
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
-## Music player
-
-{% include video id="5abf9ae31ea28401117dd9b0" provider="soundsgood" %}
-
-## Program 
-
 {% capture program-text %}
+**Program**
+ 
 1. [Best of Scorpions](https://en.wikipedia.org/wiki/Best_of_Scorpions), [*Scorpions*](https://en.wikipedia.org/wiki/Scorpions_(band)), 1979. Band members: [Klaus Meine](https://en.wikipedia.org/wiki/Klaus_Meine) (vocals), [Rudolf Schenker](https://en.wikipedia.org/wiki/Rudolf_Schenker) (rhythm guitar), [Uli Jon Roth](https://en.wikipedia.org/wiki/Uli_Jon_Roth) (lead guitar), [Francis Buchholz](https://en.wikipedia.org/wiki/Francis_Buchholz) (bass guitar), [Herman Rarebell](https://en.wikipedia.org/wiki/Herman_Rarebell) (drums), [Rudy Lenners](https://en.wikipedia.org/wiki/Rudy_Lenners) (drums) and [Jürgen Rosenthal](https://en.wikipedia.org/wiki/J%C3%BCrgen_Rosenthal) (drums).
 2. [Best of Scorpions, Vol. 2](https://en.wikipedia.org/wiki/Best_of_Scorpions_Vol._2), [*Scorpions*](https://en.wikipedia.org/wiki/Scorpions_(band)), 1984. Band members: [Klaus Meine](https://en.wikipedia.org/wiki/Klaus_Meine) (vocals), [Rudolf Schenker](https://en.wikipedia.org/wiki/Rudolf_Schenker) (rhythm guitar), [Uli Jon Roth](https://en.wikipedia.org/wiki/Uli_Jon_Roth) (lead guitar), [Francis Buchholz](https://en.wikipedia.org/wiki/Francis_Buchholz) (bass guitar), [Herman Rarebell](https://en.wikipedia.org/wiki/Herman_Rarebell) (drums), [Rudy Lenners](https://en.wikipedia.org/wiki/Rudy_Lenners) (drums) and [Jürgen Rosenthal](https://en.wikipedia.org/wiki/J%C3%BCrgen_Rosenthal) (drums).
 3. [Beyond the Astral Skies](https://en.wikipedia.org/wiki/Beyond_the_Astral_Skies), [*Uli Jon Roth*](https://en.wikipedia.org/wiki/Uli_Jon_Roth), 1985. Band members: Michael Flexig (vocals), Uli Jon Roth (vocals, guitars, keyboards, bass), Ule Ritgen (bass guitar), Clive Bunker (drums, timpani), Elizabeth Mackenzie (soprano, alto vocals), Robert Curtis (violin, viola), Nicky Moore, Jenni Evans, Dorothy Patterson, Zeno Roth and Rainer Przywara (backing vocals).
@@ -70,4 +62,5 @@ It is a strange feeling for me. The mysterious guitarist who I discovered by cha
   {{ program-text | markdownify }}
 </div>
 
-## Notes
+**Notes**
+{: .small}

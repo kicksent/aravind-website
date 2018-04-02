@@ -3,9 +3,6 @@ title: "Effortless Genius"
 author: Aravind Iyer
 date: 2016-09-16 10:30:00 +0530
 categories: music-naka
-toc: true
-toc_label: Jump to
-toc_icon: angle-double-down
 header:
    teaser: "/assets/images/wes-montgomery-640.jpg"
 excerpt: "A guitar player I knew described Wes Montgomery as “effortless genius”. He had a signature thumb picked guitar sound, mellow and rounded at the same time as being crisp and well-defined. His albums had an ease in the way the music was laid down, like it was just another day in the office. Montgomery's humble acceptance of his cultivated skill and his genuine desire to make his music accessible to everyone, is what disarms us and makes his genius seem effortless."
@@ -14,12 +11,10 @@ og_image: "/assets/images/wes-montgomery-640.jpg"
 ---
 ## The unique appeal of Wes Montgomery
 
-<figure>
-   <a href="/assets/images/wes-montgomery.jpg">
-      <img src="/assets/images/wes-montgomery-640.jpg" alt="Wes Montgomery playing guitar">
-   </a>
-   <figcaption>A Portrait of Wes Montgomery (Illustration courtesy of Aravind Iyer)</figcaption>
-</figure>
+{% include video id="5abf621a1ea28401117d9c5f" provider="soundsgood" %}
+
+**ProTip:** Choose your streaming service above, and play along while you read!
+{: .notice--info}
 
 There is something about the effortlessness of a natural performer that makes us watch in awe. It could a gifted athlete[^athlete] playing your favourite sport, a genius actor playing a challenging role or an accomplished musician delivering an inspired performance. But we know it immediately when we are watching a special performance — one that transcends skill and preparation and yet looks ridiculously easy[^effortless] and almost inevitable. That is the reason that even among the best sportspersons or artists, the ones that make it look easy are the ones that stand out. So when a guitar player I knew described Wes Montgomery as “effortless genius”, I thought I knew what he was getting at. Needless to say, I wanted to get a Montgomery record or two, as soon as possible.
 
@@ -59,13 +54,9 @@ Effortless genius — the notion is a bit fanciful, isn’t it? Maybe our fa
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
-## Music player
-
-{% include video id="5abf621a1ea28401117d9c5f" provider="soundsgood" %}
-
-## Program 
-
 {% capture program-text %}
+**Program**
+ 
 1. [The Incredible Jazz Guitar of Wes Montgomery](https://en.wikipedia.org/wiki/The_Incredible_Jazz_Guitar_of_Wes_Montgomery), [*Wes Montgomery*](https://en.wikipedia.org/wiki/Wes_Montgomery), 1960. Band members: [Wes Montgomery](https://en.wikipedia.org/wiki/Wes_Montgomery) (electric guitar), [Tommy Flanagan](https://en.wikipedia.org/wiki/Tommy_Flanagan) (piano), [Percy Heath](https://en.wikipedia.org/wiki/Percy_Heath) (bass) and [Albert Heath](https://en.wikipedia.org/wiki/Albert_Heath) (drums).
 {% endcapture %}
 
@@ -73,4 +64,5 @@ Effortless genius — the notion is a bit fanciful, isn’t it? Maybe our fa
   {{ program-text | markdownify }}
 </div>
 
-## Notes
+**Notes**
+{: .small}

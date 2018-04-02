@@ -10,19 +10,18 @@ description: "A friend sent me the Jazztronica playlist from Spotify. Jaga Jazzi
 og_image: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080-640.jpg"
 ---
 ## Electronic Jazz from Jaga Jazzist
-<figure>
-   <a href="/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080.jpg">
-      <img src="/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080-640.jpg" alt="Jaga Jazzist band members">
-   </a>
-   <figcaption>Jaga Jazzist (picture courtesy of <a href="https://wallpaperscraft.com/download/jaga_jazzist_band_faces_line_wall_12987/1920x1080">Wallpaperscraft</a>)</figcaption>
-</figure>
+
+{% include video id="5ac2297552f53d4e6ab55a94" provider="soundsgood" %}
+
+**ProTip:** Choose your streaming service above, and play along while you read!
+{: .notice--info}
 
 Does [art imitate life](https://www.psychologytoday.com/blog/the-psychology-fiction/201104/does-art-imitate-life),
 or does [life imitate art](https://en.wikipedia.org/wiki/Life_imitating_art)? It is a question that has been
 debated intensely. Perhaps, art needs the constituents of life to be authentic, but life too needs the
 idealisation of art to aspire to. It is not much different with music. Music is made from sound, but it is also
 repurposed back as sound, serving all manner of non musical purposes, like tones for public announcements, chimes
-and beeps for alarms and notifications, and even [musical rumble strips](https://en.wikipedia.org/wiki/Musical_road)
+and beeps for alarms and notifications, and even [musical rumble strips](https://en.wikipedia.org/wiki/Musical_road)[^musicrumblestrips]
 which keep vehicle drivers alert. Of course, not all sound is music. A single note may be just sound, but the
 qualities of that sound are very important, shaping the music that emerges out of those sounds. Like most
 musicians, I am sure [Jaga Jazzist](https://en.wikipedia.org/wiki/Jaga_Jazzist) cares deeply about the sound of
@@ -30,6 +29,8 @@ their music. And while “multi-layered” may be a term more apt for describing
 [story](https://en.wikipedia.org/wiki/Story_within_a_story) or a movie, the
 [music](https://ninjatune.net/artist/jaga-jazzist) of Jaga Jazzist evokes precisely that kind of impression
 — of hearing the multi-layered sound of music.
+
+[^musicrumblestrips]: The idea of a musical road is sheer genius! Using an ordinary rumble strip to rouse the inattentive or sleepy driver, is one thing. But it is a much more sophisticated and artistic nudge to the driver, to carefully engineer grooves in the road so as to produce a recognisable musical tune through the vibration and sounds induced in a crossing car!
 
 The first song of Jaga Jazzist (pronounced “Yaa-gaa Yaa-zist”) that I heard was “Lithuania” from their
 album “[A Livingroom Hush](https://en.wikipedia.org/wiki/A_Livingroom_Hush)”. It was the first song in
@@ -39,13 +40,15 @@ percussion workshop. As you probably know or guessed, electronic music is made u
 than acoustic instruments. But more importantly, it aims to sound distinct from regular musicians playing
 music, by incorporating repetitive loops, sound effects and programming. So we chatted a bit about
 electronic music, on which he has expressed some
-[very interesting views](https://medium.com/@prateeks/soundscapes-and-why-edm-is-the-music-for-today-738a669ac83b).
+[very interesting views](https://medium.com/@prateeks/soundscapes-and-why-edm-is-the-music-for-today-738a669ac83b)[^prateekedm].
 Some time later, he sent me what was the snapshot of the Jazztronica playlist on Spotify at the time.
 Jaga Jazzist opened with Lithuania and I was hooked. Thanks to the permanence of digital media, I can
 even quote my immediate reactions as I heard it for the first few times — “Smooth, engaging, loopy,
 hypnotic even!” I had texted back enthusiastically.
 
-Being an album kind of guy, I promptly had
+[^prateekedm]: [Prateek Sharma](https://medium.com/@prateeks) writes at [Medium](https://medium.com) why EDM is the [music for today](https://medium.com/@prateeks/soundscapes-and-why-edm-is-the-music-for-today-738a669ac83b). Sharma argues that digital or electronic sounds and tones have become such a ubiquitous part of our lives that music built using those kinds of sounds is bound to feel natural and contemporary.
+
+Being an album kind of guy[^albumguy], I promptly had
 [A Livingroom Hush](https://www.allmusic.com/album/a-livingroom-hush-mw0000660007) on rotation.
 Lithuania starts with a catchy loop of electronic tones and real instruments, and soon proceeds to
 add layer upon layer of new loops, but somehow managing to make the end result sound like a *bona fide*
@@ -59,6 +62,8 @@ sound as a contemporary backdrop against which he plays his usual, soulful rock 
 go much further with A Livingroom Hush. Here is a nine piece band which mixes live music play with
 synthesised loops in jazzy scales, but is always resolutely committed to a big picture sound where
 the part should not overwhelm the whole.
+
+[^albumguy]: It maybe almost a *retro* thing, but I am an album kind of guy. I believe in the concept of an album as a valid unit of musical work. Not to be overly philosophical, but music reflects the state of being of the artists. So songs produced in the same confines of space and time share the artists' state of being, as of that time, making the *album* a cohesive unit of musical work. 
 
 Jaga Jazzist hail from [Norway](http://www.listento.no/), and they first achieved
 [critical acclaim](http://www.listento.no/mic.nsf/doc/art2003010611203678263218) when BBC listeners
@@ -117,13 +122,38 @@ Despite having heard the band for only about a year, I have really enjoyed Jaga 
 does art imitate life? Someone pointed out to me how the phone icon on a smartphone imitates an old
 life — a landline telephone receiver — while the icon of Uber is not just a stylised “U” but imitates
 a new life, symbolising their network and the
-“[manipulation of bits and atoms](https://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/)”.
+“[manipulation of bits and atoms](https://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/)”[^ubericon].
 Like digital imagery, digital sounds too are no longer abstractions of analog sounds, but synthetic
 tones we accept as *bona fide* originals. Now, of course, icons and tones are less art and more
 utilitarian. But with Jaga Jazzist, behind the sheen of electronica, past the multi-layered sound of
 their music, there is art imitating the sounds of today’s life and creating a fascinating world of music.
-Go, give it a listen!
+Go, give it a [listen](#electronic-jazz-from-jaga-jazzist)!
 
-{% include video id="36aZyBDeE3E" provider="youtube" %}
+[^ubericon]: [Jessi Hempel](https://www.wired.com/author/jessi-hempel/) at [Wired](https://www.wired.com/) writes about the ["inside story"](https://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/) behind Uber's new iconography as of 2016. The so-called mood boards for the Uber icon in different countries represent a fascinating fusion of a general design language with a signature shape associated with each specific country. Tiling that shape creates a pattern which in a subtle way cues the identity of that country.
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+
+{% capture program-text %}
+**Program**
+
+1. [A Living Room Hush](https://en.wikipedia.org/wiki/A_Livingroom_Hush), [*Jaga Jazzist*](https://en.wikipedia.org/wiki/Jaga_Jazzist), 2001.
+  Band members:
+  * Mathias Eick - trumpet, keyboards, double bass
+  * Lars Horntveth - tenor & barytone saxophone, flute, bass-clarinet, acoustic, highstring guitar, keyboards
+  * Lars Wabø - trombone, Line Horntveth - tuba
+  * Andreas Mjøs - vibraphone, marimba, percussions, drums, keyboards
+  * Jørgen Munkeby - flute, tenor saxophone, bass-clarinet, keyboards
+  * Harald Frøland - guitar, effects, synthesizer
+  * Morten Qvenild - keyboards
+  * Ivar Chr. Johansen - keyboards
+  * Even Ormestad - bass, keyboards
+  * Martin Horntveth - drums, drum programming (drum-machines), percussion, keyboards
+  * Jørgen Træen - electronics, keyboards, percussion, synthesizer (Ms-20 Ghost).
+{% endcapture %}
+
+<div class="notice--info">
+  {{ program-text | markdownify }}
+</div>
+
+**Notes**
+{: .small}

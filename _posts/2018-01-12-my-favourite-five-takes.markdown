@@ -3,21 +3,16 @@ title: "My Favourite Five Takes on Take Five"
 author: Aravind Iyer
 date: 2018-01-12 15:00:00 +0530
 categories: music-naka
-toc: true
-toc_label: Jump to
-toc_icon: angle-double-down
 header:
    teaser: "/assets/images/20180110_143300-640.jpg"
 excerpt: "Take Five, a song from Timeout by Dave Brubeck's quartet, is technically set in a five beat cycle, but it is so delightful and accessible! No wonder it became the first jazz single to sell over a million copies. I have run into several fascinating covers of Take Five. The original melody endures all transformations and interpretations, and yet the covers stand as bona fide works of music too. So here are my favourite five takes on Take Five."
 description: "Take Five, a song from Timeout by Dave Brubeck's quartet, is technically set in a five beat cycle, but it is so delightful and accessible! No wonder it became the first jazz single to sell over a million copies. I have run into several fascinating covers of Take Five. The original melody endures all transformations and interpretations, and yet the covers stand as bona fide works of music too. So here are my favourite five takes on Take Five."
 og_image: "/assets/images/20180110_143300-640.jpg"
 ---
-<figure>
-   <a href="/assets/images/20180110_143300.jpg">
-      <img src="/assets/images/20180110_143300-640.jpg" alt="Music Player showing Take Five playing">
-   </a>
-   <figcaption> Listening to Take Five for the umpteenth time!</figcaption>
-</figure>
+{% include video id="5ac2120452f53d4e6ab4e91e" provider="soundsgood" %}
+
+**ProTip:** Choose your streaming service above, and play along while you read!
+{: .notice--info}
 
 Remarkable as it may seem, it was from
 [Trilok Gurtu](https://en.wikipedia.org/wiki/Trilok_Gurtu), the legendary fusion musician and percussionist, that I first heard about the song
@@ -66,13 +61,9 @@ So which one do you like the most? The original or one of the other takes —�
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
-## Music player
-
-{% include video id="5ac2120452f53d4e6ab4e91e" provider="soundsgood" %}
-
-## Program
-
 {% capture program-text %}
+**Program**
+
 1. Take Five, [Time Out](https://en.wikipedia.org/wiki/Time_Out_(album)), [*The Dave Brubeck Quartet*](https://en.wikipedia.org/wiki/Dave_Brubeck#Dave_Brubeck_Quartet), 1959. Band members: [Dave Brubeck](https://en.wikipedia.org/wiki/Dave_Brubeck) – piano, [Paul Desmond](https://en.wikipedia.org/wiki/Paul_Desmond) – alto saxophone, [Eugene Wright](https://en.wikipedia.org/wiki/Eugene_Wright) – bass and [Joe Morello](https://en.wikipedia.org/wiki/Joe_Morello) – drums.
 2. Take Five, [Carmen McRae Sings Lover Man and Other Billie Holiday Classics](https://en.wikipedia.org/wiki/Carmen_McRae_Sings_Lover_Man_and_Other_Billie_Holiday_Classics), *Carmen McRae and the Dave Brubeck Quartet*, 1961. Band members: [Carmen McRae](https://en.wikipedia.org/wiki/Carmen_McRae) - vocals, [Dave Brubeck](https://en.wikipedia.org/wiki/Dave_Brubeck) – piano, [Paul Desmond](https://en.wikipedia.org/wiki/Paul_Desmond) – alto saxophone, [Eugene Wright](https://en.wikipedia.org/wiki/Eugene_Wright) – bass and [Joe Morello](https://en.wikipedia.org/wiki/Joe_Morello) – drums.
 3. Take Five, [Bad Benson](https://en.wikipedia.org/wiki/Bad_Benson), [*George Benson*](https://en.wikipedia.org/wiki/George_Benson), 1974. Band members: [George Benson](https://en.wikipedia.org/wiki/George_Benson) - guitar, [Phil Upchurch](https://en.wikipedia.org/wiki/Phil_Upchurch) - guitar, [Kenny Barron](https://en.wikipedia.org/wiki/Kenny_Barron) - piano, [Ron Carter](https://en.wikipedia.org/wiki/Ron_Carter) - bass and [Steve Gadd](https://en.wikipedia.org/wiki/Steve_Gadd) - drums.

@@ -3,9 +3,6 @@ title: "Short but Bittersweet"
 author: Aravind Iyer
 date: 2017-10-29 09:15:00 +0530
 categories: music-naka
-toc: true
-toc_label: Jump to
-toc_icon: angle-double-down
 header:
    teaser: "/assets/images/remler-640.jpg"
 excerpt: "I heard Emily Remler on air, gushing with admiration for Wes Montgomery. Remler carried Montgomery’s torch forward, while also giving it her own identity. But just when she had overcome the hurdles of gender bias, technique and the long shadows of her heroes, and begun to form her own voice, she died and it all ended so abruptly. Maybe she did not produce the output that was so obviously within her musical reach. Yet I think she got more out of her life than most, by absorbing her life experiences, learning from them and just harnessing them into her music. That was the musical life of Emily Remler — short and bittersweet, but very much well lived!"
@@ -13,12 +10,11 @@ description: "I heard Emily Remler on air, gushing with admiration for Wes Montg
 og_image: "/assets/images/remler-640.jpg"
 ---
 ## The musical life of Emily Remler
-<figure>
-   <a href="/assets/images/remler.jpg">
-      <img src="/assets/images/remler-640.jpg" alt="Emily Remler playing guitar">
-   </a>
-   <figcaption>Image courtesy of Brian McMillen (from <a href="https://commons.wikimedia.org/w/index.php?curid=11091773">WikiMedia</a>)</figcaption>
-</figure>
+
+{% include video id="5ac0d2ca1ea28401117e9965" provider="soundsgood" %}
+
+**ProTip:** Choose your streaming service above, and play along while you read!
+{: .notice--info}
 
 Who can deny it? From time to time, we all worry whether ours is a life well lived[^lifewelllived]. Almost as proof that this is not an uncommon worry, there is no dearth of advice on how we can make our lives better and more fulfilling. For some, it is by making a bucket list[^bucketlist] and then proceeding to check every item off it. For others, it is to try and [do in 6 months](https://www.cnbc.com/2017/02/10/heres-what-billionaire-peter-thiel-wishes-hed-known-in-his-20s.html) what you may have imagined would take you 10 years to do. For the sage among us, it is by striving for the best, accepting the worst and not worrying about things beyond your control. No doubt, these are all worthy methods to pursue, but it is never as simple as being comfortably settled in deliberate pursuit of your chosen method. Pardon the philosophising, but I often wonder what it would have been like for jazz guitarist, Emily Remler, who made a definite impression on the jazz world despite her very short musical career.
 
@@ -46,13 +42,9 @@ In the short span of less than 10 years, Remler took Montgomery’s torch and ca
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
-## Music player
-
-{% include video id="5ac0d2ca1ea28401117e9965" provider="soundsgood" %}
-
-## Program 
-
 {% capture program-text %}
+**Program**
+
 1. [East to Wes](https://www.allmusic.com/album/east-to-wes-mw0000201311), [*Emily Remler*](https://www.allmusic.com/artist/emily-remler-mn0000800814), 1988. Band members: [Emily Remler] (guitar), [Hank Jones](https://www.allmusic.com/artist/hank-jones-mn0000558339) (piano), [Buster Williams](https://www.allmusic.com/artist/buster-williams-mn0000943189) (bass) and [Marvin "Smitty" Smith](https://www.allmusic.com/artist/marvin-smitty-smith-mn0000316612) (drums).
 2. [Talking Jazz, Vol. 21](http://bensidran.com/project/talking-jazz-project), [*Ben Sidran*](http://bensidran.com/), 1986. Interview of [Larry Coryell](https://en.wikipedia.org/wiki/Larry_Coryell) and Emily Remler by Ben Sidran.
 {% endcapture %}
@@ -61,4 +53,5 @@ In the short span of less than 10 years, Remler took Montgomery’s torch and ca
   {{ program-text | markdownify }}
 </div>
 
-## Notes
+**Notes**
+{: .small}

@@ -3,9 +3,6 @@ title: "Approachable Snobbery"
 author: Aravind Iyer
 date: 2016-09-03 08:30:00 +0530
 categories: music-naka
-toc: true
-toc_label: Jump to
-toc_icon: angle-double-down
 header:
    teaser: "/assets/images/aja-album-abstract-640.jpg"
 description: "It was clear as soon as it started playing, why Aja was the kind of album that would appeal to the music connoisseur and the audiophile alike. Steely Dan or Becker and Fagen, with a wide cast of session musicians, have melded witty lyrics, jazzy structures and obsessive studio production into a kind of minimalistic experience in albums like Can’t Buy a Thrill, The Royal Scam and many others. They are known to be quite fastidious, perhaps even snobbish. But there is snobbery that alienates by pursuing discrimination, and there is snobbery that inspires by kindling an aspiration to being better."
@@ -14,12 +11,10 @@ og_image: "/assets/images/aja-album-abstract-640.jpg"
 ---
 ## The Magic of Steely Dan 
 
-<figure>
-   <a href="/assets/images/aja-album-abstract.jpg">
-      <img src="/assets/images/aja-album-abstract-640.jpg" alt="Stack of CDs with Aja on top">
-   </a>
-   <figcaption>Recreating the stack of CDs on my desk with Aja on top (artwork courtesy of Aravind Iyer)</figcaption>
-</figure>
+{% include video id="5abf5be41ea28401117d942b" provider="soundsgood" %}
+
+**ProTip:** Choose your streaming service above, and play along while you read!
+{: .notice--info}
 
 It may seem unusual, but everybody is some kind of a snob[^snobbery]. Snobbery after all, is the opposite of being indiscriminate, and rare is the individual who is completely happy-go-lucky at everything. Certainly, music connoisseurs and audiophiles are both very discriminating about their respective pursuits. It was from a friend of mine who was a bit of both that I first heard about Aja by Steely Dan. I cannot recall exactly when but it might have been around February 2000. With my curiosity piqued by his praise of Aja, I sought the earliest opportunity to borrow the tape from him, so that I could listen to it.
 
@@ -51,13 +46,9 @@ Steely Dan has produced several great albums by following their unique musical a
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
-## Music player
-
-{% include video id="5abf5be41ea28401117d942b" provider="soundsgood" %}
-
-## Program 
-
 {% capture program-text %}
+**Program**
+ 
 1. [Aja](https://en.wikipedia.org/wiki/Aja_(album)), [*Steely Dan*](https://en.wikipedia.org/wiki/Steely_Dan), 1977. Band members: [Donald Fagen](https://en.wikipedia.org/wiki/Donald_Fagen) (vocals and synthesizer) and [Walter Becker](https://en.wikipedia.org/wiki/Walter_Becker) (guitar and bass). For a list of additional musicians, check [here](https://en.wikipedia.org/wiki/Aja_%28album%29#Additional_musicians).
 {% endcapture %}
 
@@ -65,4 +56,5 @@ Steely Dan has produced several great albums by following their unique musical a
   {{ program-text | markdownify }}
 </div>
 
-## Notes
+**Notes**
+{: .small}

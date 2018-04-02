@@ -3,21 +3,16 @@ title: "Mercurial yet Everlasting"
 author: Aravind Iyer
 date: 2017-11-07 11:10:00 +0530
 categories: music-naka
-toc: true
-toc_label: Jump to
-toc_icon: angle-double-down
 header:
    teaser: "/assets/images/Freddy_Mercury_Statue_Montreux-640.jpg"
 excerpt: "I first heard Queen on FM radio, in India. It is the song “The Show must go on” which really is Mercury’s swan song. Mercury was quite unwell during the making of the album and ended up dying within 10 months of its release. Listening to Mercury sing resolutely, “Ooh, inside my heart is breaking, my make-up may be flaking, but my smile still stays on” followed by May’s searing guitar, it is hard to imagine a braver, more stoic good bye in the face of the inevitable! Nothing is permanent except change. Music is now so easy to get. I am not a teenager anymore. Drugs are no longer cool, and smartphones are the new drugs. Being gay is a bit more OK than it used to be in the 90s. But the magic of Freddie Mercury’s voice lives on."
 description: "I first heard Queen on FM radio, in India. It is the song “The Show must go on” which really is Mercury’s swan song. Mercury was quite unwell during the making of the album and ended up dying within 10 months of its release. Listening to Mercury sing resolutely, “Ooh, inside my heart is breaking, my make-up may be flaking, but my smile still stays on” followed by May’s searing guitar, it is hard to imagine a braver, more stoic good bye in the face of the inevitable! Nothing is permanent except change. Music is now so easy to get. I am not a teenager anymore. Drugs are no longer cool, and smartphones are the new drugs. Being gay is a bit more OK than it used to be in the 90s. But the magic of Freddie Mercury’s voice lives on."
 og_image: "/assets/images/Freddy_Mercury_Statue_Montreux-640.jpg"
 ---
-<figure>
-   <a href="/assets/images/Freddy_Mercury_Statue_Montreux.jpg">
-      <img src="/assets/images/Freddy_Mercury_Statue_Montreux-640.jpg" alt="Statue of Freddie Mercury at Montreaux">
-   </a>
-   <figcaption>Statue of Freddie Mercury at Montreaux (picture courtesy of <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>)</figcaption>
-</figure>
+{% include video id="5ac1f04852f53d4e6ab4ae39" provider="soundsgood" %}
+
+**ProTip:** Choose your streaming service above, and play along while you read!
+{: .notice--info}
 
 It is often said that [nothing is permanent except change](https://www.ancient.eu/article/183/heraclitus-life-is-flux/). Pragmatic and profound at the same time, this quote attributed to the Greek philosopher of the late 6th century BCE, [Heraclitus](https://plato.stanford.edu/entries/heraclitus/)[^heraclitus], has inspired countless people to accept and confront their realities. Now if there is one thing that embodies constant change, it is the element Mercury. Commonly known as quicksilver, it is a metal that is liquid at ordinary temperatures. Mercury gleams silvery and flows rapidly, lending itself well to its common name. The word quicksilver is often used to describe things that can move often and quickly. It is perhaps fitting then that the agile-voiced Farrokh Bulsara, adopted the stage name [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) and formed the band [Queen](https://en.wikipedia.org/wiki/Queen_%28band%29) with [Brian May](https://en.wikipedia.org/wiki/Brian_May), [Roger Taylor](https://en.wikipedia.org/wiki/Roger_Taylor_%28Queen_drummer%29) and [John Deacon](https://en.wikipedia.org/wiki/John_Deacon).
 
@@ -43,13 +38,9 @@ Nothing is permanent except change. Music is now so easy to get. I am not a teen
 
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
-## Music player
-
-{% include video id="5ac1f04852f53d4e6ab4ae39" provider="soundsgood" %}
-
-## Program
-
 {% capture program-text %}
+**Program**
+
 1. [Innuendo](https://en.wikipedia.org/wiki/Innuendo_(album)), [*Queen*](https://en.wikipedia.org/wiki/Queen_(band)), 1991. Band members: [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) — vocals, [Brian May](https://en.wikipedia.org/wiki/Brian_May) — guitar, [Roger Taylor](https://en.wikipedia.org/wiki/Roger_Taylor_(Queen_drummer)) — drums, and [John Deacon](https://en.wikipedia.org/wiki/John_Deacon) — bass.
 2. [Greatest Hits](https://en.wikipedia.org/wiki/Greatest_Hits_(Queen_album)), *Queen*, 1981. Band members: Freddie Mercury - vocals, Brian May - guitar, Roger Taylor - drums, and John Deacon - bass.
 3. [Greatest Hits II](https://en.wikipedia.org/wiki/Greatest_Hits_II_(Queen_album)), *Queen*, 1991. Band members: Freddie Mercury - vocals, Brian May - guitar, Roger Taylor - drums, and John Deacon - bass. 
@@ -59,4 +50,5 @@ Nothing is permanent except change. Music is now so easy to get. I am not a teen
   {{ program-text | markdownify }}
 </div>
 
-## Notes
+**Notes**
+{: .small}
