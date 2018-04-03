@@ -2,7 +2,7 @@
 title: Human Machine Entanglement
 author: Aravind Iyer
 date: 2018-03-30 13:57:00 +0530
-categories: drafts #personal
+categories: #personal
 header:
   teaser: "/assets/images/hme-cover-640.jpg"
 excerpt:
@@ -24,7 +24,7 @@ The image just came into my head the other day — I was looking down at a c
   <figcaption>The digital alter ego, all grown up and trying to get out. (Artwork courtesy of Aravind Iyer)</figcaption>
 </figure>
 
-But this just didn’t feel like the complete picture, or even a (sigh!) inspired vision. Yes, almost everything we do seems intended to enrich the digital world. Our photos, our messages, our updates, the news, our work documents, our data, our code, our reports, our slides — they make up our digital life and serve to feed the digital world. Our digital persona has all grown up, and we are fatigued from its upkeep, to say nothing of the love or lack of love it receives. We want out. Some times.
+But this just didn’t feel like the complete picture, or (sigh!) even an inspired vision. Yes, almost everything we do seems intended to enrich the digital world. Our photos, our messages, our updates, the news, our work documents, our data, our code, our reports, our slides — they make up our digital life and serve to feed the digital world. Our digital persona has all grown up, and we are fatigued from its upkeep, to say nothing of the love or lack of love it receives. We want out. Some times.
 
 But it is also our own doing. It is hard to think of any activities we do which do not result in a digital output. Oh, you cooked? But then you posted it somewhere, didn’t you? Ok, you spent quality time with your daughter? Ah, but what about the not-so-quality time spent trying to create the pose you shared later? Yes, it is our doing, and the more we invest in it, the harder it is to get out. One hand continues to draw us in, even as the other tries to push out.
 
