@@ -10,8 +10,9 @@ description: "Take Five, a song from Timeout by Dave Brubeck's quartet, is techn
 og_image: "/assets/images/20180110_143300-640.jpg"
 ---
 {% include video id="5ac2120452f53d4e6ab4e91e" provider="soundsgood" %}
+<figcaption> Listening to Take Five for the umpteenth time!</figcaption>
 
-**ProTip:** Choose your streaming service above, and play along while you read!
+**ProTip:** Click the play button <i class="fas fa-play-circle" color="#52adc8" aria-hidden="true"></i> above, choose your streaming service, and listen while you read!
 {: .notice--info}
 
 Remarkable as it may seem, it was from

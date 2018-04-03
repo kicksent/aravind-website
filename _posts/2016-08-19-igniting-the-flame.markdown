@@ -12,8 +12,9 @@ og_image: "/assets/images/Liner-notes-table-640.jpg"
 ## How I discovered the Mahavishnu Orchestra
 
 {% include video id="5abe3768b78a710611a642ea" provider="soundsgood" %}
+<figcaption>Listening to Mahavishnu Orchestra for the first time, while reading the liner notes! (artwork courtesy of Aravind Iyer)</figcaption>
 
-**ProTip:** Choose your streaming service above, and play along while you read!
+**ProTip:** Click the play button <i class="fas fa-play-circle" color="#52adc8" aria-hidden="true"></i> above, choose your streaming service, and listen while you read!
 {: .notice--info}
 
 It is generally agreed that experiences are more valuable to people than possessions[^experiences]. From that perspective, a musical performance is something unique and wonderful. Attending one can be an experience to remember, and yet it can be bottled into a record which a music lover can possess and use to re-live the experience. Of course, today’s world of unlimited music streaming has upended the notion of music as a possession, or at least as a collectible. But it wasn’t the case when I bought my first jazz tape, The Inner Mounting Flame. Collecting music records was very much in, and I wanted to buy some tapes to move beyond hard rock and metal, and into jazz.

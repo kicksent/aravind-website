@@ -12,8 +12,9 @@ og_image: "/assets/images/jaga_jazzist_band_faces_line_wall_12987_1920x1080-640.
 ## Electronic Jazz from Jaga Jazzist
 
 {% include video id="5ac2297552f53d4e6ab55a94" provider="soundsgood" %}
+<figcaption>Jaga Jazzist (picture courtesy of <a href="https://wallpaperscraft.com/download/jaga_jazzist_band_faces_line_wall_12987/1920x1080">Wallpaperscraft</a>)</figcaption>
 
-**ProTip:** Choose your streaming service above, and play along while you read!
+**ProTip:** Click the play button <i class="fas fa-play-circle" color="#52adc8" aria-hidden="true"></i> above, choose your streaming service, and listen while you read!
 {: .notice--info}
 
 Does [art imitate life](https://www.psychologytoday.com/blog/the-psychology-fiction/201104/does-art-imitate-life),

@@ -12,8 +12,9 @@ og_image: "/assets/images/wes-montgomery-640.jpg"
 ## The unique appeal of Wes Montgomery
 
 {% include video id="5abf621a1ea28401117d9c5f" provider="soundsgood" %}
+<figcaption>A Portrait of Wes Montgomery (Illustration courtesy of Aravind Iyer)</figcaption>
 
-**ProTip:** Choose your streaming service above, and play along while you read!
+**ProTip:** Click the play button <i class="fas fa-play-circle" color="#52adc8" aria-hidden="true"></i> above, choose your streaming service, and listen while you read!
 {: .notice--info}
 
 There is something about the effortlessness of a natural performer that makes us watch in awe. It could a gifted athlete[^athlete] playing your favourite sport, a genius actor playing a challenging role or an accomplished musician delivering an inspired performance. But we know it immediately when we are watching a special performance — one that transcends skill and preparation and yet looks ridiculously easy[^effortless] and almost inevitable. That is the reason that even among the best sportspersons or artists, the ones that make it look easy are the ones that stand out. So when a guitar player I knew described Wes Montgomery as “effortless genius”, I thought I knew what he was getting at. Needless to say, I wanted to get a Montgomery record or two, as soon as possible.

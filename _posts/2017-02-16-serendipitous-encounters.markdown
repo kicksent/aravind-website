@@ -12,8 +12,9 @@ og_image: "/assets/images/Uli_Jon_Roth_-_Wacken_Open_Air_2015-0223-640.jpg"
 ## with the genius of Uli Jon Roth
 
 {% include video id="5abf9ae31ea28401117dd9b0" provider="soundsgood" %}
+<figcaption>Picture courtesy of Andreas Lawen (original at <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>)</figcaption>
 
-**ProTip:** Choose your streaming service above, and play along while you read!
+**ProTip:** Click the play button <i class="fas fa-play-circle" color="#52adc8" aria-hidden="true"></i> above, choose your streaming service, and listen while you read!
 {: .notice--info}
 
 We have a fundamental fascination with chance and yet we are confused by it[^riskperception]. The instinctive and the rational forces in our minds which so often collaborate to help us in our endeavours, suddenly turn against each other when it comes to reckoning chance. We feel that hard work gives us but modest success which we cannot risk throwing away to chance, and yet that only good luck can give us the glory[^lossaversion]. The higher the stakes the stronger is our aversion to leaving things to chance, and the stronger is our desire for good luck. But when the stakes are low and we unencumbered by the weight of expectations, it is then that chance has a way of surprising us and making our lives richer. It was through just such a happenstance that I discovered the genius of [Uli Jon Roth](https://en.wikipedia.org/wiki/Uli_Jon_Roth).

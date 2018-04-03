@@ -10,8 +10,9 @@ description: "I first heard Queen on FM radio, in India. It is the song “The S
 og_image: "/assets/images/Freddy_Mercury_Statue_Montreux-640.jpg"
 ---
 {% include video id="5ac1f04852f53d4e6ab4ae39" provider="soundsgood" %}
+<figcaption>Statue of Freddie Mercury at Montreaux (picture courtesy of <a href="https://commons.wikimedia.org/wiki/Main_Page">WikiMedia Commons</a>)</figcaption>
 
-**ProTip:** Choose your streaming service above, and play along while you read!
+**ProTip:** Click the play button <i class="fas fa-play-circle" color="#52adc8" aria-hidden="true"></i> above, choose your streaming service, and listen while you read!
 {: .notice--info}
 
 It is often said that [nothing is permanent except change](https://www.ancient.eu/article/183/heraclitus-life-is-flux/). Pragmatic and profound at the same time, this quote attributed to the Greek philosopher of the late 6th century BCE, [Heraclitus](https://plato.stanford.edu/entries/heraclitus/)[^heraclitus], has inspired countless people to accept and confront their realities. Now if there is one thing that embodies constant change, it is the element Mercury. Commonly known as quicksilver, it is a metal that is liquid at ordinary temperatures. Mercury gleams silvery and flows rapidly, lending itself well to its common name. The word quicksilver is often used to describe things that can move often and quickly. It is perhaps fitting then that the agile-voiced Farrokh Bulsara, adopted the stage name [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) and formed the band [Queen](https://en.wikipedia.org/wiki/Queen_%28band%29) with [Brian May](https://en.wikipedia.org/wiki/Brian_May), [Roger Taylor](https://en.wikipedia.org/wiki/Roger_Taylor_%28Queen_drummer%29) and [John Deacon](https://en.wikipedia.org/wiki/John_Deacon).
