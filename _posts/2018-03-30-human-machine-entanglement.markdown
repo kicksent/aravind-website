@@ -2,7 +2,7 @@
 title: Human Machine Entanglement
 author: Aravind Iyer
 date: 2018-03-30 13:57:00 +0530
-categories: #personal
+categories: personal
 header:
   teaser: "/assets/images/hme-cover-640.jpg"
 excerpt:
