@@ -1,16 +1,14 @@
 # /_data/navigation.yml
 
 main:
-  - title: "About"
-    url: /about/
   - title: "Music Naka"
     url: /music-naka/
   - title: "Only Human"
     url: /only-human/
   - title: "Blog"
     url: /blog/
-  - title: "Contact"
-    url: /contact/
+  - title: "About"
+    url: /about/
   - title: "Terms of Use"
     url: /terms/
 #  - title: "Line Art"

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: About Aravind Iyer
 permalink: /about/
+title: About Aravind Iyer
 author: Aravind Iyer
 author_profile: true
 description: "I am Aravind, a tech guy, a scientist and computer engineer by training, writing about music and life. My writings cover reviews and stories about music as well as human emotions and ordinary things that make us human."
@@ -27,5 +27,16 @@ It was quite a thing to make and maintain personal websites and blogs. In fact, 
 Despite all this, I feel I need a place to organise my writing and showcase any other work I might do. I have written at [Medium](https://medium.com/@.aravindiyer) and also on [LinkedIn](https://www.linkedin.com/in/aravindiyer/), and I intend to continue doing so. But I like my own little corner. Have fun reading, and if you find something you like, please [let me know](mailto:feedback@aravindiyer.com)! Cheers!
 
 # Tech
-This site is built using [Jekyll](https://jekyllrb.com/) using the excellent theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) by [Michael Rose](https://mademistakes.com/). The repository for this site is available on [Github](https://github.com/iyeraravind/aravind-website/) and the site is hosted by [Netlify](https://www.netlify.com/). Cross-platform music playlists are embedded using [Soundsgood](https://soundsgood.co). The overall setup may not be to everyone's taste, of course, but it's fun to be able to use a [text editor](https://github.com/macvim-dev/macvim) and a command line to publish posts!
+This site is built using the following tech:
+1. [Jekyll](https://jekyllrb.com/) - for generating the static pages of the site
+2. [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) - the Jekyll theme for styling my site, courtesy of [Michael Rose](https://mademistakes.com/)
+3. [Github](https://github.com/iyeraravind/aravind-website/) - for version control
+4. [Netlify](https://www.netlify.com/) - for web hosting and continuous deployment from this Github repository
+5. [Soundsgood](https://soundsgood.co) - for embedding cross-platform music playlists
+6. [MacVim](https://github.com/macvim-dev/macvim) - for file editing
+
+# Contact
+If you have a question, comment or suggestion, please send me a message or write to me. The best way to reach me is to [email me](mailto:feedback@aravindiyer.com). I know it's old school, but I would really appreciate it if you would write in, if you had something to say.
+
+If you would like to follow me on social media, please use the links from the sidebar on the left or click the follow button [at the top](#) to display the links.
 
