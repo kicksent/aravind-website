@@ -47,6 +47,8 @@ The grandfather of jazz violinists, [Stéphane Grappelli](https://en.wikipedia.o
 ## Craig Pilo
 Powerhouse drummer, arranger and music educator, [Craig Pilo](https://en.wikipedia.org/wiki/Craig_Pilo) released his debut album [Just Play](https://store.cdbaby.com/cd/craigpilo) in 2007. Pilo performs a mixture of original compositions, and jazz standards arranged in his own style, aided by guest artists including [Mitchel Forman](https://en.wikipedia.org/wiki/Mitchel_Forman), [Tom Kennedy](https://en.wikipedia.org/wiki/Tom_Kennedy_(musician)) and others. In an interview to [AllAboutJazz](https://www.allaboutjazz.com/), Pilo [says](https://www.allaboutjazz.com/take-five-with-craig-pilo-craig-pilo-by-aaj-staff.php?page=1) that he wanted to take the standards "in a different direction" and managed to "ruffle some feathers" among his jazz purist friends. Here he is, performing a funky, rocking arrangement of Autumn Leaves!
 
+Do you believe every song has a mood which is part of its identity? Or do you think a song is just a structure, which the musicians have to navigate, in order to express whatever they are feeling like? And so, which version(s) do you like better than others?
+
 *(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
 
 {% capture program-text %}
