@@ -1,7 +1,7 @@
 ---
 layout: single 
 permalink: /music-naka/background/
-title: Music Naka
+title: Music Naka - Background
 author: Aravind Iyer
 author_profile: true
 description: "Music makes its best impression when it is shared by a friend over a story. Music is a medium for communicating and stimulating emotions, for conveying the mood, feelings, state of mind and even the sense of identity of the artist, and of the audience too. The stories on this page aim to help you know more about this context behind the music, so that you can connect more deeply with it. It's good seeing you at Music Naka! If you like a story or if you have one to share, please write to me."
