@@ -5,8 +5,8 @@ date: 2018-03-30 13:57:00 +0530
 categories: personal
 header:
   teaser: "/assets/images/hme-cover-640.jpg"
-excerpt:
-description:
+excerpt: "Almost everything we do seems intended to enrich the digital world. Our photos, our messages, our updates, the news, our work documents, our data, our code, our reports, our slides — they make up our digital life and serve to feed the digital world. Here is some artwork which explores our relationship with the digital world."
+description: "Almost everything we do seems intended to enrich the digital world. Our photos, our messages, our updates, the news, our work documents, our data, our code, our reports, our slides — they make up our digital life and serve to feed the digital world. Here is some artwork which explores our relationship with the digital world."
 og_image: "/assets/images/hme-cover-640.jpg"
 ---
 <figure>
