@@ -5,6 +5,7 @@ date: 2018-04-02 16:01:00 +0530
 categories: drafts #only-human
 sitemap: false
 noindex: true
+search: false
 header:
    teaser:
 excerpt: 
