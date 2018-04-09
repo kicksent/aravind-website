@@ -47,7 +47,7 @@ It is a strange feeling for me. The mysterious guitarist who I discovered by cha
 
 [^profound]: There was no dearth of brave posturings of profundity when we were graduating from college, as I am sure you would probably remember from your time. But still, even as we were headed out into the big wide world, seeking to seize the day since life was supposedly short, this piece of contrarian philosophy really stayed with me.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
 
 {% capture program-text %}
 **Program**

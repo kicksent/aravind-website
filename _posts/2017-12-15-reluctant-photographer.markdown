@@ -88,4 +88,4 @@ As I think about how I reluctantly but surely became a photographer, a chronicle
 
 It is as though there is something for every audience of every size — personal clicks for family and friends, slightly more interesting ones for extended friends and acquaintances, and pictures showcasing your artistry or expression for everyone who could care to see. So, don’t be reluctant. Just click and share!
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

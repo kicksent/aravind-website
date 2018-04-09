@@ -75,4 +75,4 @@ After the stair climb and several swigs of water, we decided there could be noth
 
 As we got into a more comfort-oriented mode of transport back to our hotel, I sat thinking that explaining grown-up matters such as war memorials to six year olds is not easy. Step wells, sun dials or steel sculptures are only somewhat easier. But there is no doubt that walking is the best way to see any place. Despite the heat, it was much easier than I had feared, and we had a great time. So you know, when you are in town — my town, your town or any other town — take a walk to the places you want to see. Walk on, ’cause that’s really the best way to roll!
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

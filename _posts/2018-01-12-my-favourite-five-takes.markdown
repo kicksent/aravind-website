@@ -60,7 +60,7 @@ It was in Suwon, South Korea that I first heard [Sungha Jung](http://www.sunghaj
 
 So which one do you like the most? The original or one of the other takes — McRae’s ironic vocals, Benson’s funky guitar, Jarreau’s energetic scatting, Sachal Studios’ orchestral rendition tinged in Indian classical music or Jung’s clean and crisp unplugged version?
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
 
 {% capture program-text %}
 **Program**

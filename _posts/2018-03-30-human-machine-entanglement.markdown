@@ -46,4 +46,4 @@ But even this isn’t the complete picture. Doubtless, we are creating our digit
 
 Which illustration do you think best captures our state of entanglement with the digital world?
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

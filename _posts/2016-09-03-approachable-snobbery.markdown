@@ -45,7 +45,7 @@ There is the musicianship in Aja (what with accomplished saxophonists finishing 
 
 Steely Dan has produced several great albums by following their unique musical approach. Becker and Fagen with a wide cast of session musicians, have melded witty lyrics, jazzy structures and obsessive studio production into albums like Can’t Buy a Thrill, The Royal Scam and many others. They are known to be quite fastidious, perhaps snobbish, themselves. But snobbery can be of different kinds. There is snobbery that alienates by pursuing discrimination to its own end, and there is snobbery that inspires by kindling an aspiration to being and experiencing better. Steely Dan is definitely in the latter category, and Aja is their finest example. So if you are about to test hi-fi audio gear, or if you want to listen to easy-going yet sophisticated music, or if you are just feeling a bit blue, listen to Aja, rejoice and be a snob.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
 
 {% capture program-text %}
 **Program**

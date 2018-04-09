@@ -43,7 +43,7 @@ Things rarely ever come out of a vacuum. Bitches Brew continued in the direction
 
 I must have played that tape a dozen times over in the next couple of days. But I could never play it right back as soon as it was over. It needed time, time spent sitting and enjoying the silence, time spent assimilating the music, time spent realising the concentrated value of human endeavour that was possible, time spent waiting till you felt ready, for the next round. That tape was followed up with many more jazz albums, and with the ever-changing landscape of music (CD clubs, digital downloads and unlimited streaming) I have never been far from jazz music. I hope I can write some more album reviews, but here’s thanking the one that ignited the flame!
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
 
 {% capture program-text %}
 **Program**

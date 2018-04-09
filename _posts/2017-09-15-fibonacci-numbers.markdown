@@ -68,4 +68,4 @@ Write a program to compute $$n(M)$$ given $$M$$.
 Let us assume we are given a Fibonacci number $$M$$. To be precise, there exists an index
 $$i$$ such that $$M=F_i$$. Write a program to compute $$n(M)$$ given a Fibonacci number $$M$$.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

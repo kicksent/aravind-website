@@ -18,3 +18,4 @@ Accountability is submitting yourself to be evaluated by another. It is the act 
 
 Whatever be your endeavour - regular employment, own business, artistic pursuit, competitive sports - ultimately your value needs to be recognised by another
 
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

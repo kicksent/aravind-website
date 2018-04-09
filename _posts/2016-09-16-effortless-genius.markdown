@@ -53,7 +53,7 @@ But it is not like Bumpin’ or any other Verve or A&M record, is really differe
 
 Effortless genius — the notion is a bit fanciful, isn’t it? Maybe our fascination with the ease of genius is just a defense against our own fear of failure, and it has been [so argued](http://www.independent.co.uk/voices/commentators/dominic-lawson/dominic-lawson-it-takes-more-than-a-stroke-of-genius-to-become-a-true-champion-7924861.html). But then Montgomery worked quite hard and not necessarily to sound effortless. Perhaps that is the wrong explanation. There is no denying the genius nor the effort of Wes Montgomery. Yet it is his humble acceptance of his cultivated skill and his genuine desire to make his music accessible to everyone that disarms us and makes his genius seem effortless.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
 
 {% capture program-text %}
 **Program**

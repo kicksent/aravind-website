@@ -80,4 +80,4 @@ Then (which is now) I hit the plateau of snobbery. I still love coffee, and it i
 
 PS: As you may have figured out, some events have been treated with a bit of creative license for the purpose of general amusement. For example, I never had any misconceptions about espresso. Honest!
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

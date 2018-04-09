@@ -37,7 +37,7 @@ But just like the time when I had learned that Mercury had died, I got a fresh i
 
 Nothing is permanent except change. Music is now so easy to get. I am not a teenager anymore. Drugs are no longer cool, and smartphones are the new drugs. Being gay is a bit more OK than it used to be in the 90s. But the magic of Freddie Mercury’s voice lives on.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
 
 {% capture program-text %}
 **Program**

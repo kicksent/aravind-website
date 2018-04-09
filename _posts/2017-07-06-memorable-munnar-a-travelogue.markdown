@@ -114,4 +114,4 @@ Our morning started with alacrity and we had crossed the state border into Tamil
 
 So when are we doing the next one?
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

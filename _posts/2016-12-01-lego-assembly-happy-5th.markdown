@@ -108,4 +108,4 @@ All in all, it was a totally cool idea to do Lego assembly at Laasya’s 5th bir
 
 So? What are we doing next?
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

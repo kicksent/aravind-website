@@ -32,4 +32,4 @@ Despite knowing the evolutionary perspective, envy is a [difficult emotion](http
 
 In the end, while it may be a creepy feeling, it is hard to imagine life without envy. Envy enables us to reach higher than we might have attempted otherwise but also forces us to recognise our limitations and rationalise the perceived unfairness of life. So go ahead. Envy a little. But be sure to turn it into a positive drive for your life.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

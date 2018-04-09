@@ -29,4 +29,4 @@ Now it may seem unusual, but there is something that can provide the benefit of 
 
 So if you find yourself alone, contemplate and enjoy your solitude. Reflect on what you know, how far you have come from a previous self. And if you feel lonely, nothing to worry. Just roll up your sleeves and work. And show your work to someone.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*

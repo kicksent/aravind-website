@@ -132,7 +132,7 @@ Go, give it a [listen](#electronic-jazz-from-jaga-jazzist)!
 
 [^ubericon]: [Jessi Hempel](https://www.wired.com/author/jessi-hempel/) at [Wired](https://www.wired.com/) writes about the ["inside story"](https://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/) behind Uber's new iconography as of 2016. The so-called mood boards for the Uber icon in different countries represent a fascinating fusion of a general design language with a signature shape associated with each specific country. Tiling that shape creates a pattern which in a subtle way cues the identity of that country.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
 
 {% capture program-text %}
 **Program**
