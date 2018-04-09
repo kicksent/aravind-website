@@ -49,7 +49,7 @@ Powerhouse drummer, arranger and music educator, [Craig Pilo](https://en.wikiped
 
 Do you believe every song has a mood which is part of its identity? Or do you think a song is just a structure, which the musicians have to navigate, in order to express whatever they are feeling like? And so, which version(s) do you like better than others?
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com).)*
+*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
 
 {% capture program-text %}
 **Program**
