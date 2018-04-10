@@ -14,6 +14,11 @@ var store = [
       {%- else -%}
         {%- assign teaser = site.teaser -%}
       {%- endif -%}
+      {%- if doc.excerpt -%}
+        {%- capture excerpt -%}{{ doc.excerpt }}{%- endcapture -%}
+      {%- else -%}
+        {%- assign excerpt = doc.content -%}
+      {%- endif -%}
       {
         "title": {{ doc.title | jsonify }},
         "excerpt":
@@ -28,7 +33,7 @@ var store = [
               replace:"</h6>", " "|
             strip_html | strip_newlines | jsonify }},
           {%- else -%}
-            {{ doc.content |
+            {{ excerpt |
               replace:"</p>", " " |
               replace:"</h1>", " " |
               replace:"</h2>", " " |

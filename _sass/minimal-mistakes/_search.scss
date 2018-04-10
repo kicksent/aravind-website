@@ -88,6 +88,11 @@
   .archive__item {
     margin-bottom: 2em;
 
+    .archive__item-teaser {
+      margin-bottom: 0.25em;
+      max-width: 160px;
+    }
+
     @include breakpoint($large) {
       width: 75%;
     }
