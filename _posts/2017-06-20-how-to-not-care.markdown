@@ -28,4 +28,5 @@ All this seems pretty reasonable, but what of the sting that comes from a though
 
 We have to agree to disagree, and accept with empathy that the bearer of the opposing opinion may be inevitably drawn to it owing to their values and experiences. Or we simply have to brush it aside as merely thoughtless, and move on. Or we have to accept and adopt the alien opinion and harmonise the ensuing contradictions in our values and beliefs. In the end, not caring is actually to care and then to let it rest. Reflect on all the occasions where you have successfully moved past a disagreeable opinion, advice or remark. If you still harbour some resentment to it, then perhaps you haven’t really moved on. But if you feel fine, you will remember how much you were affected by it then. Yet now you can feel comfortable with the past disagreement, knowing why it did not apply to you or how you learned from it. So go ahead and do your own thing. And don’t care about what other people think!
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

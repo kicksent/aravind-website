@@ -40,4 +40,5 @@ Work is work because it has a goal. If a sabbatical is work, then it needs to ha
 
 In a nutshell, work in comfort, work often, stay healthy, be with people, mind your money and work for a goal. Every endeavour of yours will be successful and fun, most of all, your sabbatical.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

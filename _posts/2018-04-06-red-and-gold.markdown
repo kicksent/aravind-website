@@ -49,11 +49,11 @@ Powerhouse drummer, arranger and music educator, [Craig Pilo](https://en.wikiped
 
 Do you believe every song has a mood which is part of its identity? Or do you think a song is just a structure, which the musicians have to navigate, in order to express whatever they are feeling like? And so, which version(s) do you like better than others?
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
-
 1. Autumn Leaves, Where are You?, *Frank Sinatra*, 1957.
 2. Autumn Leaves, Somethin' Else, *Cannonball Adderley featuring Miles Davis*, 1958. Band members: Cannonball Adderley (alto saxophone), Miles Davis (trumpet), Hank Jones (piano), Sam Jones (bass) and Art Blakey (drums).
 3. Autumn Leaves, Portrait in Jazz, *Bill Evans Trio*, 1960. Band members: Bill Evans (piano), Scott LaFaro (bass) and Paul Motian (drums).

@@ -29,4 +29,5 @@ The brain holds two kinds of memories, explicit and implicit, where explicit mem
 
 Despite the long history and intimate connection between music and memories, things may be changing dramatically. Like we noted before, we supplement our memories with text, photos, audio or video. Today, in the age of digital information, we can record and preserve these artefacts with the finest fidelity and then access them with the most immediate ubiquity. From the earliest audio CDs to unlimited music streaming, even the way we listen to our music has been transformed thoroughly. Would these associations still continue to hold? What is the future of memories and mind palaces? I have shared my thoughts about these questions in [another post]({{ site.baseurl }}{% post_url 2017-12-07-memories-are-in-bytes %}). Meanwhile, go on, play your favourite music from your adolescent days, and reminisce a little!
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

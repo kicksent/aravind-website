@@ -37,11 +37,11 @@ But just like the time when I had learned that Mercury had died, I got a fresh i
 
 Nothing is permanent except change. Music is now so easy to get. I am not a teenager anymore. Drugs are no longer cool, and smartphones are the new drugs. Being gay is a bit more OK than it used to be in the 90s. But the magic of Freddie Mercury’s voice lives on.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
-
 1. [Innuendo](https://en.wikipedia.org/wiki/Innuendo_(album)), [*Queen*](https://en.wikipedia.org/wiki/Queen_(band)), 1991. Band members: [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) — vocals, [Brian May](https://en.wikipedia.org/wiki/Brian_May) — guitar, [Roger Taylor](https://en.wikipedia.org/wiki/Roger_Taylor_(Queen_drummer)) — drums, and [John Deacon](https://en.wikipedia.org/wiki/John_Deacon) — bass.
 2. [Greatest Hits](https://en.wikipedia.org/wiki/Greatest_Hits_(Queen_album)), *Queen*, 1981. Band members: Freddie Mercury - vocals, Brian May - guitar, Roger Taylor - drums, and John Deacon - bass.
 3. [Greatest Hits II](https://en.wikipedia.org/wiki/Greatest_Hits_II_(Queen_album)), *Queen*, 1991. Band members: Freddie Mercury - vocals, Brian May - guitar, Roger Taylor - drums, and John Deacon - bass. 
@@ -51,5 +51,4 @@ Nothing is permanent except change. Music is now so easy to get. I am not a teen
   {{ program-text | markdownify }}
 </div>
 
-**Notes**
-{: .small}
+<h4 class="page__related-title">Notes</h4>

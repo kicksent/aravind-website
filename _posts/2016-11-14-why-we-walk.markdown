@@ -40,4 +40,5 @@ At the most utilitarian level, walking is also about getting around — a va
 
 Why do we walk then? We walk to get around, to explore, to clear our heads, to get lost and find our way back, to build intimacy with our place, to take a break from our war of words, to get some exercise or just to go places. The able amongst us almost never have to think about walking. We just walk when we need to. Walking is the most fundamental and primal form of an action item. In fact, it may not be an exaggeration to say “I walk, therefore I am!"
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

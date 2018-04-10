@@ -47,4 +47,5 @@ All right, maybe these values are aspirational and difficult to translate into p
 
 Yes, the cynics are often right. As with so many things, the PhD degree may well come to be disposable with better methods and standards of education and training taking its place, ones which might even confer a higher incremental salary on its recipients. But the academic mindset is invaluable for society, and it’s not going away any time soon.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

@@ -45,11 +45,11 @@ There is the musicianship in Aja (what with accomplished saxophonists finishing 
 
 Steely Dan has produced several great albums by following their unique musical approach. Becker and Fagen with a wide cast of session musicians, have melded witty lyrics, jazzy structures and obsessive studio production into albums like Can’t Buy a Thrill, The Royal Scam and many others. They are known to be quite fastidious, perhaps snobbish, themselves. But snobbery can be of different kinds. There is snobbery that alienates by pursuing discrimination to its own end, and there is snobbery that inspires by kindling an aspiration to being and experiencing better. Steely Dan is definitely in the latter category, and Aja is their finest example. So if you are about to test hi-fi audio gear, or if you want to listen to easy-going yet sophisticated music, or if you are just feeling a bit blue, listen to Aja, rejoice and be a snob.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
- 
 1. [Aja](https://en.wikipedia.org/wiki/Aja_(album)), [*Steely Dan*](https://en.wikipedia.org/wiki/Steely_Dan), 1977. Band members: [Donald Fagen](https://en.wikipedia.org/wiki/Donald_Fagen) (vocals and synthesizer) and [Walter Becker](https://en.wikipedia.org/wiki/Walter_Becker) (guitar and bass). For a list of additional musicians, check [here](https://en.wikipedia.org/wiki/Aja_%28album%29#Additional_musicians).
 {% endcapture %}
 
@@ -57,5 +57,4 @@ Steely Dan has produced several great albums by following their unique musical a
   {{ program-text | markdownify }}
 </div>
 
-**Notes**
-{: .small}
+<h4 class="page__related-title">Notes</h4>

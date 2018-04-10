@@ -53,11 +53,11 @@ But it is not like Bumpin’ or any other Verve or A&M record, is really differe
 
 Effortless genius — the notion is a bit fanciful, isn’t it? Maybe our fascination with the ease of genius is just a defense against our own fear of failure, and it has been [so argued](http://www.independent.co.uk/voices/commentators/dominic-lawson/dominic-lawson-it-takes-more-than-a-stroke-of-genius-to-become-a-true-champion-7924861.html). But then Montgomery worked quite hard and not necessarily to sound effortless. Perhaps that is the wrong explanation. There is no denying the genius nor the effort of Wes Montgomery. Yet it is his humble acceptance of his cultivated skill and his genuine desire to make his music accessible to everyone that disarms us and makes his genius seem effortless.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
- 
 1. [The Incredible Jazz Guitar of Wes Montgomery](https://en.wikipedia.org/wiki/The_Incredible_Jazz_Guitar_of_Wes_Montgomery), [*Wes Montgomery*](https://en.wikipedia.org/wiki/Wes_Montgomery), 1960. Band members: [Wes Montgomery](https://en.wikipedia.org/wiki/Wes_Montgomery) (electric guitar), [Tommy Flanagan](https://en.wikipedia.org/wiki/Tommy_Flanagan) (piano), [Percy Heath](https://en.wikipedia.org/wiki/Percy_Heath) (bass) and [Albert Heath](https://en.wikipedia.org/wiki/Albert_Heath) (drums).
 {% endcapture %}
 
@@ -65,5 +65,4 @@ Effortless genius — the notion is a bit fanciful, isn’t it? Maybe our fa
   {{ program-text | markdownify }}
 </div>
 
-**Notes**
-{: .small}
+<h4 class="page__related-title">Notes</h4>

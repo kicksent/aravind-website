@@ -55,4 +55,5 @@ The dimensions of work may read like a platitude, and we may well laugh at its o
 
 We need to work. We need to be seen as working. We need to see others working. We need to sweat. We need the fruits and also the fulfilment. Work defines us. It is our love of labour as much as it is a labour of love. We may come upon a future where the association between work and livelihood may be less tight than it is today, but there can be no doubt that we will still be at work.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

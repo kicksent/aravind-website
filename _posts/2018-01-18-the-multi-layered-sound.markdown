@@ -132,11 +132,11 @@ Go, give it a [listen](#electronic-jazz-from-jaga-jazzist)!
 
 [^ubericon]: [Jessi Hempel](https://www.wired.com/author/jessi-hempel/) at [Wired](https://www.wired.com/) writes about the ["inside story"](https://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/) behind Uber's new iconography as of 2016. The so-called mood boards for the Uber icon in different countries represent a fascinating fusion of a general design language with a signature shape associated with each specific country. Tiling that shape creates a pattern which in a subtle way cues the identity of that country.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
-
 1. [A Living Room Hush](https://en.wikipedia.org/wiki/A_Livingroom_Hush), [*Jaga Jazzist*](https://en.wikipedia.org/wiki/Jaga_Jazzist), 2001.
   Band members:
   * Mathias Eick - trumpet, keyboards, double bass
@@ -156,5 +156,4 @@ Go, give it a [listen](#electronic-jazz-from-jaga-jazzist)!
   {{ program-text | markdownify }}
 </div>
 
-**Notes**
-{: .small}
+<h4 class="page__related-title">Notes</h4>

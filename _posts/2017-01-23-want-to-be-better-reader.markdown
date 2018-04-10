@@ -32,4 +32,5 @@ Writing is hard, but getting started is the best way to get going. Start with a 
 
 In an age where tweets are cited as reference and banter over social media is considered debate, it is quite difficult to tell the difference between a sensational sound bite and a pithy insight. The need to be thorough and the need to be brief is a difficult dilemma we face today. But we owe it to ourselves to not write without due diligence, to not share or retweet blindly, to be thorough in our reading and in our writing. Let us be sympathetic and trust what we read, but let us not let the writer get away. If you write yourself, you will know that it feels different when your writing is sound and when it’s not. Write and empower yourself with that feeling. Use that yardstick to assess what you read. The old trust-meter is broken. You need a new one, and it’s called writing.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

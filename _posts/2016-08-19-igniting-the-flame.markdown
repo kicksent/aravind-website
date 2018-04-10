@@ -43,11 +43,11 @@ Things rarely ever come out of a vacuum. Bitches Brew continued in the direction
 
 I must have played that tape a dozen times over in the next couple of days. But I could never play it right back as soon as it was over. It needed time, time spent sitting and enjoying the silence, time spent assimilating the music, time spent realising the concentrated value of human endeavour that was possible, time spent waiting till you felt ready, for the next round. That tape was followed up with many more jazz albums, and with the ever-changing landscape of music (CD clubs, digital downloads and unlimited streaming) I have never been far from jazz music. I hope I can write some more album reviews, but here’s thanking the one that ignited the flame!
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
-
 1. [The Inner Mounting Flame](https://en.wikipedia.org/wiki/The_Inner_Mounting_Flame), *Mahavishnu Orchestra*, 1971. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [Rick Laird](https://en.wikipedia.org/wiki/Rick_Laird) — bass, [Billy Cobham](https://en.wikipedia.org/wiki/Billy_Cobham) — drums, percussion, [Jan Hammer](https://en.wikipedia.org/wiki/Jan_Hammer) — keyboards, organ, [Jerry Goodman](https://en.wikipedia.org/wiki/Jerry_Goodman) — violin.
 
 2. [Shakti with John McLaughlin](https://en.wikipedia.org/wiki/Shakti_%28Shakti_album%29), *Shakti*, 1976. Band members: [John McLaughlin](https://en.wikipedia.org/wiki/John_McLaughlin_%28musician%29) — guitar, [L. Shankar](https://en.wikipedia.org/wiki/L._Shankar) — violin, [Ramnad Raghavan](https://en.wikipedia.org/wiki/Ramnad_Raghavan) — mridangam, [T. H. Vinayakaram](https://en.wikipedia.org/wiki/T._H._Vinayakaram) — ghatam and mridangam, [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_%28musician%29) — tabla.
@@ -61,5 +61,4 @@ I must have played that tape a dozen times over in the next couple of days. But 
   {{ program-text | markdownify }}
 </div>
 
-**Notes**
-{: .small}
+<h4 class="page__related-title">Notes</h4>

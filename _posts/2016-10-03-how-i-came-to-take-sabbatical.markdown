@@ -36,4 +36,5 @@ Now I went back to the question I had ducked in the beginning — what am I 
 
 So then, why am I taking a sabbatical? Really, the most honest and simple answer is, I want to and I can. What do I expect to accomplish, specifically? I don’t know yet, but I definitely intend to come back and write about it. I told some of my colleagues on my last day at work that I believe life is a journey more than a destination. Right now, I want to focus on the journey.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

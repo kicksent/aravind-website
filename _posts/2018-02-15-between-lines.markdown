@@ -124,4 +124,5 @@ You may have probably seen it already. But there is a picture, by [M. C. Escher]
 
 That’s it for now. I hope you liked the pictures. If you have a comment, question or suggestion, feel free to contact me.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

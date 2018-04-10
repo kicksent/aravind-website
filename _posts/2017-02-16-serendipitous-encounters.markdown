@@ -47,11 +47,11 @@ It is a strange feeling for me. The mysterious guitarist who I discovered by cha
 
 [^profound]: There was no dearth of brave posturings of profundity when we were graduating from college, as I am sure you would probably remember from your time. But still, even as we were headed out into the big wide world, seeking to seize the day since life was supposedly short, this piece of contrarian philosophy really stayed with me.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
- 
 1. [Best of Scorpions](https://en.wikipedia.org/wiki/Best_of_Scorpions), [*Scorpions*](https://en.wikipedia.org/wiki/Scorpions_(band)), 1979. Band members: [Klaus Meine](https://en.wikipedia.org/wiki/Klaus_Meine) (vocals), [Rudolf Schenker](https://en.wikipedia.org/wiki/Rudolf_Schenker) (rhythm guitar), [Uli Jon Roth](https://en.wikipedia.org/wiki/Uli_Jon_Roth) (lead guitar), [Francis Buchholz](https://en.wikipedia.org/wiki/Francis_Buchholz) (bass guitar), [Herman Rarebell](https://en.wikipedia.org/wiki/Herman_Rarebell) (drums), [Rudy Lenners](https://en.wikipedia.org/wiki/Rudy_Lenners) (drums) and [Jürgen Rosenthal](https://en.wikipedia.org/wiki/J%C3%BCrgen_Rosenthal) (drums).
 2. [Best of Scorpions, Vol. 2](https://en.wikipedia.org/wiki/Best_of_Scorpions_Vol._2), [*Scorpions*](https://en.wikipedia.org/wiki/Scorpions_(band)), 1984. Band members: [Klaus Meine](https://en.wikipedia.org/wiki/Klaus_Meine) (vocals), [Rudolf Schenker](https://en.wikipedia.org/wiki/Rudolf_Schenker) (rhythm guitar), [Uli Jon Roth](https://en.wikipedia.org/wiki/Uli_Jon_Roth) (lead guitar), [Francis Buchholz](https://en.wikipedia.org/wiki/Francis_Buchholz) (bass guitar), [Herman Rarebell](https://en.wikipedia.org/wiki/Herman_Rarebell) (drums), [Rudy Lenners](https://en.wikipedia.org/wiki/Rudy_Lenners) (drums) and [Jürgen Rosenthal](https://en.wikipedia.org/wiki/J%C3%BCrgen_Rosenthal) (drums).
 3. [Beyond the Astral Skies](https://en.wikipedia.org/wiki/Beyond_the_Astral_Skies), [*Uli Jon Roth*](https://en.wikipedia.org/wiki/Uli_Jon_Roth), 1985. Band members: Michael Flexig (vocals), Uli Jon Roth (vocals, guitars, keyboards, bass), Ule Ritgen (bass guitar), Clive Bunker (drums, timpani), Elizabeth Mackenzie (soprano, alto vocals), Robert Curtis (violin, viola), Nicky Moore, Jenni Evans, Dorothy Patterson, Zeno Roth and Rainer Przywara (backing vocals).
@@ -63,5 +63,4 @@ It is a strange feeling for me. The mysterious guitarist who I discovered by cha
   {{ program-text | markdownify }}
 </div>
 
-**Notes**
-{: .small}
+<h4 class="page__related-title">Notes</h4>

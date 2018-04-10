@@ -27,4 +27,5 @@ Interestingly, even the word “memory” itself evokes different images now tha
 
 While the association between memories and music was a long one, we are only at the threshold of how things will turn out in the future. The ubiquitous availability of digital content has made us a bit sloppy in absorbing it. We can always hit rewind or read it again without the fear or burden of having to lug along a physical record or book collection. Assuming our phone is charged. And it’s in coverage. And our subscriptions are paid. The truth is we really see digital content as our appendage — something that should be always available to us, without which we would feel crippled. I think this really sums up what we have gained and lost. And there is no going back now. Time only moves forward. Memories are in bytes, and mind palaces are subscriptions.
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}

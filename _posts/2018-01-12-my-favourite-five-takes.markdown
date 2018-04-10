@@ -60,11 +60,11 @@ It was in Suwon, South Korea that I first heard [Sungha Jung](http://www.sunghaj
 
 So which one do you like the most? The original or one of the other takes — McRae’s ironic vocals, Benson’s funky guitar, Jarreau’s energetic scatting, Sachal Studios’ orchestral rendition tinged in Indian classical music or Jung’s clean and crisp unplugged version?
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
-
 1. Take Five, [Time Out](https://en.wikipedia.org/wiki/Time_Out_(album)), [*The Dave Brubeck Quartet*](https://en.wikipedia.org/wiki/Dave_Brubeck#Dave_Brubeck_Quartet), 1959. Band members: [Dave Brubeck](https://en.wikipedia.org/wiki/Dave_Brubeck) – piano, [Paul Desmond](https://en.wikipedia.org/wiki/Paul_Desmond) – alto saxophone, [Eugene Wright](https://en.wikipedia.org/wiki/Eugene_Wright) – bass and [Joe Morello](https://en.wikipedia.org/wiki/Joe_Morello) – drums.
 2. Take Five, [Carmen McRae Sings Lover Man and Other Billie Holiday Classics](https://en.wikipedia.org/wiki/Carmen_McRae_Sings_Lover_Man_and_Other_Billie_Holiday_Classics), *Carmen McRae and the Dave Brubeck Quartet*, 1961. Band members: [Carmen McRae](https://en.wikipedia.org/wiki/Carmen_McRae) - vocals, [Dave Brubeck](https://en.wikipedia.org/wiki/Dave_Brubeck) – piano, [Paul Desmond](https://en.wikipedia.org/wiki/Paul_Desmond) – alto saxophone, [Eugene Wright](https://en.wikipedia.org/wiki/Eugene_Wright) – bass and [Joe Morello](https://en.wikipedia.org/wiki/Joe_Morello) – drums.
 3. Take Five, [Bad Benson](https://en.wikipedia.org/wiki/Bad_Benson), [*George Benson*](https://en.wikipedia.org/wiki/George_Benson), 1974. Band members: [George Benson](https://en.wikipedia.org/wiki/George_Benson) - guitar, [Phil Upchurch](https://en.wikipedia.org/wiki/Phil_Upchurch) - guitar, [Kenny Barron](https://en.wikipedia.org/wiki/Kenny_Barron) - piano, [Ron Carter](https://en.wikipedia.org/wiki/Ron_Carter) - bass and [Steve Gadd](https://en.wikipedia.org/wiki/Steve_Gadd) - drums.

@@ -41,11 +41,11 @@ With Firefly, Remler’s career was off to a good start. Although her technique 
  
 In the short span of less than 10 years, Remler took Montgomery’s torch and carried it forward while also giving it her own identity. We can only wonder at what might have been, had she lived and played longer. Just when she had overcome the hurdles of gender bias, technique and the long shadows of her heroes, and begun to form her own voice, it all ended so abruptly. So, was hers a life well lived? Today, it seems that our lives are so much about output than input — about the things that we display rather than about the things that we absorb. Remler’s career was tragically cut short with the result that she did not produce the output that was so obviously within her musical reach. Yet I think she got more out of her life by absorbing her life experiences, learning from them and just harnessing them into her music. That was the musical life of Emily Remler — short and bittersweet, but very much well lived!
 
-*(Please write in your comments to [letters@aravindiyer.com](mailto:letters@aravindiyer.com) or leave a comment below.)*
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
 
+<h4 class="page__related-title">Program</h4>
 {% capture program-text %}
-**Program**
-
 1. [East to Wes](https://www.allmusic.com/album/east-to-wes-mw0000201311), [*Emily Remler*](https://www.allmusic.com/artist/emily-remler-mn0000800814), 1988. Band members: [Emily Remler] (guitar), [Hank Jones](https://www.allmusic.com/artist/hank-jones-mn0000558339) (piano), [Buster Williams](https://www.allmusic.com/artist/buster-williams-mn0000943189) (bass) and [Marvin "Smitty" Smith](https://www.allmusic.com/artist/marvin-smitty-smith-mn0000316612) (drums).
 2. [Talking Jazz, Vol. 21](http://bensidran.com/project/talking-jazz-project), [*Ben Sidran*](http://bensidran.com/), 1986. Interview of [Larry Coryell](https://en.wikipedia.org/wiki/Larry_Coryell) and Emily Remler by Ben Sidran.
 {% endcapture %}
@@ -54,5 +54,4 @@ In the short span of less than 10 years, Remler took Montgomery’s torch and ca
   {{ program-text | markdownify }}
 </div>
 
-**Notes**
-{: .small}
+<h4 class="page__related-title">Notes</h4>
