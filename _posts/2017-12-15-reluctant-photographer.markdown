@@ -56,27 +56,27 @@ But it was really when I saw a digital camera in action that I managed to shed m
 Later I became bold enough to look up esoteric terms like ISO, aperture, exposure, depth of field, etc., and I even ended up buying a digital SLR camera, a Nikon D50. At that time, I probably still thought “photography” was an indulgent hobby, but having a DSLR seemed handy since it was just so amazingly quick and accurate at capturing life. It wasn’t until I bought my first smartphone that I wittingly or unwittingly started shedding that final bit of baggage about photography being arty-farty. For a long time, I had my DSLR and I had a somewhat rugged and somewhat good pocket camera. There was no question the DSLR was better but equally there was no question which one could fit in my pocket. From having a great camera for special occasions, my needs were evolving into having a camera for all occasions. Then with my first smartphone, it was amazing — I could click a picture and email it instantaneously. The quality took a few generations to get up to an acceptable level, but there was no denying the transformation that was to come.
 
 <figure>
-  <div style="width:62%">
+  <div style="width:62.08%">
    <a href="/assets/images/butterfly-closeup.jpg">
       <img src="/assets/images/butterfly-closeup-640.jpg" alt="Close up of a butterfly">
    </a>
   </div>
-  <div style="width:35%">
+  <div style="width:34.92%">
    <a href="/assets/images/sky-scraper-reflection.jpg">
       <img src="/assets/images/sky-scraper-reflection-640.jpg" alt="Reflection of skyscrapers in water">
    </a>
   </div>
-  <div style="width:55%">
+  <div style="width:54.62%">
    <a href="/assets/images/boat-bow.jpg">
       <img src="/assets/images/boat-bow-640.jpg" alt="Bow of a boat">
    </a>
   </div>
-  <div style="width:18%">
+  <div style="width:17.74%">
    <a href="/assets/images/pasta-salad-wine.jpg">
       <img src="/assets/images/pasta-salad-wine-640.jpg" alt="Pasta, salads and wine">
    </a>
   </div>
-  <div style="width:22%">
+  <div style="width:21.64%">
    <a href="/assets/images/alphabet-teethers.jpg">
       <img src="/assets/images/alphabet-teethers-640.jpg" alt="Alphabet-shaped teethers">
    </a>

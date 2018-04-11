@@ -41,12 +41,12 @@ og_image: "/assets/images/avantika-laasya-5th-bday-640.jpg"
 ---
 
 <figure>
-  <div style="width:52.2%">
+  <div style="width:51.93%">
     <a href="/assets/images/avantika-laasya-5th-bday.jpg">
       <img src="/assets/images/avantika-laasya-5th-bday-640.jpg" alt="Avantika and Laasya at Laasya's 5th birthday!" />
     </a>
   </div>
-  <div style="width:45.3%">
+  <div style="width:45.07%">
     <a href="/assets/images/lego-duplo-window.jpg">
       <img src="/assets/images/lego-duplo-window-640.jpg" alt="Lego Duplo Window" />
     </a>
@@ -76,7 +76,7 @@ Laasya promptly appointed herself as the auditor of the process and was happy to
 We sorted the pieces needed for each mini-project and put them in separate bags, so they won’t get mixed up. We printed a sheet each showing all the pieces and final assembly. Given the simplicity of each model, we thought that would suffice. On the day of the party, I wanted to get all the kids to listen. Very cutely and amazingly, they all sat down obediently to listen to the instructions. We handed out the bag and the printout (of the before and after pictures) to each kid. For the zoo and the tracks, we formed teams of 2–3 kids together to fix it all up.
 
 <figure>
-  <div style="width:35.4%">
+  <div style="width:35.15%">
     <a href="/assets/images/lego-assembly-briefing.jpg">
       <img src="/assets/images/lego-assembly-briefing-640.jpg" alt="Aravind briefing the kids to start the Lego Assembly activity" />
     </a>
@@ -84,7 +84,7 @@ We sorted the pieces needed for each mini-project and put them in separate bags,
       <img src="/assets/images/lego-assembly-leader-briefing-640.jpg" alt="Aravind briefing the oldest kid to help and supervise the Lego Assembly activity" />
     </a>
   </div>
-  <div style="width:35.4%">
+  <div style="width:35.15%">
     <a href="/assets/images/lego-assembly-in-progress.jpg">
       <img src="/assets/images/lego-assembly-in-progress-640.jpg" alt="Lego Assembly activity in progress" />
     </a>
@@ -92,7 +92,7 @@ We sorted the pieces needed for each mini-project and put them in separate bags,
       <img src="/assets/images/lego-assembly-in-progress-2-640.jpg" alt="Lego Assembly activity in progress" />
     </a>
   </div>
-  <div style="width:24.0%">
+  <div style="width:23.70%">
     <a href="/assets/images/lego-assembly-almost-finished.jpg">
       <img src="/assets/images/lego-assembly-almost-finished-640.jpg" alt="Lego Assembly activity nearing completion" />
     </a>
