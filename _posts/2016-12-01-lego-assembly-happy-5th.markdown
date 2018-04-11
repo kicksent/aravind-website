@@ -6,14 +6,6 @@ categories: personal
 header:
    teaser: "/assets/images/avantika-laasya-5th-bday-640.jpg"
 
-cover:
-  - url: "/assets/images/avantika-laasya-5th-bday.jpg"
-    image_path: "/assets/images/avantika-laasya-5th-bday-640.jpg"
-    alt: "Avantika and Laasya at Laasya's 5th birthday!"
-  - url: "/assets/images/lego-duplo-window.jpg"
-    image_path: "/assets/images/lego-duplo-window-640.jpg"
-    alt: "Lego Duplo Window"
-
 lego-mini-projects:
   - image_path: "/assets/images/lego-train-640.jpg"
     url: "/assets/images/lego-train.jpg"
@@ -43,22 +35,23 @@ lego-mini-projects:
     url: "/assets/images/lego-car.jpg"
     alt: "Lego Duplo Car"
 
-bday:
-  - image_path: "/assets/images/bday-musical-statues-640.jpg"
-    url: "/assets/images/bday-musical-statues.jpg"
-    alt: "The obligatory routine of kids playing musical statues!"
-  - image_path: "/assets/images/bday-blowing-candles-640.jpg"
-    url: "/assets/images/bday-blowing-candles.jpg"
-    alt: "The obligatory routine of blowing candles on the birthday cake!"
-  - image_path: "/assets/images/bday-aravind-avantika-posed-640.jpg"
-    url: "/assets/images/bday-aravind-avantika-posed.jpg"
-    alt: "Obligatory posed photograph of Aravind and Avantika"
 excerpt: "We got the idea of assembling Lego bricks as one of the activities in Laasya's birthday party, We decided we would make it a scripted building activity with instructions. Based on what we had, we decided to make a Lego railway track system and many small things around it, like a zoo, vehicles, gates, a tree and so on. As a final measure of preparation, we made a few mental notes about which kids needed to be given the simplest projects and which ones the harder ones. Our Lego making activity was a go. The building did not go exactly as planned, but that’s just my grown-up viewpoint since the kids made only one loop of the railway track instead of two. They pretty much nailed the rest of the stuff. And it was great fun!"
 description: "We got the idea of assembling Lego bricks as one of the activities in Laasya's birthday party, We decided we would make it a scripted building activity with instructions. Based on what we had, we decided to make a Lego railway track system and many small things around it, like a zoo, vehicles, gates, a tree and so on. As a final measure of preparation, we made a few mental notes about which kids needed to be given the simplest projects and which ones the harder ones. Our Lego making activity was a go. The building did not go exactly as planned, but that’s just my grown-up viewpoint since the kids made only one loop of the railway track instead of two. They pretty much nailed the rest of the stuff. And it was great fun!"
 og_image: "/assets/images/avantika-laasya-5th-bday-640.jpg"
 ---
 
-{% include gallery id="cover" %}
+<figure>
+  <div style="width:52.2%">
+    <a href="/assets/images/avantika-laasya-5th-bday.jpg">
+      <img src="/assets/images/avantika-laasya-5th-bday-640.jpg" alt="Avantika and Laasya at Laasya's 5th birthday!" />
+    </a>
+  </div>
+  <div style="width:45.3%">
+    <a href="/assets/images/lego-duplo-window.jpg">
+      <img src="/assets/images/lego-duplo-window-640.jpg" alt="Lego Duplo Window" />
+    </a>
+  </div>
+</figure>
 
 A few weeks ago, Avantika and I threw a party for Laasya’s 5th birthday. For her last couple of birthday parties, we have been taking to the party venue, a set of Laasya’s toys including a plastic bowling set, a music player with a playlist of her current favourite tunes and the usual assortment of party balloons and whistles among other things. The party agenda has just been for the kids to play, dance and sing, till they are tired enough for the cake and food. The grown-ups meanwhile, have a good break and get a chance to catch up with friends. This time we got the idea of assembling Lego bricks as one of the activities in the party, given how much Laasya had begun to get into Lego assembly.
 
@@ -69,9 +62,11 @@ We decided we would make it a scripted building activity with instructions. Laas
 First we decided to lay out all the Lego to count how many pieces we had. This was the result!
 
 <figure>
-   <a href="/assets/images/all-the-lego-duplo-pieces.jpg">
-      <img src="/assets/images/all-the-lego-duplo-pieces-640.jpg" alt="Lots of Lego Duplo pieces laid out on the floor">
-   </a>
+  <div style="display:block;margin-left:auto;margin-right:auto">
+    <a href="/assets/images/all-the-lego-duplo-pieces.jpg">
+      <img src="/assets/images/all-the-lego-duplo-pieces-640.jpg" alt="Lots of Lego Duplo pieces laid out on the floor" />
+    </a>
+  </div>
 </figure>
 
 Laasya promptly appointed herself as the auditor of the process and was happy to show off her counting skills. Then, based on what we had, we decided to make a Lego railway track system and many small things around it, like a zoo, vehicles, gates, a tree and so on. We wanted to reckon if we could make 10–15 mini-projects each requiring an assembly of 10–20 large bricks or pieces. Based on the pictures below, each vetted by our auditor, it looked like we could. As a final measure of preparation, we made a few mental notes about which kids needed to be given the simplest projects and which ones the harder ones. Our Lego making activity was a go.
@@ -80,29 +75,49 @@ Laasya promptly appointed herself as the auditor of the process and was happy to
 
 We sorted the pieces needed for each mini-project and put them in separate bags, so they won’t get mixed up. We printed a sheet each showing all the pieces and final assembly. Given the simplicity of each model, we thought that would suffice. On the day of the party, I wanted to get all the kids to listen. Very cutely and amazingly, they all sat down obediently to listen to the instructions. We handed out the bag and the printout (of the before and after pictures) to each kid. For the zoo and the tracks, we formed teams of 2–3 kids together to fix it all up.
 
-<figure class="half">
-   <a href="/assets/images/lego-assembly-briefing.jpg">
-      <img src="/assets/images/lego-assembly-briefing-640.jpg" alt="Aravind briefing the kids to start the Lego Assembly activity">
-   </a>
-   <a href="/assets/images/lego-assembly-leader-briefing.jpg">
-      <img src="/assets/images/lego-assembly-leader-briefing-640.jpg" alt="Aravind briefing the oldest kid to help and supervise the Lego Assembly activity">
-   </a>
-</figure>
-<figure class="third">
-   <a href="/assets/images/lego-assembly-in-progress.jpg">
-      <img src="/assets/images/lego-assembly-in-progress-640.jpg" alt="Lego Assembly activity in progress">
-   </a>
-   <a href="/assets/images/lego-assembly-in-progress-2.jpg">
-      <img src="/assets/images/lego-assembly-in-progress-2-640.jpg" alt="Lego Assembly activity in progress">
-   </a>
-   <a href="/assets/images/lego-assembly-almost-finished.jpg">
-      <img src="/assets/images/lego-assembly-almost-finished-640.jpg" alt="Lego Assembly activity nearing completion">
-   </a>
+<figure>
+  <div style="width:35.4%">
+    <a href="/assets/images/lego-assembly-briefing.jpg">
+      <img src="/assets/images/lego-assembly-briefing-640.jpg" alt="Aravind briefing the kids to start the Lego Assembly activity" />
+    </a>
+    <a href="/assets/images/lego-assembly-leader-briefing.jpg">
+      <img src="/assets/images/lego-assembly-leader-briefing-640.jpg" alt="Aravind briefing the oldest kid to help and supervise the Lego Assembly activity" />
+    </a>
+  </div>
+  <div style="width:35.4%">
+    <a href="/assets/images/lego-assembly-in-progress.jpg">
+      <img src="/assets/images/lego-assembly-in-progress-640.jpg" alt="Lego Assembly activity in progress" />
+    </a>
+    <a href="/assets/images/lego-assembly-in-progress-2.jpg">
+      <img src="/assets/images/lego-assembly-in-progress-2-640.jpg" alt="Lego Assembly activity in progress" />
+    </a>
+  </div>
+  <div style="width:24.0%">
+    <a href="/assets/images/lego-assembly-almost-finished.jpg">
+      <img src="/assets/images/lego-assembly-almost-finished-640.jpg" alt="Lego Assembly activity nearing completion" />
+    </a>
+  </div>
 </figure>
 
 The building did not go exactly as planned, but that’s just my grown-up viewpoint since the kids made only one loop of the railway track instead of two. They pretty much nailed the rest of the stuff. And it was great fun! After the building was done, the kids created an impromptu story about how the family of Lego people rode the train to visit the zoo, how the train had to be re-fueled, and so on. Of course, the agenda also included the obligatory musical statues, the cake and the posed photographs. What birthday is complete without them?
 
-{% include gallery id="bday" %}
+<figure>
+  <div style="width:37.8%">
+    <a href="/assets/images/bday-musical-statues.jpg">
+      <img src="/assets/images/bday-musical-statues-640.jpg" alt="The obligatory routine of kids playing musical statues!" />
+    </a>
+  </div>
+  <div style="width:21.3%">
+    <a href="/assets/images/bday-blowing-candles.jpg">
+      <img src="/assets/images/bday-blowing-candles-640.jpg" alt="The obligatory routine of blowing candles on the birthday cake!" />
+    </a>
+  </div>
+  <div style="width:36.0%">
+    <a href="/assets/images/bday-aravind-avantika-posed.jpg">
+      <img src="/assets/images/bday-aravind-avantika-posed-640.jpg" alt="Obligatory posed photograph of Aravind and Avantika" />
+    </a>
+  </div>
+</figure>
 
 All in all, it was a totally cool idea to do Lego assembly at Laasya’s 5th birthday party. Unsurprisingly, Laasya wanted to be a part of everything, from laying out all the bricks, counting them, checking each picture of the models, to totally getting into building and playing during the party.
 

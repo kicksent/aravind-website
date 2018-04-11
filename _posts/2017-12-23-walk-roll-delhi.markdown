@@ -10,10 +10,12 @@ description: "Indian cities are not great for walking, and Delhi no exception. B
 og_image: "/assets/images/india-gate-selfie-640.jpg"
 ---
 <figure>
+  <div style="display:block;margin-left:auto;margin-right:auto">
    <a href="/assets/images/india-gate-selfie.jpg">
       <img src="/assets/images/india-gate-selfie-640.jpg" alt="Aravind and Laasya at India Gate">
    </a>
-   <figcaption>Tired, sweaty and thirsty after walking to India Gate.</figcaption>
+  </div>
+  <figcaption>Tired, sweaty and thirsty after walking to India Gate.</figcaption>
 </figure>
 
 It may be sad, but it’s true. Indian cities are not great for walking. This is despite a significant proportion of people getting around on foot — a number [estimated](https://timesofindia.indiatimes.com/city/delhi/Delhi-limps-behind-in-walkability-index/articleshow/5058302.cms) to be as high as 22% in 2009, in cities larger than 8 million. [Delhi](https://timesofindia.indiatimes.com/city/delhi/Delhi-limps-behind-in-walkability-index/articleshow/5058302.cms) is no exception. So, the notion of walking in Delhi did seem a bit odd to me, especially when there was no obligation to. Even in October when I was there, it is either [too hot](https://www.accuweather.com/en/in/delhi/202396/october-weather/202396?monyr=10/1/2017&view=table) or [too smoggy](https://www.indiatimes.com/news/india/as-pollution-returns-going-for-a-morning-walk-in-delhi-could-do-more-damage-to-your-health-332914.html), not to mention the risk of theft. Besides, almost no one seems to encourage you to walk, bar a [few](http://www.thecitizen.in/index.php/en/NewsDetail/index/8/4964/Five-Of-Delhis-Best-Hidden-Walking-Spots) [exceptions](https://scroll.in/magazine/855600/to-discover-the-beauty-of-delhi-despite-its-smog-you-need-to-walk-its-lanes-and-forests-like-me). So it is something of an accomplishment that I managed to walk a not immodest 5 kms in Delhi over two days, that too with a six year old girl in tow. Not that I am averse to the idea of walking — quite the contrary, in fact. I have [written earlier]({{ site.baseurl }}{% post_url 2016-11-14-why-we-walk %}) that “when you walk, the scenery and the soundscape change, and yet at a gentle enough pace that lets you take it all in” which makes walking the best way to get to know a place. So how did my love for walking overcome my reservations about walking in Delhi?
@@ -22,26 +24,34 @@ We were on a business cum pleasure trip in Delhi and I found myself with two day
 
 The first day started off a bit too lazily. By the time we had bathed, had breakfast, dilly-dallied and finally dressed, it was quite late. Rather than pick a place of sight-seeing, I decided to seek the comfort of a neighbourhood mall. The homogeneity of shopping malls is both a bane and a boon, but this time we both felt reassured by the slightly re-arranged layout of familiar shops. Like a team of pros, we confidently found our way to the food court, ordered and ate lunch, and even took part in a colouring activity. But it felt like a mild cop out to me. Not to Laasya. “Let’s explore”, she said. So we walked around in the mall, bought some cotton candy for dessert, and walked some more. Then we came upon this imposing “mushroom cloud” sculpture made from household utensils. Upon closer enquiry, it turned out to be “[The Line of Control](http://knma.in/node/279)”, India’s largest ever steel sculpture, by contemporary artist [Subodh Gupta](http://knma.in/node/281). Despite the tense title and looking like nuclear destruction in action, Gupta’s message is that of a “cloudburst of prosperity, peace and harmony”.
 
-<figure class="third">
+<figure>
+  <div style="width:44.4%">
    <a href="/assets/images/breakfast-lalit-selfie.jpg">
       <img src="/assets/images/breakfast-lalit-selfie-640.jpg" alt="Aravind and Laasya having breakfast in a hotel">
    </a>
+  </div>
+  <div style="width:25%">
    <a href="/assets/images/lunch-time-colouring.jpg">
       <img src="/assets/images/lunch-time-colouring-640.jpg" alt="Laasya showing her colouring efforts">
    </a>
+  </div>
+  <div style="width:25%">
    <a href="/assets/images/line-of-control.jpg">
       <img src="/assets/images/line-of-control-640.jpg" alt="Laasya dwarfed by the steel sculpture - Line of Control">
    </a>
-   <figcaption>Breakfast at the hotel, lunch-time colouring and being dwarfed by the Line of Control!</figcaption>
+  </div>
+  <figcaption>Breakfast at the hotel, lunch-time colouring and being dwarfed by the Line of Control!</figcaption>
 </figure>
 
 All the mall walking notwithstanding, we hadn’t done any street walking yet. We had taken a taxi here, and we tamely took another taxi to go and see [Jantar Mantar](https://en.wikipedia.org/wiki/Jantar_Mantar,_New_Delhi). With a name that loosely translates to “measuring instrument”, [Jantar Mantar is an observatory](http://www.jantarmantar.org/learn/index.html) consisting of architectural structures built to measure the passage of time and the movement of planets. It is [located in](http://www.jantarmantar.org/learn/observatories/sites/index.html) four sites at Delhi, Jaipur, Ujjain and Varanasi. It was constructed by the Maharaja Jai Singh II of Jaipur, in the 18th century. Laasya was quite excited to see all the interestingly shaped structures, thrilled to learn they were used for time-keeping and astronomy, and quickly bored upon any attempt at explaining how they worked. For that I blame my own incomplete understanding and hand waving explanations. After a leisurely time at Jantar Mantar, spent walking the lawns, checking out the larger than life astronomy instruments, sipping water, eating nuts and spotting squirrels, we decided it was time to go.
 
 <figure>
+  <div style="display:block;margin-left:auto;margin-right:auto">
    <a href="/assets/images/jantar-mantar.jpg">
       <img src="/assets/images/jantar-mantar-640.jpg" alt="Laasya looking at a Jantar Mantar instrument">
    </a>
-   <figcaption>Captivating instrumentation.</figcaption>
+  </div>
+  <figcaption>Instrumentation so captivating, you can't help staring!</figcaption>
 </figure>
 
 It was about 2 kms to our hotel, and I decided we should walk. With constant encouragement and flattery about our walking stamina, we quickly put 1 km under our belt. It was an early evening in October and still quite hot. But the air was not terrible by the standards of urban India that I have experienced in Mumbai or Bengaluru. There were plenty of people about, of different means and grooming. There were decent sidewalks and the shade of trees from time to time. And then there was the smell — a kind of dry, hot smell, enhanced by one or two sellers of roasted peanuts. Each city has its sensory identity, right down to how it smells — Mumbai with its musty, warm sea air, Bengaluru with its colder, leafy, polleny smell, and now Delhi, hot and dry. Anyway at 1 km, we sought refuge in a coffee shop and shared a beverage with lots of crushed ice in it, before crushing the last kilometer.
