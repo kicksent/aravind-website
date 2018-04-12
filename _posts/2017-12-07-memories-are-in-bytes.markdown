@@ -9,11 +9,7 @@ excerpt: "We can record our lives and our knowledge with ever finer fidelity, an
 description: "We can record our lives and our knowledge with ever finer fidelity, and we can replay them. We see digital content as our appendage — something that should be always available to us, without which we would feel crippled. But it is not without consequences. Music used to be an activity in the foreground, now it plays while multi-task, hardly registering. Text is not far behind. We scroll through several lines of text, without absorbing what they said. The problem lies in ubiquity. Constraints also served as cues which have disappeared leading to memories not sticking. And while we can replay our lives and our knowledge, we still have to rely on our brains to make us feel the associated feelings."
 og_image: "/assets/images/signals-640.jpg"
 ---
-<figure>
-   <a href="/assets/images/signals.jpg">
-      <img src="/assets/images/signals-640.jpg" alt="Lots of scrambled signals">
-   </a>
-</figure>
+{% include figure class="centered" url="signals.jpg" image_path="signals-640.jpg" alt="Lots of scrambled signals" %}
 
 Time is [unidirectional](https://en.wikipedia.org/wiki/Arrow_of_time) or [if not](https://www.quantamagazine.org/a-debate-over-the-physics-of-time-20160719/), at least we [feel it is](https://www.scientificamerican.com/article/your-brain-has-two-clocks/). This gives rise to memories since we can reconstruct the past but not the future. If memories were merely information, it should be possible, in principle, to digitise and preserve them completely. Indeed, there can be no doubt that digitisation has had a significant impact on memories and also on the business of memorising. We have gained the ability to record our lives and our knowledge with ever finer fidelity, whether in the form of text, audio, pictures, video or a more immersive sensory experience. We can replay those artifacts. But pending the digitisation and playback of our emotions, we still have to rely on our brains to make us feel how we felt. I [wrote earlier]({{ site.baseurl }}{% post_url 2017-11-16-memories-mind-palaces-music %}) that music had the ability to help us remember more intimately, and this had to do with the [deep connection](http://www.bbc.com/culture/story/20140417-why-does-music-evoke-memories) between music and memories.
 

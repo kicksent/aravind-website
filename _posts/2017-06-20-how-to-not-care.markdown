@@ -9,12 +9,7 @@ excerpt: "It is an advice given often — to not care about what other peopl
 description: "It is an advice given often — to not care about what other people think. It cannot mean that you disregard other opinions completely. Not caring is to care, and then to let it rest. We have to agree to disagree, and accept with empathy that the bearer of the opposing opinion may be inevitably drawn to it owing to their values and experiences. Or we have to accept and adopt the alien opinion and harmonise the ensuing contradictions in our values and beliefs."
 og_image: "/assets/images/handstand-1461105_1920-640.jpg"
 ---
-<figure>
-   <a href="/assets/images/handstand-1461105_1920.jpg">
-      <img src="/assets/images/handstand-1461105_1920-640.jpg" alt="Girl doing a hand-stand in a public place">
-   </a>
-   <figcaption>Picture courtesy of <a href="https://pixabay.com/">Pixabay</a></figcaption>
-</figure>
+{% include figure class="centered" url="handstand-1461105_1920.jpg" image_path="handstand-1461105_1920-640.jpg" alt="Girl doing a hand-stand in a public place" caption="Picture courtesy of [Pixabay](https://pixabay.com/)" %}
 
 It is an advice given often — to not care about what other people think. Indeed being unduly concerned about other people’s opinions can be a real stumbling block in any endeavour, a real dampener in any situation. But what does it really mean to not care?
 

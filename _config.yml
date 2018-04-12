@@ -263,6 +263,9 @@ compress_html:
 # Taxonomy links
 taxonomy: false
 
+# Image assets folder
+imagefolder: "/assets/images/"
+
 # Build settings
 defaults:
   # _posts

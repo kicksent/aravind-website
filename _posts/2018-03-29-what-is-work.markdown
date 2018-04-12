@@ -9,12 +9,7 @@ excerpt: "We use the word “work” quite freely and frequently in our conversa
 description: "We use the word “work” quite freely and frequently in our conversations. But it is probably worth asking and contemplating, what work is exactly? We need to work. We need to be seen as working. We need to sweat. We need the fruits and also the fulfilment. Work defines us. It is our love of labour as much as it is a labour of love."
 og_image: "/assets/images/dimensions-of-work-640.jpg"
 ---
-<figure>
-   <a href="/assets/images/dimensions-of-work.jpg">
-      <img src="/assets/images/dimensions-of-work-640.jpg" alt="Symbols denoting different dimensions of work">
-   </a>
-   <figcaption>Different dimensions of work (Illustration courtesy of Aravind Iyer)</figcaption>
-</figure>
+{% include figure class="centered" url="dimensions-of-work.jpg" image_path="dimensions-of-work-640.jpg" alt="Symbols denoting different dimensions of work" caption="Different dimensions of work (Illustration courtesy of Aravind Iyer)" %}
 
 We use the word “work” quite freely and frequently in our conversations. We use it without thinking and most of the time, we understand what it means. But we also exhibit some confusion in the exact meaning we attach to it. We aspire [to do our best work](https://crew.co/blog/how-to-do-your-best-work/) and yet we desire [work-life balance](https://www.forbes.com/sites/jessicalutz/2018/01/11/its-time-to-kill-the-fantasy-that-is-work-life-balance/). We [value leisure](https://www.washingtonpost.com/news/in-theory/wp/2016/08/24/in-defense-of-leisure/), but we regard [sloth as sinful](https://www.psychologytoday.com/us/blog/hide-and-seek/201410/the-psychology-laziness). We seek automation so that we may work more efficiently. Yet we talk about [a post-work world](https://www.theguardian.com/news/2018/jan/19/post-work-the-radical-idea-of-a-world-without-jobs), and are none the wiser how we should or might cope in it. Some of us have a hobby, but only a few of us are [passionate in its pursuit](https://psychologyforphotographers.com/how-to-live-your-passion-stop-confusing-hobbies-with-passions). I have shared the same confusion about work, writing once of how I took a [sabbatical from work]({{ site.baseurl }}{% post_url 2016-10-03-how-i-came-to-take-sabbatical %}) and later of how a [sabbatical is work]({{ site.baseurl }}{% post_url 2017-01-11-lessons-from-sabbatical %}), and yet again when I asked the reader to [get to work]({{ site.baseurl }}{% post_url 2017-02-02-ambivalence-of-loneliness %}), as an antidote to loneliness. In this background, it is probably worth asking and contemplating, what work is exactly?
 
@@ -44,12 +39,7 @@ Work is all these things, and the work we do needs to fulfil all these different
 
 My own experience during my sabbatical made me confront what exactly work was. I started my sabbatical because my work (or source of monetary reward) had come to dominate my life. I wanted it to give me everything that work can give us, while unwittingly ignoring other work that I needed to do in my life. But during my sabbatical, I came to question the notion of work even more. Being of a privileged background, I had scant chores that I needed to do myself. Despite the quantified and rationalised loss of livelihood, I was conscious of not earning. My efforts were diffused as I had plenty of interests to pursue, and whether my work was valuable or not, was just that - a question. Despite my brave posture that a sabbatical was also work, it was easy enough to wonder whether I was working or just in sloth. Thinking about work in these simple terms helped me overcome my doubts and allowed me to really work.
 
-<figure>
-   <a href="/assets/images/dimensions-of-work-labelled.jpg">
-      <img src="/assets/images/dimensions-of-work-labelled-640.jpg" alt="Symbols denoting different dimensions of work">
-   </a>
-   <figcaption>Different dimensions of work (Illustration courtesy of Aravind Iyer)</figcaption>
-</figure>
+{% include figure class="centered" url="dimensions-of-work-labelled.jpg" image_path="dimensions-of-work-labelled-640.jpg" alt="Symbols denoting different dimensions of work" caption="Different dimensions of work (Illustration courtesy of Aravind Iyer)" %}
 
 The dimensions of work may read like a platitude, and we may well laugh at its obviousness. Yet, confusion about the nature of work is a distraction and a deterrent to work. Reflect on the times when you have been able to exert fully. I bet you didn't harbour any confusions about the work you were exerting for. Now, think of those times when doubt and hesitation have impaired you from being productive. It's easier said than done, but by accepting that work needs to fulfil these different kinds of needs, we can come to terms with its specific role and empower ourselves to carry it out.
 

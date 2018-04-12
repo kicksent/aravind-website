@@ -9,38 +9,17 @@ excerpt: "I grew up in Mumbai with nary a want or thought for a car. A senior of
 description: "I grew up in Mumbai with nary a want or thought for a car. A senior of mine from college sent me a picture of him with his car in the US. And the image stuck. In the US, the most remarkable thing you see are the parking lots — stretching out and occupying several-fold more space than the structure they surround. I was going to buy a car sooner rather than later. A car enthusiast is one who revels in the human-machine connection, who understands the feeling of the car as a prosthetic, an extension of your being, with the ability to go anywhere and anytime. But the modern car, a few occupants in a metal cage powered by a fossil fuel making occasional trips is being questioned for whether it is sustainable, safe, efficient and even fun."
 og_image: "/assets/images/car-interior-640.jpg"
 ---
-<figure>
-  <div style="display:block;margin-left:auto;margin-right:auto">
-    <a href="/assets/images/car-interior.jpg">
-      <img src="/assets/images/car-interior-640.jpg" alt="Line drawing of a car interior">
-    </a>
-  </div>
-  <figcaption>At the helm and everywhere to go! (Illustration courtesy of Aravind Iyer)</figcaption>
-</figure>
+{% include figure class="centered" url="car-interior.jpg" image_path="car-interior-640.jpg" alt="Line drawing of a car interior" caption="At the helm and everywhere to go! (Illustration courtesy of Aravind Iyer)" %}
 
 I grew up in Mumbai with nary a want or thought for a car. Anyone who studied or worked in Mumbai, in the 80s and 90s, would know that you could get around wherever you wanted to go, although you would get jostled a bit. Save for a few wee hours between midnight and 4 am, it was possible to get a ride that could get you almost anywhere. Ok, I admit “getting jostled” is a bit of a euphemism for how tightly packed with people, the many of rides of Mumbai can be. Just to manage the physical stress of traveling, you needed to plan your trip and save yourself from the worst of crowds. But for me walking or riding in autorickshaws, taxis, buses and trains were ready options that never felt like they put a crimp on my plans. I had come to not mind the jostling bit too much. In fact, I only enrolled in a driving school to learn to drive, since I had plans to study in the United States.
 
-<figure>
-  <div style="display:block;margin-left:auto;margin-right:auto">
-   <a href="/assets/images/trick-pedals.jpg">
-      <img src="/assets/images/trick-pedals-640.jpg" alt="Line drawing of pedals in a driver training car - student pedals on one side; instructor pedals (clutch and brake) on the opposite side">
-   </a>
-  </div>
-  <figcaption>Trick pedals in the driving school training car — student on the right; instructor on the left (Illustration courtesy of Aravind Iyer)</figcaption>
-</figure>
+{% include figure class="centered" url="trick-pedals.jpg" image_path="trick-pedals-640.jpg" alt="Line drawing of pedals in a driver training car - student pedals on one side; instructor pedals (clutch and brake) on the opposite side" caption="Trick pedals in the driving school training car — student on the right; instructor on the left (Illustration courtesy of Aravind Iyer)" %}
 
 The driving school offered a package deal — 20 sessions of 30 minutes each, covering theory, signages, signals and real-world driving in a car with trick pedals; followed by an escorted visit to the licensing centre, a car to give the driving test in and all the paperwork taken care of. After getting through my initial hiccups, I kind of started liking driving. It was remarkable how you could operate the steering and the pedals and make the car go slow, fast, left or right. I mean this stuff really worked! So I completed my sessions, gave the test, got my driver’s license and that was that. I didn’t drive again for perhaps a year, and went back to walking or riding one of Mumbai’s several rides. Then my plans for higher studies worked out. In that context, a senior of mine from college who had graduated before me sent me a picture of him with his car (incidentally, taken with a film camera and scanned, to give you an idea of the time). And the image stuck.
 
 On my first flight from India to the United States, looking at the birds-eye view, I was struck by one aspect of the contrast between Indian, European and US airports. In India, as you land or take off, you see a dense cluster of buildings and a relatively low density of roadwork. In Europe, the cluster of buildings becomes sparser, and you feel there is a lot more road. In the US, as you approach closer to the ground, the most remarkable thing you see are the parking lots — stretching out and occupying several-fold more space than the structure they surround. Of course, the buildings are sparser and there is a lot of roadway, but really it’s the parking lots that tell you something — the aspiration of personal mobility hand in hand with the relative paucity of public transport. That and the image of my friend with his car, meant that I was going to buy a car sooner rather than later. Sure enough, within a year of arriving in the US, I bought this.
 
-<figure>
-  <div style="display:block;margin-left:auto;margin-right:auto">
-   <a href="/assets/images/1991GeoPrizm.jpg">
-      <img src="/assets/images/1991GeoPrizm-640.jpg" alt="Line drawing of a late 80s Japanese compact car">
-   </a>
-  </div>
-  <figcaption>"My first car! (Illustration courtesy of Aravind Iyer)"</figcaption>
-</figure>
+{% include figure class="centered" url="1991GeoPrizm.jpg" image_path="1991GeoPrizm-640.jpg" alt="Line drawing of a late 80s Japanese compact car" caption="My first car! (Illustration courtesy of Aravind Iyer)" %}
 
 It wasn’t much to look at (although I kind of dig that boxy styling now) and other than air conditioning and power steering it didn’t have any features to speak of. It was less expensive than my laptop, and today it is possible to spend more on a smartphone. It was an A-to-B kind of car then, meant to fulfil the aspiration of personal mobility. But it was not entirely lacking in verve. I drove a fair deal in the US with the car taking me door to door where I wanted, whenever I wanted. I even drove on a number of solo ten hour drives when the situation so demanded, or when I contrived the situation so. Two aspects really struck me — one, how deep a part of the American life getting a license and owning a car was, and two, how disciplined and stress-free it was to drive in the US — both of which were also things that were simply taken for granted but in stark contrast with life in India.
 
@@ -52,14 +31,7 @@ Despite the differences, car enthusiasts abound in India, the US and in many oth
 
 But compromise is not the only thing that is wrong with the car today. Several things are under question. The model of a few occupants in a metal cage powered by a fossil fuel making occasional trips is being questioned for whether it is sustainable, safe, efficient and even fun. What is the right fuel that should power the car? Should humans drive it or should it drive itself? What about the fact that a car is active for under 10% of the time? Should individuals even own the car? We have seen fundamental questions being raised, and radical solutions being tested. It all makes for an uncertain future. As a car enthusiast, I am rather optimistic. By being forced to choose between sport and utility, we will make a better vehicle. Maybe the car would be split cleanly into motorsports and utilitarian transportation, and we would have to let go of the middle ground of what we have come to know as personal mobility. “Door-to-door, efficient, sustainable — please step this way; sporty, edge-of-the-seat, adventure — yep, you too; the rest of you can go home”. But I doubt that there is a simple rite of passage to that or any other future. It will be complicated along the way. Meanwhile, I suggest you fasten your seat-belts and enjoy your rides. I know, I will!
 
-<figure>
-  <div style="display:block;margin-left:auto;margin-right:auto">
-   <a href="/assets/images/2007HondaCivic.jpg">
-      <img src="/assets/images/2007HondaCivic-640.jpg" alt="Line drawing of a modern Japanese compact car">
-   </a>
-  </div>
-  <figcaption>My current ride (Illustration courtesy of Aravind Iyer)</figcaption>
-</figure>
+{% include figure class="centered" url="2007HondaCivic.jpg" image_path="2007HondaCivic-640.jpg" alt="Line drawing of a modern Japanese compact car" caption="My current ride (Illustration courtesy of Aravind Iyer)" %}
 
 **Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
 {: .notice--success}

@@ -1,21 +1,20 @@
 {% assign imagefolder = page.imagefolder | default: site.imagefolder | default: "" %}
 
 {% if include.id %}
-  {% assign gallery = page[include.id] %}
+  {% assign flexgallery = page[include.id] %}
 {% else %}
-  {% assign gallery = page.gallery %}
+  {% assign flexgallery = page.flexgallery %}
 {% endif %}
 
-{% if gallery.size == 2 %}
-  {% assign gallery_layout = 'half' %}
-{% elsif gallery.size >= 3 %}
-  {% assign gallery_layout = 'third' %}
-{% else %}
-  {% assign gallery_layout = '' %}
-{% endif %}
-
-<figure class="{{ gallery_layout }} {{ include.class }}">
-  {% for img in gallery %}
+<figure>
+  <div style="display:flex">
+  {% assign imgCount = 1 %}
+  {% for img in flexgallery %}
+    {% if imgCount >= flexgallery.size or img.end_row == "true" %}
+      <div style="flex:{{ img.aspect }}">
+    {% else %}
+      <div style="flex:{{ img.aspect }}; padding:0 3% 0 0">
+    {% endif %}
     {% if img.url %}
       <a href=
         {% if img.url contains "://" %}
@@ -42,7 +41,14 @@
         {% endif %}
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
+      </div>
+    {% if img.end_row == "true" %}
+      </div>
+      <div style="display:flex">
+    {% endif %}
+    {% assign imgCount = imgCount | plus: 1 %}
   {% endfor %}
+  </div>
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}

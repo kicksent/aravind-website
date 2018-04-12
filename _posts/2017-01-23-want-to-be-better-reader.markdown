@@ -9,12 +9,7 @@ excerpt: "By reading we implicitly bestow a measure of trust in the writer. Mayb
 description: "By reading we implicitly bestow a measure of trust in the writer. Maybe our trust-meter is obsolete. Writing being mightier than a weapon is a notion that humankind has known right from when writing became a thing. And the Internet has amplified the might of writing. But if writing is so potent, then surely it is an act of folly to be a reader without knowing how writing works. Write and empower yourself. The old trust-meter is broken. You need a new one, and it’s called writing."
 og_image: "/assets/images/books-1251734_1920-640.jpg"
 ---
-<figure>
-   <a href="/assets/images/books-1251734_1920.jpg">
-      <img src="/assets/images/books-1251734_1920-640.jpg" alt="A stack of books">
-   </a>
-   <figcaption>Picture courtesy of <a href="https://pixabay.com/">Pixabay</a></figcaption>
-</figure>
+{% include figure class="centered" url="books-1251734_1920.jpg" image_path="books-1251734_1920-640.jpg" alt="A stack of books" caption="Picture courtesy of [Pixabay](https://pixabay.com/)" %}
 
 Speech is what we learn first, but we are taught reading, writing and arithmetic soon after. Between reading and writing, school curricula tend to dwell more on reading than on writing. After all, as students we are learning and a learner is a recipient of teaching, one who is expected to listen and read more than speak and write. But somehow this tends to continue into our adulthood too. We read the news, subject matter relevant to our jobs, instruction manuals, messages from the CEO, political leaders’ speeches, our daily dose of stories from magazines we follow and then some. But unless we are required to write as part of our jobs, we tend to write little or not at all. A relatively small proportion of people produce the bulk of the writings. Why is it then that we write less?
 

@@ -9,11 +9,7 @@ excerpt: "When we try hard to remember, our memories seem to capture us from a d
 description: "When we try hard to remember, our memories seem to capture us from a distance, almost from a third person perspective. But music has a knack of stimulating memories, taking us back to the time and triggering the same emotions we felt. Music can also be used for memorising. The brain holds two kinds of memories, explicit and implicit, and it is the implicit memories which are related to emotion and get triggered by music. But things may be changing dramatically. Today we can record and preserve with the finest fidelity and access with the most immediate ubiquity, both music and our memories. We need to watch how the role of music evolves."
 og_image: "/assets/images/agrasen-ki-baoli-640.jpg"
 ---
-<figure>
-   <a href="/assets/images/agrasen-ki-baoli.jpg">
-      <img src="/assets/images/agrasen-ki-baoli-640.jpg" alt="Agrasen Ki Baoli - an ancient Indian step well in Connaught Palace, New Delhi">
-   </a>
-</figure>
+{% include figure class="centered" url="agrasen-ki-baoli.jpg" image_path="agrasen-ki-baoli-640.jpg" alt="Agrasen Ki Baoli - an ancient Indian step well in Connaught Palace, New Delhi" %}
 
 Time only moves forward. What happened a moment ago, is in the past, and so are your experiences from yesterday, last month or the last decade. This is, of course, obvious. Our understanding of this is reflected nowhere better than in the human desire to travel back in time. Let alone the ability to go back and change the course of past happenings. Just imagine how fascinating it would be if we could even navigate an Atlas of our lives, kind of like we use maps! Swipe left, swipe right, pinch or zoom, to seek and re-live the profound or the mundane moments of our lives, and feel what it was really like. We try to accomplish this through the recollections in our minds as well as supplements in the form of text, audio, pictures or video, but we often fall short. The thing is, when we try to remember, our memories seem to capture us, our activities and our emotions, from a distance, almost from a third person perspective. But there is something which can help us remember more intimately, and that is music.
 

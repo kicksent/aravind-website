@@ -254,6 +254,19 @@ figure {
       width: 100%;
     }
   }
+
+  &.centered {
+    > a,
+    > img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
 }
 
 /* Figure captions */

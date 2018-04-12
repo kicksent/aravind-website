@@ -9,11 +9,7 @@ excerpt: "What is the role of a PhD in society and what of the lack of a signifi
 description: "What is the role of a PhD in society and what of the lack of a significant salary premium over a lower degree? But being an academic is a way of life. An academic is one who is some where between a cynic and a romantic, as skeptical in her rigour to analyse and test, as she is open-minded in proposing a new idea. It is almost a job requirement for an academic to be an auto-didact and teach herself everything she needs. The aspirations of an academic are not determined by the number of zeros at the end of their net worth. They wield power through ideas and not position. Society does need them!"
 og_image: "/assets/images/TheAcademic-640.jpg"
 ---
-<figure>
-   <a href="/assets/images/TheAcademic.jpg">
-      <img src="/assets/images/TheAcademic-640.jpg" alt="Aravind Iyer at graduation">
-   </a>
-</figure>
+{% include figure class="centered" url="TheAcademic.jpg" image_path="TheAcademic-640.jpg" alt="Aravind Iyer at graduation" %}
 
 A correspondent of [The Economist](http://www.economist.com/) wrote an article in 2010, entitled "[The Disposable Academic: Why doing a PhD is often a waste of time](http://www.economist.com/node/17723223)". I myself came across it recently when it was republished a couple of months ago at [Medium](http://medium.com/the-economist/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb) and garnered renewed interest in social media and discussions with friends. Perhaps you should read it, in case you haven't done so before. It is thought-provoking and raises questions about the role of a PhD in society, lack of employment opportunities in the academic domain, the difficulty that PhDs face in crossing over to the industry, and the lack of a significant salary premium over a lower degree. As a PhD myself, the cynical tone of the article did not sit well with me. Naturally, I am tempted to respond.
 
