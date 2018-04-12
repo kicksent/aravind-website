@@ -3,6 +3,8 @@ layout: archive
 permalink: /music-naka/
 title: Music Naka
 author_profile: false
+sidebar:
+  - image: "/assets/images/music-naka-cover.jpg"
 description: "Music makes its best impression when it is shared by a friend over a story. Music is a medium for communicating and stimulating emotions, for conveying the mood, feelings, state of mind and even the sense of identity of the artist, and of the audience too. The stories on this page aim to help you know more about this context behind the music, so that you can connect more deeply with it. It's good seeing you at Music Naka! If you like a story or if you have one to share, please write to me."
 toc: true
 og_image: "/assets/images/music-naka-cover.jpg"

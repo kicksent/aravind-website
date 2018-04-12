@@ -16,11 +16,11 @@ In July 2016, I quit my job at Samsung to take a sabbatical. Although I was doin
 # About this site
 One may say the days of making a personal website have come and then gone. Now, it is almost an anachronism to have a personal website. It certainly wasn't like that the first time I made a personal website, hosted on my college server. As an undergraduate at IIT Bombay, I built and maintained my webpage for about a year from June 2001 to June 2002. Here is a screenshot.
 
-{% include figure caption="The quaint personal website I made in 2001-2002" image_path="/assets/images/aravind-iitb-homepage.jpg" alt="Screenshot of Aravind's old website from 2001-2002" %}
+{% include figure caption="The quaint personal website I made in 2001-2002" image_path="aravind-iitb-homepage.jpg" alt="Screenshot of Aravind's old website from 2001-2002" %}
 
 I made another attempt at a personal website, again hosted on my graduate school server, while I was at Purdue. This time I ran it from around January 2003 until December 2006, and even had it HTML4 compliant! Here is a screenshot.
 
-{% include figure caption="My personal website around May 2006" image_path="/assets/images/aravind-purdue-homepage.jpeg" alt="Screenshot of Aravind's old website from May 2006" %}
+{% include figure caption="My personal website around May 2006" image_path="aravind-purdue-homepage.jpeg" alt="Screenshot of Aravind's old website from May 2006" %}
 
 It was quite a thing to make and maintain personal websites and blogs. In fact, I had an RSS feed full of lots of different people who used to blog with varying frequency and quality. Over time that has changed. The only blogs and websites that have survived are those that have found a focussed speciality and garnered viewership around that. Social media profiles take care of the rest of our needs to be seen and heard, socially and professionally.
 
