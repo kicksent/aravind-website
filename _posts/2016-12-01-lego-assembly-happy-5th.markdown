@@ -83,23 +83,23 @@ Laasya promptly appointed herself as the auditor of the process and was happy to
 We sorted the pieces needed for each mini-project and put them in separate bags, so they won’t get mixed up. We printed a sheet each showing all the pieces and final assembly. Given the simplicity of each model, we thought that would suffice. On the day of the party, I wanted to get all the kids to listen. Very cutely and amazingly, they all sat down obediently to listen to the instructions. We handed out the bag and the printout (of the before and after pictures) to each kid. For the zoo and the tracks, we formed teams of 2–3 kids together to fix it all up.
 
 <figure>
-  <div style="width:35%; margin:0 3% 0 0">
+  <div style="width:35.0623%; margin:0 3% 0 0">
     <a href="/assets/images/lego-assembly-briefing.jpg">
-      <img style="margin:0 0 9% 0" src="/assets/images/lego-assembly-briefing-640.jpg" alt="Aravind briefing the kids to start the Lego Assembly activity" />
+      <img style="margin:0 0 8.5562% 0" src="/assets/images/lego-assembly-briefing-640.jpg" alt="Aravind briefing the kids to start the Lego Assembly activity" />
     </a>
     <a href="/assets/images/lego-assembly-leader-briefing.jpg">
       <img style="margin:0" src="/assets/images/lego-assembly-leader-briefing-640.jpg" alt="Aravind briefing the oldest kid to help and supervise the Lego Assembly activity" />
     </a>
   </div>
-  <div style="width:35%; margin:0 3% 0 0">
+  <div style="width:35.0623%; margin:0 3% 0 0">
     <a href="/assets/images/lego-assembly-in-progress.jpg">
-      <img style="margin:0 0 9% 0" src="/assets/images/lego-assembly-in-progress-640.jpg" alt="Lego Assembly activity in progress" />
+      <img style="margin:0 0 8.5562% 0" src="/assets/images/lego-assembly-in-progress-640.jpg" alt="Lego Assembly activity in progress" />
     </a>
     <a href="/assets/images/lego-assembly-in-progress-2.jpg">
       <img style="margin:0" src="/assets/images/lego-assembly-in-progress-2-640.jpg" alt="Lego Assembly activity in progress" />
     </a>
   </div>
-  <div style="width:23.95%">
+  <div style="width:23.8754%">
     <a href="/assets/images/lego-assembly-almost-finished.jpg">
       <img src="/assets/images/lego-assembly-almost-finished-640.jpg" alt="Lego Assembly activity nearing completion" />
     </a>
