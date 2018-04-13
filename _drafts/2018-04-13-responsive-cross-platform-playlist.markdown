@@ -1,5 +1,5 @@
 ---
-title: "Responsive, Cross-platform Playlist Embedding"
+title: "Responsive, Cross-platform Playlists in Jekyll"
 author: Aravind Iyer
 date: 2018-04-13 09:52:00 +0530
 categories: tech
@@ -53,7 +53,9 @@ That did the trick!
 
 {% include figure class="centered" url="soundsgood-screenshot-2.jpeg" image_path="soundsgood-screenshot-2.jpeg" alt="Soundsgood player with buttons not overlapping one another" %}
 
-Now I have an embedded playlist which stretches to 16:9 when possible, but always maintains a minimum height on narrow screens, so the buttons don't overlap. That concludes how I embedded responsive, cross-platform playlists in Music Naka.
+Now I have an embedded playlist which stretches to 16:9 when possible, but always maintains a minimum height on narrow screens, so the buttons don't overlap.
+
+That concludes how I embedded responsive, cross-platform playlists in Music Naka.
 
 **Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
 {: .notice--success}
