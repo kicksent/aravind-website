@@ -2,10 +2,7 @@
 title: "What is accountability?"
 author: Aravind Iyer
 date: 2018-04-02 16:01:00 +0530
-categories: drafts #only-human
-permalink: /only-human/what-is-accountability/
-sitemap: false
-search: false
+categories: only-human
 header:
    teaser:
 excerpt: 

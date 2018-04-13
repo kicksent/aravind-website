@@ -36,8 +36,8 @@
   </script>
 {% endif %}
 
-{% if page.categories[0] == 'drafts' %}
-  <meta name="robots" content="noindex" />
+{% if page.noindex == true %}
+  <meta name="robots" content="noindex">
 {% endif %}
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->

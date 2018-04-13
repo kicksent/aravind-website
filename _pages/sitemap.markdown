@@ -33,7 +33,7 @@ Here is a list of all the posts and pages from the site. If it is more to your t
   {% endif %}
 {% endunless %}
 {% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" or post-sitemap == false %}
+  {% unless collection.output == false or collection.label == "posts" or post.sitemap == false %}
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}

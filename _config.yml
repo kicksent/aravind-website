@@ -252,6 +252,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Collections - enable a collection for use as drafts
+collections:
+  drafts: 
+    output: true
+    permalink: /:categories/:title/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -279,6 +284,19 @@ defaults:
       comments: true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: drafts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
+      sitemap: false  #To hide from sitemap.xml
+      search: false   #To hide from Lunr site search
+      noindex: true   #To hide from robots and crawlers
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
