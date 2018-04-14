@@ -67,6 +67,10 @@ algolia:
   search_only_api_key    : 5c1ac82194add16945031972f23d08f7 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
+    - _pages/blog.markdown
+    - _pages/home.markdown
+    - _pages/music-naka.markdown
+    - _pages/only-human.markdown
     - _drafts/*.markdown
 
 # SEO Related
