@@ -60,12 +60,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia
+search_provider          : algolia # lunr (default), algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : 5XQCQN167D # YOUR_APPLICATION_ID
+  index_name             : ARAVIND_WEBSITE # YOUR_INDEX_NAME
+  search_only_api_key    : 5c1ac82194add16945031972f23d08f7 # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
+  files_to_exclude:
+    - _drafts/*.markdown
 
 # SEO Related
 google_site_verification :
