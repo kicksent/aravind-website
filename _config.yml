@@ -71,6 +71,7 @@ algolia:
     - _pages/home.markdown
     - _pages/music-naka.markdown
     - _pages/only-human.markdown
+    - _pages/sitemap.markdown
     - _drafts/*.markdown
 
 # SEO Related
@@ -219,6 +220,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-algolia
   - jemoji
 
 # mimic GitHub Pages with --safe
