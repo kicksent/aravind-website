@@ -30,7 +30,7 @@ feature_collections:
   - image_path: /assets/images/blog-cover.jpg
     alt: "Collage of cover images of blog posts"
     title: "Personal Blog"
-    excerpt: 'Here are some stories about an ordinary life and the stuff that happens.'
+    excerpt: 'Sundry observations about events, travels, tech and stuff in an ordinary life.'
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"

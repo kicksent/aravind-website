@@ -14,8 +14,8 @@ Music makes its best impression when it is shared by a friend over a story. Musi
 ## Latest stories
 
 <div class="grid__wrapper">
-  {% assign category = 'music-naka' %}
-  {% assign posts = site.categories[category] %}
+  {% assign collection = 'music-naka' %}
+  {% assign posts = site[collection] | reverse %}
   {% for post in posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}

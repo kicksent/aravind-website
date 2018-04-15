@@ -2,7 +2,7 @@
 title: "Lego Assembly at Happy 5th!"
 author: Aravind Iyer
 date: 2016-12-01 12:57:00 +0530
-categories: personal
+categories: events 
 header:
    teaser: "/assets/images/avantika-laasya-5th-bday-640.jpg"
 

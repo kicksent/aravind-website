@@ -2,7 +2,7 @@
 title: "The Reluctant Photographer"
 author: Aravind Iyer
 date: 2017-12-15 16:02:00 +0530
-categories: personal
+categories: self
 header:
    teaser: "/assets/images/reluctant-photographer-640.jpg"
 

@@ -2,7 +2,7 @@
 title: Human Machine Entanglement
 author: Aravind Iyer
 date: 2018-03-30 13:57:00 +0530
-categories: personal
+categories: art
 header:
   teaser: "/assets/images/hme-cover-640.jpg"
 excerpt: "Almost everything we do seems intended to enrich the digital world. Our photos, our messages, our updates, the news, our work documents, our data, our code, our reports, our slides — they make up our digital life and serve to feed the digital world. Here is some artwork which explores our relationship with the digital world."

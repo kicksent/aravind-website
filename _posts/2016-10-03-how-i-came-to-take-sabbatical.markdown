@@ -2,7 +2,7 @@
 title: "How I came to take a Sabbatical"
 author: Aravind Iyer
 date: 2016-10-03 12:51:00 +0530
-categories: personal
+categories: events
 header:
    teaser: "/assets/images/urban-sunset-640.jpg"
    image: "/assets/images/urban-sunset.jpg"

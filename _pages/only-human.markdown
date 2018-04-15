@@ -13,8 +13,8 @@ We walk, and not just to get around. We feel lonely, and we still want to be lef
 ## Latest Stories
 
 <div class="grid__wrapper">
-  {% assign category = 'only-human' %}
-  {% assign posts = site.categories[category] %}
+  {% assign collection = 'only-human' %}
+  {% assign posts = site[collection] | reverse %}
   {% for post in posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}

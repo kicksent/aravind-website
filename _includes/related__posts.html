@@ -1,14 +1,12 @@
 {% comment %}
-  Generating related posts at the bottom of a page:
-  Create a random sample of posts which have the same category as the current page
+  Create a random sample of posts
   Display 4 of them, making sure to skip a post if it happens to be the same as the current page
 {% endcomment %}
 
 <div class="page__related">
   <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
   <div class="grid__wrapper">
-    {% assign collection = page.categories[0] %}
-    {% assign posts = site[collection] | sample:5 %}
+    {% assign posts = site.posts | sample:5 %}
     {% assign relatedCount = 0 %}
     {% for post in posts %}
       {% if post.url != page.url %}
@@ -21,4 +19,5 @@
     {% endfor %}
   </div>
 </div>
+
 
