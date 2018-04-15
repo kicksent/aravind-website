@@ -13,4 +13,6 @@ gem "jekyll", "~> 3.7"
 gem "minimal-mistakes-jekyll", "~> 4.11"
 
 # Added at 2018-04-15 15:16:09 +0530 by Aravind:
-gem "jekyll-algolia", "~> 1.3"
+group :jekyll_plugins do
+  gem "jekyll-algolia", "~> 1.3"
+end
