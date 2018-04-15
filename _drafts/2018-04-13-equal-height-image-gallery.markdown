@@ -5,33 +5,40 @@ date: 2018-04-13 17:23:00 +0530
 categories: tech
 header:
    teaser:
-excerpt: 
-description: 
+excerpt: "You can include a single image in Jekyll using Kramdown. If you want captions or hyperlinks, you need to use Liquid. Your Jekyll theme may come with includes which layout image grids, but what if the images are all of different aspect ratios. The solution is to use Flexbox with a container div getting the images side-by-side and an aspect-constrained wrapper div for each image. Then you can get an equal height image gallery in Jekyll. Read how I did it."
+description: "You can include a single image in Jekyll using Kramdown. If you want captions or hyperlinks, you need to use Liquid. Your Jekyll theme may come with includes which layout image grids, but what if the images are all of different aspect ratios. The solution is to use Flexbox with a container div getting the images side-by-side and an aspect-constrained wrapper div for each image. Then you can get an equal height image gallery in Jekyll. Read how I did it."
 og_image:
 ---
-If you are building an image-rich webpage using Jekyll, you would know that images and Jekyll don't exactly have a happy relationship. There is the [Kramdown](https://kramdown.gettalong.org/index.html) based [method](https://kramdown.gettalong.org/syntax.html#images) where you include an image like this:
+If you are building an image-rich webpage using Jekyll, you would know that images and Jekyll have a complicated relationship.
 
-{% highlight md %}
+## Markdown method
+There is the [Kramdown](https://kramdown.gettalong.org/index.html) based [method](https://kramdown.gettalong.org/syntax.html#images) where you include an image like this:
+
+```markdown
 ![Alt Text](/assets/images/file.jpg){: .css-class}
-{% endhighlight %}
+```
 
-This is quick to use to include a single image, but restrictive since it doesn't support captions, hyperlinking or multiple images. Or you could use [Liquid](https://shopify.github.io/liquid/) to create a [Jekyll include](https://jekyllrb.com/docs/includes/). For example, you include an image like this:
+This is quick to use to include a single image, but restrictive since it doesn't support captions, hyperlinking or multiple images.
 
-{% highlight liquid %}
+## Liquid method
+Or you could use [Liquid](https://shopify.github.io/liquid/) to create a [Jekyll include](https://jekyllrb.com/docs/includes/). For example, you include an image like this:
+
+```liquid
 {% raw %}{% include image class="css-class" path="/assets/images/file_thumb.jpg" url="/assets/images/file_detailed.jpg" alt="Alt Text" caption="Caption Text" %}{% endraw %}
-{% endhighlight %}
+```
 
 Then you need to provide a file called `image` in the `_includes` folder of your site's root where you provide the logic to parse the include parameters and spit out html code. For example, it could look like this:
 
-{% highlight liquid %}
+```liquid
 {% raw %}<figure class="{{ include.class | default: "" }}">
    <a href="{{ include.url }}">
       <img src="{{ include.path }}" alt="{{ include.alt | default: "" }}">
    </a>
    {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
 </figure>{% endraw %}
-{% endhighlight %}
+```
 
+## Image Grids
 But this is still just one image. Thankfully, the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme I am using, came with a `gallery` include, which works as [explained here](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery). You can check out the source code [here](https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/gallery). Using `gallery` you can create nice looking [image grids]({{ site.baseurl }}{% post_url 2016-12-01-lego-assembly-happy-5th %}) that look like this.
 
 ![A 3x3 image grid using gallery](/assets/images/gallery-image-grid.jpeg){: .align-center}
@@ -40,9 +47,10 @@ This works really well, provided you are only using images that are all of the s
 
 ![3x3 image grid fails for images with unequal aspect ratios](/assets/images/gallery-grid-fail.jpeg){: .align-center}
 
+## Flexible Image Grids
 It proved a bit hard to find a solution. But with the right search keywords, I came across [this solution](https://kartikprabhu.com/articles/equal-height-images-flexbox) which uses the [Flexbox layout style](https://www.w3schools.com/css/css3_flexbox.asp). Using the same idea, I wrote a `flexgallery` include which I could use to height-align the above grid. You can check the source code [here](https://github.com/iyeraravind/aravind-website/blob/master/_includes/flexgallery). But here is a prototype version of `flexgallery`: 
 
-{% highlight html %}
+```html
 {% raw %}<figure>
   <div style="display:flex">
   {% for img in flexgallery %}
@@ -55,7 +63,7 @@ It proved a bit hard to find a solution. But with the right search keywords, I c
   </div>
   <figcaption>{{ include.caption }}</figcaption>
 </figure>{% endraw %}
-{% endhighlight %}
+```
 
 The `display:flex` in the container `div` gets the images to sit side-by-side. The `flex:img.aspect` in the inner `div`'s restricts their aspect ratios to tightly wrap the images while maintaining the same height. And this was [the result]({{ site.baseurl }}{% post_url 2017-12-15-reluctant-photographer %}) on using it!
 
