@@ -26,6 +26,28 @@ figure {
       width: 100%;
     }
   }
+
+  &.half {
+    > a,
+    > img {
+      width: calc(50% - 0.5em);
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+
+  &.third {
+    > a,
+    > img {
+      width: calc(33.3333% - 0.5em);
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
 }
 
 /* Sidebar: remove sticky behavior; custom images should not be too wide*/
@@ -262,3 +284,9 @@ figure {
   }
 }
 
+/* Archive excerpt in sans-serif */
+
+.archive__item-excerpt {
+  color: $muted-text-color;
+  font-family: $sans-serif;
+}
