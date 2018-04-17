@@ -18,7 +18,7 @@ There is the [Kramdown](https://kramdown.gettalong.org/index.html) based [method
 ![Alt Text](/assets/images/file.jpg){: .css-class}
 ```
 
-This is quick to use to include a single image, but restrictive since it doesn't support captions, hyperlinking or multiple images.
+This is quick to use to include a single image, but restrictive since it doesn't support captions or multiple images.
 
 ## Liquid method
 Or you could use [Liquid](https://shopify.github.io/liquid/) to create a [Jekyll include](https://jekyllrb.com/docs/includes/). For example, you include an image like this:

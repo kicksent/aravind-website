@@ -4,17 +4,19 @@ author: Aravind Iyer
 date: 2018-04-16 14:05:00 +0530
 categories: tech
 header:
-   teaser: 
+   teaser: "/assets/images/site-on-screens-640.jpg"
 excerpt: 
 description:
-og_image: 
+og_image: "/assets/images/site-on-screens-640.jpg" 
 ---
-I love writing. I started writing when I found that I was constantly trying to work out all sorts of things in my head alone, and becoming all tangled up. I wrote at [Medium](https://medium.com/@.aravindiyer) and also on [LinkedIn](https://www.linkedin.com/in/aravindiyer/). But while I intend to continue doing so, I felt like I needed my own little corner.
+{% include figure class="centered" url="site-on-screens.jpg" image_path="site-on-screens-640.jpg" alt="Website screenshots on mobile, laptop and tablet" caption="Website screenshots on mobile, laptop and tablet." %}
 
-It was driven by feeling, but the sense of space that the idea of having my own website evoked, had me convinced. I was going to make my own website!
+I love writing. I started writing when I found that I was constantly trying to work out all sorts of things in my head alone, and becoming all tangled up. I wrote at [Medium](https://medium.com/@.aravindiyer) and also on [LinkedIn](https://www.linkedin.com/in/aravindiyer/). While I intend to continue doing so, I felt like I needed my own little corner.
+
+Maybe it was driven by feeling, but the sense of space that the idea of having my own website evoked, had me convinced. I was going to make my own website!
 
 ## Platform
-I just thought [WordPress](https://wordpress.org/) should be the tool of choice because *everybody* talks about it, and 30% of the web uses it! So I started looking around for WordPress themes and for hosting. Then my brother told me about [Jekyll](https://jekyllrb.com/) and how if you create your Jekyll repository on [Github](https://github.com/), you could host your website for free on [Github Pages](https://pages.github.com/). I looked at a few Jekyll themes and I came across [Minimal Mistakes]((https://mmistakes.github.io/minimal-mistakes/)) which appealed to me with its clean and understated look. I thought, 'ok, let's go!'
+I thought [WordPress](https://wordpress.org/) should be my tool of choice because *everybody* talks about it, and 30% of the web uses it! So I started looking around for WordPress themes and for hosting. Then my brother told me about [Jekyll](https://jekyllrb.com/) and how if you create your Jekyll repository on [Github](https://github.com/), you could host your website for free on [Github Pages](https://pages.github.com/). I looked at a few Jekyll themes and I came across [Minimal Mistakes]((https://mmistakes.github.io/minimal-mistakes/)) which appealed to me with its clean and understated look. I thought, 'ok, let's go!'
 
 At this point, you may ask: can *anyone* use Jekyll, especially with zero or limited development experience? Well, it would be difficult, although Jekyll [isn't only for developers](http://romain.pechayre.me/blog/2014/07/31/jekyll-is-not-only-for-developers/). Plus there are tools like [Prose](http://prose.io/#about) (and [others](https://github.com/planetjekyll/awesome-jekyll-editors)) which provide an in-browser editing environment for Jekyll. So, go on, give it a go!
 
@@ -46,13 +48,13 @@ Now, you can create a new Jekyll website using `jekyll new my-website`. For addi
 ```shell
 $ mkdir aravind-website
 $ cd aravind-website
-$ # Initialise a Gemfile
+# Initialise a Gemfile
 $ bundle init
-$ # Add Jekyll
+# Add Jekyll
 $ bundle add jekyll
-$ # Add Minimal Mistakes theme
+# Add Minimal Mistakes theme
 $ bundle add minimal-mistakes-jekyll
-$ # Install gems and dependencies
+# Install gems and dependencies
 $ bundle install
 ```
 
@@ -68,28 +70,100 @@ aravind-website
 ├── _pages                  # Pages controlling site structure and navigation
 │   ├── 404.markdown        # Custom 404 page
 │   ├── about.markdown      # Basic about page
-│   ├── home.markdown       # Site homepage
+│   └── home.markdown       # Site homepage
 ├── _posts                  # All the posts go here!
-├── assets                  
-│   ├── icons               # Site icons/logos/etc
-│   └── images              # Pictures/illustrations used for posts and pages
+└── assets                  
+    ├── icons               # Site icons/logos/etc
+    └── images              # Pictures/illustrations used for posts and pages
 ```
 
+## Connecting to Github
+I am not such a disciplined user of [git](https://git-scm.com/). So I played around a bit on my Mac, before it dawned on me that I need to use git. And so I did. If you are hosting on Github Pages, then you need to create a repository on Github with the name `username.github.io`. Otherwise, it can be anything. In my case, it was `aravind-website`. Then, you can do the following:
+
+```shell
+$ cd aravind-website
+# Initialise git and add all (or relevant) files
+$ git init
+$ git add --all
+# Commit and add a description 
+$ git commit -m "First commit" # Or any other message you like!
+# Connect your Github repository at USERNAME/REPONAME and push your files
+$ git remote add origin https://github.com/iyeraravind/aravind-website
+$ git push -u origin master
+```
+
+If you created your repository on Github before actually doing any work on your computer, congratulations! Just do the following instead:
+
+```shell
+$ git clone https://github.com/USERNAME/REPONAME
+$ cd REPONAME
+# Start working now!
+# Use git add and git commit to save your work.
+# Use git push to synchronise with Github.
+```
+
+It's a good idea to create a `.gitignore` file to exclude unnecessary files from version control. Here is a [good example](https://gist.github.com/bradonomics/cf5984b6799da7fdfafd).
+
 ## Site design and content
-Three sections with land pages; home page links to them and nav bar also links to them; filled about page, terms of use page.
+Phew! With all the admin stuff out of the way, I was ready to think about my website organisation. I divided my writings into three categories: [Music Naka]({{ site.baseurl }}{% link _pages/music-naka.markdown %}), [Only Human]({{ site.baseurl }}{% link _pages/only-human.markdown %}) and [Blog]({{ site.baseurl }}{% link _pages/blog.markdown %}), with a landing page for each. I used a [splash](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout) layout for my home page with links to the three categories in a [feature row](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#feature-row). I also added links to the three categories, an [about]({{ site.baseurl }}{% link _pages/about.markdown %}) page and a [terms of use]({{ site.baseurl }}{% link _pages/terms.markdown %}) page to the [masthead](https://mmistakes.github.io/minimal-mistakes/docs/navigation/#masthead). Finally, since I wanted the next and previous links at the bottom of each post to stay within the category, I used the Jekyll [collections](https://jekyllrb.com/docs/collections/) feature for Music Naka and Only Human, while everything in Blog went into `_posts`. This is what I ended up with:
 
-Pulled content from Medium and LinkedIn
+```shell
+aravind-website
+├── _music-naka               # All music-naka articles go here
+├── _only-human               # All only-human articles go here
+├── _pages                    # Pages controlling site structure/navigation
+│   ├── 404.markdown          # Custom 404 page
+│   ├── about.markdown        # About page
+│   ├── blog.markdown         # Landing page for blog posts
+│   ├── home.markdown         # Site homepage
+│   ├── music-naka.markdown   # Landing page for music-naka collection
+│   ├── only-human.markdown   # Landing page for only-human collection
+│   └── terms.markdown        # Terms of use page
+└── _posts                    # All blog posts go here
+```
 
-Use copy-to-markdown and then edit further
-
-Music Naka and Only Human as collections; rest as posts
+Then I started pulling my content from Medium and LinkedIn. An easy way is to use [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/) and then edit further.
 
 ## Customisation
-For customising the theme, the best way is to create `_includes` and `_layouts` which contain files which override the default files of the theme. For instance, I edited `masthead.html` to insert the site logo.
+It is possible that a Jekyll theme is not able to provide *everything* you need, in *exactly* the way you want. After all, the interest of the theme maker is generality, while your use-cases might be quite specialised.
 
-Link to flexgallery, video, related posts.
+Jekyll themes provide a bunch of useful [layouts and includes](https://jekyllrb.com/docs/themes/#layouts-and-includes). For customising page layouts or for defining your own includes, the best way is to use folders named `_includes` and `_layouts` in your site repository. If you have include or layout files with the same filename as that used in the theme, then Jekyll will use the versions in your own `_includes` and `_layouts` folders instead of the theme assets. For example:
 
-For customising CSS and fonts, I did the following: `assets/css/main.scss` exports `fontconfig.scss`, then minimal mistakes, then `custom.scss`.
+```shell
+aravind-website
+├── _includes
+│   ├── flexgallery      # Check [here]({{ site.baseurl }}{% post_url 2018-04-13-equal-height-image-gallery %})
+│   ├── head
+│   │   └── custom.html
+│   ├── masthead.html
+│   ├── related.html
+│   └── video
+└── _layouts
+    └── draft.html
+```
+
+Here, for instance, I edited `masthead.html` to insert the site logo and `head/custom.html` to add site favicons.
+
+For customising CSS and fonts, I created a main CSS file `main.scss`, added my font settings in `fontconfig.scss` and my CSS customisations in `custom.scss`, at the following paths:
+
+```shell
+aravind-website
+├── _sass
+│   ├── custom.scss
+│   └── fontconfig.scss
+└── assets
+    └── css
+        └── main.scss
+```
+
+Then I added the following lines to `main.scss`:
+
+```scss
+@import "fontconfig";
+@import "minimal-mistakes/skins/{% raw %}{{ site.minimal_mistakes_skin | default: 'default' }}{% endraw %}"; 
+@import "minimal-mistakes"; 
+@import "custom";
+```
 
 For drafts, I used Jekyll collection - link.
 
