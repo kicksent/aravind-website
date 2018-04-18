@@ -105,7 +105,18 @@ $ cd REPONAME
 It's a good idea to create a `.gitignore` file to exclude unnecessary files from version control. Here is a [good example](https://gist.github.com/bradonomics/cf5984b6799da7fdfafd).
 
 ## Site design and content
-Phew! With all the admin stuff out of the way, I was ready to think about my website organisation. I divided my writings into three categories: [Music Naka]({{ site.baseurl }}{% link _pages/music-naka.markdown %}), [Only Human]({{ site.baseurl }}{% link _pages/only-human.markdown %}) and [Blog]({{ site.baseurl }}{% link _pages/blog.markdown %}), with a landing page for each. I used a [splash](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout) layout for my home page with links to the three categories in a [feature row](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#feature-row). I also added links to the three categories, an [about]({{ site.baseurl }}{% link _pages/about.markdown %}) page and a [terms of use]({{ site.baseurl }}{% link _pages/terms.markdown %}) page to the [masthead](https://mmistakes.github.io/minimal-mistakes/docs/navigation/#masthead). Finally, since I wanted the next and previous links at the bottom of each post to stay within the category, I used the Jekyll [collections](https://jekyllrb.com/docs/collections/) feature for Music Naka and Only Human, while everything in Blog went into `_posts`. This is what I ended up with:
+Phew! With all the admin stuff out of the way, I was ready to think about my website organisation. I divided my writings into three categories: [Music Naka]({{ site.baseurl }}{% link _pages/music-naka.markdown %}), [Only Human]({{ site.baseurl }}{% link _pages/only-human.markdown %}) and [Blog]({{ site.baseurl }}{% link _pages/blog.markdown %}), with a landing page for each. I featured the three categories on my home page, and added links to them, an [about]({{ site.baseurl }}{% link _pages/about.markdown %}) page and a [terms of use]({{ site.baseurl }}{% link _pages/terms.markdown %}) page to the top. Since I wanted the next and previous links at the bottom of each post to stay within the category, I used the Jekyll [collections](https://jekyllrb.com/docs/collections/) feature for Music Naka and Only Human, which meant creating folders `_music-naka` and `_only-human` and adding the following to `_config.yml`:
+
+```yaml
+collections:
+  music-naka:
+    output: true
+    permalink: /:categories/:title/
+  only-human:
+    output: true
+    permalink: /:categories/:title/
+```
+The rest of the posts categorised under Blog, went into `_posts`. This is what I ended up with:
 
 ```shell
 aravind-website
@@ -132,17 +143,17 @@ Jekyll themes provide a bunch of useful [layouts and includes](https://jekyllrb.
 ```shell
 aravind-website
 ├── _includes
-│   ├── flexgallery      # Check [here]({{ site.baseurl }}{% post_url 2018-04-13-equal-height-image-gallery %})
+│   ├── flexgallery      # Equal height grid of images with different aspect ratios 
 │   ├── head
-│   │   └── custom.html
-│   ├── masthead.html
-│   ├── related.html
-│   └── video
+│   │   └── custom.html  # Customised to add favicons and no-index tags
+│   ├── masthead.html    # Customised to add site logo
+│   ├── related.html     # Customised to suggest a sample of posts from same collection
+│   └── video            # Added support for Soundsgood playlist embedding
 └── _layouts
-    └── draft.html
+    └── draft.html       # Layout for draft posts
 ```
 
-Here, for instance, I edited `masthead.html` to insert the site logo and `head/custom.html` to add site favicons.
+If it interests you, you can read about how I set up [equal height image grids]({{ site.baseurl }}{% post_url 2018-04-13-equal-height-image-gallery %}), [playlist embedding]({{ site.baseurl }}{% post_url 2018-04-13-responsive-cross-platform-playlist %}) and [public drafts]({{ site.baseurl }}{ post_url 2018-04-13-jekyll-drafts-shareable-links %}).
 
 For customising CSS and fonts, I created a main CSS file `main.scss`, added my font settings in `fontconfig.scss` and my CSS customisations in `custom.scss`, at the following paths:
 
@@ -165,22 +176,17 @@ Then I added the following lines to `main.scss`:
 @import "custom";
 ```
 
-For drafts, I used Jekyll collection - link.
-
-## Analytics and SEO
-Bing and Google site verification.
-
-Google Analytics setup
-
-Favicon
-
-Open graph images and descriptions for each post/page; alts for each image
-
 ## Miscellaneous
-Site search using Algolia
+Additionally, I completed the following:
+1. Site verification with [Bing](https://www.bing.com/webmaster/help/how-to-verify-ownership-of-your-site-afcfefc6) and [Google](https://support.google.com/analytics/answer/1142414?hl=en).
+2. Set up [Google Analytics](https://analytics.google.com/)
+3. Site logo and [favicon](https://realfavicongenerator.net/)
+4. Open graph image and excerpt for every page and post. Check if your site and its pages preview correctly on [Twitter](https://cards-dev.twitter.com/validator) and [Facebook](https://developers.facebook.com/tools/debug/sharing/).
+5. Site search using [Algolia](https://www.algolia.com/). Get a free [community plan](https://www.algolia.com/users/sign_up/hacker) with Algolia.
+6. Hosting on [Netlify](https://www.netlify.com/). Read how to deploy from a [Github repository](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) and how to deploy [Algolia on Netlify](https://community.algolia.com/jekyll-algolia/netlify.html).
+7. Comment hosting using [Disqus](https://disqus.com/) and Playlist embedding using [Soundsgood](https://soundsgood.co/).
 
-Hosting using Netlify
+So there you have it. A number of different steps to complete, but now I have my little corner. It's nice seeing you here. Let me know what you think!
 
-Comments using Disqus
-
-Playlists from Soundsgood
+**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more! 
+{: .notice--success}
