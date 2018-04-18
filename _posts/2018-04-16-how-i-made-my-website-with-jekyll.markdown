@@ -153,7 +153,7 @@ aravind-website
     └── draft.html       # Layout for draft posts
 ```
 
-If it interests you, you can read about how I set up [equal height image grids]({{ site.baseurl }}{% post_url 2018-04-13-equal-height-image-gallery %}), [playlist embedding]({{ site.baseurl }}{% post_url 2018-04-13-responsive-cross-platform-playlist %}), [public drafts]({{ site.baseurl }}{% post_url 2018-04-13-jekyll-drafts-shareable-links %}) and [related posts]({{ site.baseurl }}{% link _drafts/2018-04-16-yet-another-solution-related-posts-jekyll.markdown %}).
+If it interests you, you can read about how I set up [equal height image grids]({{ site.baseurl }}{% post_url 2018-04-13-equal-height-image-gallery %}), [playlist embedding]({{ site.baseurl }}{% post_url 2018-04-13-responsive-cross-platform-playlist %}), [public drafts]({{ site.baseurl }}{% post_url 2018-04-13-jekyll-drafts-shareable-links %}) and [related posts]({{ site.baseurl }}{% post_url 2018-04-16-yet-another-solution-related-posts-jekyll %}).
 
 For customising CSS and fonts, I created a main CSS file `main.scss`, added my font settings in `fontconfig.scss` and my CSS customisations in `custom.scss`, at the following paths:
 
