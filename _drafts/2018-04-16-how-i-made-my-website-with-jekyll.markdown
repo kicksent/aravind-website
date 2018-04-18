@@ -18,10 +18,10 @@ Maybe it was driven by feeling, but the sense of space that the idea of having m
 ## Platform
 I thought [WordPress](https://wordpress.org/) should be my tool of choice because *everybody* talks about it, and 30% of the web uses it! So I started looking around for WordPress themes and for hosting. Then my brother told me about [Jekyll](https://jekyllrb.com/) and how if you create your Jekyll repository on [Github](https://github.com/), you could host your website for free on [Github Pages](https://pages.github.com/). I looked at a few Jekyll themes and I came across [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) which appealed to me with its clean and understated look. I thought, 'ok, let's go!'
 
-At this point, you may ask: can *anyone* use Jekyll, especially with zero or limited development experience? Well, it would be difficult, although Jekyll [isn't only for developers](http://romain.pechayre.me/blog/2014/07/31/jekyll-is-not-only-for-developers/). Plus there are tools like [Prose](http://prose.io/#about) (and [others](https://github.com/planetjekyll/awesome-jekyll-editors)) which provide an in-browser editing environment for Jekyll. So, go on, give it a go!
+At this point, I need to say that Jekyll isn't for everyone. If you have zero or limited development experience, then using Jekyll would present quite a steep learning curve. There are ways in which you can reduce your need to use programming tools - for example, here's how you can [add/edit posts](http://romain.pechayre.me/blog/2014/07/31/jekyll-is-not-only-for-developers/) just using Github's web interface and buttons. Plus, there are tools like [Prose](http://prose.io/#about) (and [others](https://github.com/planetjekyll/awesome-jekyll-editors)) which provide an in-browser editing environment for Jekyll. But, you may find [WordPress](https://wordpress.com/) or [Medium](https://medium.com/) easier.
 
 ## Getting Started
-Jekyll is pretty easy to [install](https://jekyllrb.com/docs/installation/), if you already have a development setup. Jekyll needs [Ruby](https://www.ruby-lang.org/en/downloads/) and [RubyGems](https://rubygems.org/pages/download). On my Mac, these were already available:
+Jekyll is pretty easy to [install](https://jekyllrb.com/docs/installation/), if you already have a development setup. Jekyll needs [Ruby](https://www.ruby-lang.org/en/downloads/) and [RubyGems](https://rubygems.org/pages/download). On my Mac, these were already available. You can check on your terminal like this:
 
 ```shell
 $ ruby -v
@@ -30,7 +30,7 @@ $ gem -v
 2.7.6
 ```
 
-But I went ahead and installed [rbenv](https://github.com/rbenv/rbenv) and then Jekyll. Rbenv allows management of multiple Ruby versions, so you can ensure faster builds or that nothing breaks, when you build your site on [Github Pages](https://pages.github.com/versions/) or [Netlify](https://www.netlify.com/docs/#ruby). Since I already had [Homebrew](https://brew.sh/), this was easy enough:
+But I went ahead and installed [rbenv](https://github.com/rbenv/rbenv) and then Jekyll. Rbenv allows management of multiple Ruby versions. This can help with faster builds or ensuring nothing breaks, when you build your site on [Github Pages](https://pages.github.com/versions/) or [Netlify](https://www.netlify.com/docs/#ruby), which may use other versions of Ruby. Since I already had [Homebrew](https://brew.sh/) installed, this was easy enough:
 
 ```shell
 # Install rbenv and setup shell integration
@@ -43,7 +43,7 @@ $ gem install bundler jekyll
 ```
 
 ## Project Organisation
-Now, you can create a new Jekyll website using `jekyll new my-website`. For adding the Minimal Mistakes theme, here is a [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). But after playing around a bit, this is what I finally did:
+With that done, you can create a new Jekyll website using `jekyll new my-website`. For adding the Minimal Mistakes theme, here is a [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). But after playing around a bit, this is what I finally did:
 
 ```shell
 $ mkdir aravind-website
@@ -58,7 +58,7 @@ $ bundle add minimal-mistakes-jekyll
 $ bundle install
 ```
 
-This created a `Gemfile` for my project and I had an empty project with everything installed. Following the [directory structure](https://jekyllrb.com/docs/structure/) specified by Jekyll and the [navigation documentation](https://mmistakes.github.io/minimal-mistakes/docs/navigation/) specified by Minimal Mistakes, I created the following:
+This created a `Gemfile` for my project and I had an empty project with everything installed. As per the [directory structure](https://jekyllrb.com/docs/structure/) specified by Jekyll, and the [navigation documentation](https://mmistakes.github.io/minimal-mistakes/docs/navigation/) specified by Minimal Mistakes, I created the following:
 
 ```shell
 aravind-website
@@ -105,7 +105,7 @@ $ cd REPONAME
 It's a good idea to create a `.gitignore` file to exclude unnecessary files from version control. Here is a [good example](https://gist.github.com/bradonomics/cf5984b6799da7fdfafd).
 
 ## Site design and content
-Phew! With all the admin stuff out of the way, I was ready to think about my website organisation. I divided my writings into three categories: [Music Naka]({{ site.baseurl }}{% link _pages/music-naka.markdown %}), [Only Human]({{ site.baseurl }}{% link _pages/only-human.markdown %}) and [Blog]({{ site.baseurl }}{% link _pages/blog.markdown %}), with a landing page for each. I featured the three categories on my home page, and added links to them, an [about]({{ site.baseurl }}{% link _pages/about.markdown %}) page and a [terms of use]({{ site.baseurl }}{% link _pages/terms.markdown %}) page to the top. Since I wanted the next and previous links at the bottom of each post to stay within the category, I used the Jekyll [collections](https://jekyllrb.com/docs/collections/) feature for Music Naka and Only Human, which meant creating folders `_music-naka` and `_only-human` and adding the following to `_config.yml`:
+Phew! With all the admin stuff out of the way, I was ready to think about my website organisation. I divided my writings into three categories: [Music Naka]({{ site.baseurl }}{% link _pages/music-naka.markdown %}), [Only Human]({{ site.baseurl }}{% link _pages/only-human.markdown %}) and [Blog]({{ site.baseurl }}{% link _pages/blog.markdown %}), with a landing page for each. I featured the three categories on my home page, and added links to them, an [about]({{ site.baseurl }}{% link _pages/about.markdown %}) page and a [terms of use]({{ site.baseurl }}{% link _pages/terms.markdown %}) page to the top. Since I wanted the next and previous links at the bottom of each post to stay within the category, I used the Jekyll [collections](https://jekyllrb.com/docs/collections/) feature for Music Naka and Only Human. This meant creating folders `_music-naka` and `_only-human` and adding the following to `_config.yml`:
 
 ```yaml
 collections:
@@ -153,7 +153,7 @@ aravind-website
     └── draft.html       # Layout for draft posts
 ```
 
-If it interests you, you can read about how I set up [equal height image grids]({{ site.baseurl }}{% post_url 2018-04-13-equal-height-image-gallery %}), [playlist embedding]({{ site.baseurl }}{% post_url 2018-04-13-responsive-cross-platform-playlist %}) and [public drafts]({{ site.baseurl }}{ post_url 2018-04-13-jekyll-drafts-shareable-links %}).
+If it interests you, you can read about how I set up [equal height image grids]({{ site.baseurl }}{% post_url 2018-04-13-equal-height-image-gallery %}), [playlist embedding]({{ site.baseurl }}{% post_url 2018-04-13-responsive-cross-platform-playlist %}), [public drafts]({{ site.baseurl }}{% post_url 2018-04-13-jekyll-drafts-shareable-links %}) and [related posts]({{ site.baseurl }}{% link _drafts/2018-04-16-yet-another-solution-related-posts-jekyll.markdown %}).
 
 For customising CSS and fonts, I created a main CSS file `main.scss`, added my font settings in `fontconfig.scss` and my CSS customisations in `custom.scss`, at the following paths:
 
@@ -176,15 +176,17 @@ Then I added the following lines to `main.scss`:
 @import "custom";
 ```
 
+This ensures that your intended font definitions are inherited by Minimal Mistakes, and then your custom CSS overrides the definitions in the theme.
+
 ## Miscellaneous
 Additionally, I completed the following:
 1. Site verification with [Bing](https://www.bing.com/webmaster/help/how-to-verify-ownership-of-your-site-afcfefc6) and [Google](https://support.google.com/analytics/answer/1142414?hl=en).
-2. Set up [Google Analytics](https://analytics.google.com/)
-3. Site logo and [favicon](https://realfavicongenerator.net/)
-4. Open graph image and excerpt for every page and post. Check if your site and its pages preview correctly on [Twitter](https://cards-dev.twitter.com/validator) and [Facebook](https://developers.facebook.com/tools/debug/sharing/).
-5. Site search using [Algolia](https://www.algolia.com/). Get a free [community plan](https://www.algolia.com/users/sign_up/hacker) with Algolia.
-6. Hosting on [Netlify](https://www.netlify.com/). Read how to deploy from a [Github repository](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) and how to deploy [Algolia on Netlify](https://community.algolia.com/jekyll-algolia/netlify.html).
-7. Comment hosting using [Disqus](https://disqus.com/) and Playlist embedding using [Soundsgood](https://soundsgood.co/).
+2. Setting up [Google Analytics](https://analytics.google.com/)
+3. Creating site logo and [favicons](https://realfavicongenerator.net/)
+4. Adding Open graph image and excerpt for every page and post. Check if your site and its pages preview correctly on [Twitter](https://cards-dev.twitter.com/validator) and [Facebook](https://developers.facebook.com/tools/debug/sharing/).
+5. Adding site search using [Algolia](https://www.algolia.com/). Get a free [community plan](https://www.algolia.com/users/sign_up/hacker) with Algolia.
+6. Configuring hosting on [Netlify](https://www.netlify.com/). Read how to deploy from a [Github repository](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) and how to deploy [Algolia on Netlify](https://community.algolia.com/jekyll-algolia/netlify.html).
+7. Configuring comment hosting using [Disqus](https://disqus.com/) and playlist embedding using [Soundsgood](https://soundsgood.co/).
 
 So there you have it. A number of different steps to complete, but now I have my little corner. It's nice seeing you here. Let me know what you think!
 
