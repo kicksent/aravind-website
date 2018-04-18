@@ -5,8 +5,8 @@ date: 2018-04-16 14:05:00 +0530
 categories: tech
 header:
    teaser: "/assets/images/site-on-screens-640.jpg"
-excerpt: 
-description:
+excerpt: "I almost used WordPress but came across Jekyll. It is a nerdy way to make a website, using terminal commands and text editing, but it's fun! There were several steps to complete, ranging from installing software, choosing a theme, connecting to Github, designing the site layout, customising the theme, to miscellaneous tasks like site verification, creating logo and favicons, setting up analytics, basic SEO, site search, hosting, comment hosting and in my case, playlist hosting. But at the end, I have my own little corner. Read how I did it!"
+description: "I almost used WordPress but came across Jekyll. It is a nerdy way to make a website, using terminal commands and text editing, but it's fun! There were several steps to complete, ranging from installing software, choosing a theme, connecting to Github, designing the site layout, customising the theme, to miscellaneous tasks like site verification, creating logo and favicons, setting up analytics, basic SEO, site search, hosting, comment hosting and in my case, playlist hosting. But at the end, I have my own little corner. Read how I did it!"
 og_image: "/assets/images/site-on-screens-640.jpg" 
 ---
 {% include figure class="centered" url="site-on-screens.jpg" image_path="site-on-screens-640.jpg" alt="Website screenshots on mobile, laptop and tablet" caption="Website screenshots on mobile, laptop and tablet." %}
