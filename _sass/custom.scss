@@ -144,6 +144,8 @@ figure {
 
 .grid__item {
   margin-bottom: 2em;
+  height: calc(120px + 9.9em);
+  overflow: hidden;
 
   float: left;
   width: span(5 of 10);
@@ -221,15 +223,22 @@ figure {
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
+    min-height: 2.3em;
   }
 
   .archive__item-excerpt {
     display: block;
     font-size: $type-size-6;
+    overflow: hidden;
   }
 
   .archive__item-teaser {
-    max-height: 120px;
+    height: 120px;
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
   }
 
   a {
