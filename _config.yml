@@ -11,10 +11,20 @@ words_per_minute: 200
 theme: "minimal-mistakes-jekyll"
 
 # Comment hosting from Disqus
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "aravindiyer"
+
+# Comment hosting from Staticman
+repository: "iyeraravind/aravind-website"
 comments:
-  provider: "disqus"
-  disqus:
-    shortname: "aravindiyer"
+  provider: "staticman_v2"
+staticman:
+  branch: "master"
+reCaptcha:
+  siteKey: "6LfarVQUAAAAAOBAfH7NHqlBeI0sAx7jB7CcNp2u"
+  secret: "6LfarVQUAAAAAHkHMLwfiOPFVwhLlygWiJ67Ub1w"
 
 # Site search from Algolia
 search: true
