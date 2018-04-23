@@ -21,7 +21,7 @@ repository: "iyeraravind/aravind-website"
 comments:
   provider: "staticman_v2"
 staticman:
-  branch: "staticman-comments"
+  branch: "master"
 #reCaptcha:
 #  siteKey: "6LfarVQUAAAAAOBAfH7NHqlBeI0sAx7jB7CcNp2u"
 #  secret: "6LfarVQUAAAAAHkHMLwfiOPFVwhLlygWiJ67Ub1w"
