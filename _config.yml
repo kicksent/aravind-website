@@ -22,9 +22,9 @@ comments:
   provider: "staticman_v2"
 staticman:
   branch: "master"
-#reCaptcha:
-#  siteKey: "6LfarVQUAAAAAOBAfH7NHqlBeI0sAx7jB7CcNp2u"
-#  secret: "6LfarVQUAAAAAHkHMLwfiOPFVwhLlygWiJ67Ub1w"
+reCaptcha:
+  siteKey: "6LfarVQUAAAAAOBAfH7NHqlBeI0sAx7jB7CcNp2u"
+  secret: "kJLDgpPcAPTcXPRne5EVo43urCYOrzrIx6GGoQnHKfTsSQ0l91oH6Bv1HqjJ+lmej1KfvbSIfDZ4T1NgOUYAJ6CBJtftmyQRuC7jYZtlXa+IADCc6NMIAkaiJIh9tlGdfVXpTXa92jfx5v2vUmJ5C35ZY8rhrY7OiJMDRlEzB5U="
 
 # Site search from Algolia
 search: true
