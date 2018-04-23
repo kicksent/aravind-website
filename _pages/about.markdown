@@ -33,7 +33,7 @@ This site is built using the following tech:
 3. [Github](https://github.com/iyeraravind/aravind-website/) - for version control
 4. [Netlify](https://www.netlify.com/) - for web hosting and continuous deployment from Github
 5. [Soundsgood](https://soundsgood.co) - for embedding cross-platform music playlists
-6. [Disqus](https://disqus.com/) - for hosting comments
+6. [Staticman](https://staticman.net/) - for comments on a static site
 7. [MacVim](https://github.com/macvim-dev/macvim) - for file editing
 
 # Contact

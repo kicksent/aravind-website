@@ -186,7 +186,7 @@ Additionally, I completed the following:
 4. Adding Open graph image and excerpt for every page and post. Check if your site and its pages preview correctly on [Twitter](https://cards-dev.twitter.com/validator) and [Facebook](https://developers.facebook.com/tools/debug/sharing/).
 5. Adding site search using [Algolia](https://www.algolia.com/). Get a free [community plan](https://www.algolia.com/users/sign_up/hacker) with Algolia.
 6. Configuring hosting on [Netlify](https://www.netlify.com/). Read how to deploy from a [Github repository](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) and how to deploy [Algolia on Netlify](https://community.algolia.com/jekyll-algolia/netlify.html).
-7. Configuring comments using [Disqus](https://disqus.com/) and playlist embedding using [Soundsgood](https://soundsgood.co/).
+7. Configuring comments on a static site using [Staticman](https://staticman.net/) and playlist embedding using [Soundsgood](https://soundsgood.co/).
 
 So there you have it. A number of different steps to complete, but now I have my little corner. It's nice seeing you here. Let me know what you think!
 
