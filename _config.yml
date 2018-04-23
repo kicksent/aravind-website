@@ -17,7 +17,7 @@ theme: "minimal-mistakes-jekyll"
 #    shortname: "aravindiyer"
 
 # Comment hosting from Staticman
-repository: "iyeraravind/aravind-website"
+repository: "iyeraravind/test-staticman"
 comments:
   provider: "staticman_v2"
 staticman:
