@@ -43,6 +43,7 @@ algolia:
     - _drafts/*.markdown
 
 # SEO and Analytics
+google_site_verification : "o5P1GShvyxwaztgNGI9OXDlnWXa9MjkhbyIPUNfNsFI"
 bing_site_verification   : "EB2419D7F9B094E998F87C560BAE12C8"
 analytics:
   provider: "google-gtag"
