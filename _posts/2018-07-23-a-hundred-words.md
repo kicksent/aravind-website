@@ -3,7 +3,10 @@ title: A Hundred Words
 author: Aravind Iyer
 date: '2018-07-23T15:21:33+05:30'
 categories: self
-header: Header
+header:
+  teaser: /assets/images/pen-in-hand-640.jpg
+  image: /assets/images/pen-in-hand.jpg
+  alt: Wielding the pen
 excerpt: >-
   Writing a hundred words may come easier to some than to others. For me, it
   usually depends on my state of inspiration, for want of a better term. Right
