@@ -8,17 +8,21 @@ header:
 excerpt: >-
   Terming something as "The Final Test" is a daunting proposition. You can
   really never be sure if it will work a 100% as you intended and even if it did
-  whether you intent was a 100% correct. The results of the test may well prompt
-  you to think of a few more things which you should actually have tested for.
+  whether your intent was a 100% correct. The results of the test may well
+  prompt you to think of a few more things which you should actually have tested
+  for.
 description: >-
   Terming something as "The Final Test" is a daunting proposition. You can
   really never be sure if it will work a 100% as you intended and even if it did
-  whether you intent was a 100% correct. The results of the test may well prompt
-  you to think of a few more things which you should actually have tested for.
+  whether your intent was a 100% correct. The results of the test may well
+  prompt you to think of a few more things which you should actually have tested
+  for.
 og_image: /assets/images/self-draw-640.jpg
 ---
-Terming something as "The Final Test" is a daunting proposition. You can really never be sure if it will work a 100% as you intended and even if it did whether you intent was a 100% correct. The results of the test may well prompt you to think of a few more things which you should actually have tested for.
+Terming something as "The Final Test" is a daunting proposition. You can really never be sure if it will work a 100% as you intended and even if it did whether your intent was a 100% correct. The results of the test may well prompt you to think of a few more things which you should actually have tested for.
 
 But despite all those reservations - here goes the final test!
 
 Fingers crossed.
+
+The test seems to have been quite successful. But like I observed before, I now need to test for new posts in Music Naka and Only Human to be fully sure everything works.
