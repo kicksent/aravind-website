@@ -14,11 +14,56 @@ collections:
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    extension: "markdown"
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "string"}
+      - label: "Header Image"
+        name: "header"
+        widget: "object"
+        fields:
+          - {label: "Teaser Image", name: "teaser", widget: "image"}
+          - {label: "Detailed Image", name: "image", widget: "image", required: false}
+          - {label: "Alternative Text", name: "alt", widget: "text", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Featured Image", name: "og_image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "onlyhuman" # Used in routes, e.g., /admin/collections/blog
+    label: "Only Human" # Used in the UI
+    folder: "_only-human" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    extension: "markdown"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: "only-human"}
+      - label: "Header Image"
+        name: "header"
+        widget: "object"
+        fields:
+          - {label: "Teaser Image", name: "teaser", widget: "image"}
+          - {label: "Detailed Image", name: "image", widget: "image", required: false}
+          - {label: "Alternative Text", name: "alt", widget: "text", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Featured Image", name: "og_image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "musicnaka" # Used in routes, e.g., /admin/collections/blog
+    label: "Music Naka" # Used in the UI
+    folder: "_music-naka" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    extension: "markdown"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "hidden", default: "music-naka"}
       - label: "Header Image"
         name: "header"
         widget: "object"
