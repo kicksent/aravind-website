@@ -1,0 +1,31 @@
+backend:
+  name: github
+  repo: iyeraravind/aravind-website # Path to your Github repository
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# This line should *not* be indented
+media_folder: "assets/images" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "string"}
+      - label: "Header Image"
+        name: "header"
+        fields:
+          - {label: "Teaser Image", name: "teaser", widget: "image"}
+          - {label: "Detailed Image", name: "image", widget: "image"}
+          - {label: "Alternative Text", name: "alt", widget: "text"}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Featured Image", name: "og_image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
