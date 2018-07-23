@@ -21,6 +21,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "string"}
       - label: "Header Image"
         name: "header"
+        widget: "object"
         fields:
           - {label: "Teaser Image", name: "teaser", widget: "image"}
           - {label: "Detailed Image", name: "image", widget: "image"}
