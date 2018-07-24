@@ -98,7 +98,7 @@ collections:
 
 And voila!
 
-{% include figure class="centered" url="netlify-cms.jpg" image_path="netlify-cms-640.jpg" alt="Netlify CMS Interface" caption="It works!" %}
+{% include figure class="centered" url="netlify-cms-editing.jpg" image_path="netlify-cms-editing-640.jpg" alt="Netlify CMS Interface" caption="Editing this post in Netlify CMS!" %}
 
 So that's how I added Netlify CMS to my website. Hopefully this should inspire me to post more often, rather than goad me to do more development!
 
