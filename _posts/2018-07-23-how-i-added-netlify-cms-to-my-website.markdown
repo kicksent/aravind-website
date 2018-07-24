@@ -21,7 +21,7 @@ og_image: /assets/images/netlify-cms-640.jpg
 ---
 {% include figure class="centered" url="netlify-cms.jpg" image_path="netlify-cms-640.jpg" alt="Netlify CMS Interface" caption="Rocking the Netlify CMS interface on my Website!" %}
 
-I \[built this website]({{ site.baseurl }}{% post_url 2018-04-16-how-i-made-my-website-with-jekyll %}) using [Jekyll](https://jekyllrb.com/). Whenever I needed to write a new post, I would fire up my editor (these days, I am using [Atom](https://atom.io/)), and start editing a new [Markdown](https://daringfireball.net/projects/markdown/) document. I would save it as a \[public draft]({{ site.baseurl }}{% post_url 2018-04-13-jekyll-drafts-shareable-links %}) which I can review from anywhere via a browser, and then publish it when I felt it was good to go. This has worked reasonably well, except that from time to time I have felt the need for an editing environment which was less hard core!
+I [built this website]({{ site.baseurl }}{% post_url 2018-04-16-how-i-made-my-website-with-jekyll %}) using [Jekyll](https://jekyllrb.com/). Whenever I needed to write a new post, I would fire up my editor (these days, I am using [Atom](https://atom.io/)), and start editing a new [Markdown](https://daringfireball.net/projects/markdown/) document. I would save it as a [public draft]({{ site.baseurl }}{% post_url 2018-04-13-jekyll-drafts-shareable-links %}) which I can review from anywhere via a browser, and then publish it when I felt it was good to go. This has worked reasonably well, except that from time to time I have felt the need for an editing environment which was less hard core!
 
 Of course, I could just blog at [Medium](https://medium.com/@.aravindiyer) or use [WordPress](https://wordpress.org/), or use a [headless CMS](https://en.wikipedia.org/wiki/Headless_CMS) like [Contentful](https://www.contentful.com). Or I could add an in-browser CMS wrapper on top of my code and content repository, like [Netlify CMS](https://www.netlifycms.org/). According to Netlify:
 
@@ -68,7 +68,7 @@ publish_mode: editorial_workflow    # Add these lines without any indentation
 media_folder: "assets/images"       # Path where media files will be stored
 ```
 
-To configure my \[Blog]({{ site.baseurl }}{% link _pages/blog.markdown %}) collection, I first added the following to `config.yml`
+To configure my [Blog]({{ site.baseurl }}{% link _pages/blog.markdown %}) collection, I first added the following to `config.yml`
 
 ```yaml
 collections:
@@ -80,7 +80,7 @@ collections:
     extension: "markdown" # Add this is you use a file extension other than .md
 ```
 
-This instructs Netlify CMS to create/serve files ending in `.markdown` named as specified by the `slug` in the folder `_posts`. I added a similar configuration for my other two collections, _viz.,_ \[Music Naka]({{ site.baseurl }}{% link _pages/music-naka.markdown %}) and \[Only Human]({{ site.baseurl }}{% link _pages/only-human.markdown %}).
+This instructs Netlify CMS to create/serve files ending in `.markdown` named as specified by the `slug` in the folder `_posts`. I added a similar configuration for my other two collections, _viz.,_ [Music Naka]({{ site.baseurl }}{% link _pages/music-naka.markdown %}) and [Only Human]({{ site.baseurl }}{% link _pages/only-human.markdown %}).
 
 To enable entering front matter information correctly in new blog posts, I added the following lines to `config.yml`. Again, I also added similar lines to configure the front matter fields of my other collections.
 
