@@ -40,7 +40,7 @@ aravind-website
     └─ config.yml    # To specify Git and Jekyll parameters
 ```
 
-The `index.html` in `admin` runs the Netlify CMS application when a user loads the site URL appended with `/admin/` (e.g., `https://www.aravindiyer.com/admin/`). I just used the provided sample `index.html` which loads the necessary CSS and JavaScript to run Netlify CMS from a CDN.
+The `index.html` in the `admin` folder runs the Netlify CMS application, when a user loads the site URL appended with `/admin/` (e.g., my CMS application is located at `https://www.aravindiyer.com/admin/`). I just used the sample `index.html` provided by Netlify which loads the necessary CSS and JavaScript to run Netlify CMS from a CDN.
 
 ## Add GitHub as a backend
 
@@ -56,7 +56,7 @@ This instructs the Netlify CMS application to look for your repository at Github
 
 ## Configure your Workflow, Media and Collections
 
-With the backend set up, you need to configure your editing workflow, media assets and blog post collections. By default, a new entry created via Netlify CMS gets directly committed into the main branch of your repository. But if you use GitHub, then you have the option of turning on an [editorial workflow](https://www.netlifycms.org/docs/configuration-options/#publish-mode) which allows you
+With the backend set up, you need to configure your editing workflow, media assets and blog post collections. By default, a new entry created via Netlify CMS gets directly committed into the main branch of your repository. This may not be ideal if you want posts to live in a draft stage and go through some review before publication. But if you use GitHub, then you have the option of turning on an [editorial workflow](https://www.netlifycms.org/docs/configuration-options/#publish-mode) which allows you
 
 * to save/edit drafts (by a new branch and pull request, behind the scenes), and
 * to approve/publish them (by merging the pull request and deleting the branch).
@@ -106,11 +106,11 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"} # Mandatory body field for markdown files
 ```
 
-And voila!
+And voila! I am actually editing this post in Netlify CMS!
 
 {% include figure class="centered" url="netlify-cms-editing.jpg" image_path="netlify-cms-editing-640.jpg" alt="Netlify CMS Interface" caption="Editing this post in Netlify CMS!" %}
 
-So that's how I added Netlify CMS to my website. Hopefully this should inspire me to post more often, rather than goad me to do more development!
+So that's how I added Netlify CMS to my website. I hope you found it useful. I also hope this shiny new UI inspires me to post more often, rather than goad me to do more development!
 
 **Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more!
 {: .notice--success}
