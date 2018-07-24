@@ -35,6 +35,7 @@ This site is built using the following tech:
 5. [Soundsgood](https://soundsgood.co) - for embedding cross-platform music playlists
 6. [Staticman](https://staticman.net/) - for comments on a static site
 7. [Atom](https://atom.io/) - for file editing
+8. [Netlify CMS](https://www.netlifycms.org) - for in-browser editing
 
 # Contact
 If you have a question, comment or suggestion, please send me a message or write to me. The best way to reach me is to [email me](mailto:feedback@aravindiyer.com). I know it's old school, but I would really appreciate it if you would write in, if you had something to say.
