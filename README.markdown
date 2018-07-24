@@ -7,6 +7,7 @@ My website is built using the following tech:
 4. [Netlify](https://www.netlify.com/) - for web hosting and continuous deployment from this Github repository
 5. [Soundsgood](https://soundsgood.co) - for embedding cross-platform music playlists
 6. [Staticman](https://staticman.net/) - for comments on a static site
-7. [MacVim](https://github.com/macvim-dev/macvim) - for file editing
+7. [Atom](https://atom.io/) - for file editing
+8. [Netlify CMS](https://www.netlifycms.org) - for in-browser editing
 
 If you have a question, comment or suggestion, please send me a message or [write to me](mailto:feedback@aravindiyer.com).
