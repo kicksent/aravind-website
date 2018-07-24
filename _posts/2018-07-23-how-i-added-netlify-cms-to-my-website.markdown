@@ -6,11 +6,17 @@ categories: tech
 header:
   teaser: /assets/images/netlify-cms-640.jpg
 excerpt: >-
-  Netlify CMS is an open-source React app that acts as a wrapper for the Git
-  workflow. Read how I added it to my static website made with Jekyll.
+  I have been using Atom to edit markdown files to write new posts. But often, I
+  have felt like using a simpler and less hard core editor. Netlify CMS is an
+  open-source React app that wraps your Git workflow and provides a nice
+  in-browser editing environment. Read about how I added it to my static website
+  made with Jekyll.
 description: >-
-  Netlify CMS is an open-source React app that acts as a wrapper for the Git
-  workflow. Read how I added it to my static website made with Jekyll.
+  I have been using Atom to edit markdown files to write new posts. But often, I
+  have felt like using a simpler and less hard core editor. Netlify CMS is an
+  open-source React app that wraps your Git workflow and provides a nice
+  in-browser editing environment. Read about how I added it to my static website
+  made with Jekyll.
 og_image: /assets/images/netlify-cms-640.jpg
 ---
 {% include figure class="centered" url="netlify-cms.jpg" image_path="netlify-cms-640.jpg" alt="Netlify CMS Interface" caption="Rocking the Netlify CMS interface on my Website!" %}
