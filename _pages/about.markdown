@@ -34,10 +34,9 @@ This site is built using the following tech:
 4. [Netlify](https://www.netlify.com/) - for web hosting and continuous deployment from Github
 5. [Soundsgood](https://soundsgood.co) - for embedding cross-platform music playlists
 6. [Staticman](https://staticman.net/) - for comments on a static site
-7. [MacVim](https://github.com/macvim-dev/macvim) - for file editing
+7. [Atom](https://atom.io/) - for file editing
 
 # Contact
 If you have a question, comment or suggestion, please send me a message or write to me. The best way to reach me is to [email me](mailto:feedback@aravindiyer.com). I know it's old school, but I would really appreciate it if you would write in, if you had something to say.
 
 If you would like to follow me on social media, please use the links from the sidebar on the left or click the follow button [at the top](#) to display the links.
-
