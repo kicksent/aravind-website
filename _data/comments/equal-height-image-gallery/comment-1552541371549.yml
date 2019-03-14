@@ -1,0 +1,14 @@
+_id: 24a46b80-461a-11e9-8eaa-bf9870a70db5
+quote: >-
+  Hey Joe, glad you found my post helpful. You can check the [flexgallery
+  code](https://github.com/iyeraravind/aravind-website/blob/master/_includes/flexgallery)
+  and the frontmatter in the
+  [Markdown](https://github.com/iyeraravind/aravind-website/blob/master/_posts/2017-12-15-reluctant-photographer.markdown)
+  for the [photography
+  post](https://www.aravindiyer.com/self/reluctant-photographer/). The `aspect`
+  attribute needs to be supplied for each image, and the `end_row` attribute
+  needs to be defined for the last image in a row, in case you want a multi-row
+  gallery. Hope this help.
+name: Aravind
+hidden: ''
+date: '2019-03-14T05:29:31.549Z'
