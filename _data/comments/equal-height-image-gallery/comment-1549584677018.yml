@@ -1,0 +1,9 @@
+_id: 0d5bd020-2b36-11e9-b173-9fa633cd2374
+quote: >-
+  Thanks for sharing your flexgallery work! Would you elaborate on how you are
+  generating the markup in each post? I looked at this post in your repo and see
+  the "aspect" and "end_row" tags. Are those generated automatically somehow, or
+  you are adding those manually?
+name: Joe
+hidden: ''
+date: '2019-02-08T00:11:17.018Z'
